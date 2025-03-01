@@ -1,0 +1,4836 @@
+Genero,Edad,Entidad_Federativa,Vacunado,Asintomatico,Sintomas_Respiratorios,Sintomas_Cardiacos,Sintomas_Digestivos,Sintomas_Cerebrales,Sobrevivio,Resultado_prueba_COVID
+Femenino,95,Querétaro,1,1,0,0,0,0,1,0
+Masculino,20,Veracruz,1,1,0,0,0,0,1,0
+Masculino,59,Chihuahua,0,0,0,1,0,1,0,0
+Femenino,46,Jalisco,0,0,1,1,0,1,1,0
+Femenino,76,Nuevo León,0,0,0,1,0,0,0,0
+Masculino,75,Tamaulipas,0,0,1,1,0,0,1,0
+Masculino,91,Querétaro,1,0,1,0,1,1,0,0
+Femenino,29,San Luis Potosí,1,1,0,0,0,0,0,0
+Masculino,24,Ciudad de México,0,1,0,0,0,0,1,1
+Masculino,54,Puebla,0,1,0,0,0,0,1,0
+Femenino,46,Chiapas,0,1,0,0,0,0,1,1
+Femenino,58,Coahuila,1,1,0,0,0,0,0,0
+Masculino,7,Chihuahua,0,1,0,0,0,0,1,1
+Masculino,7,Hidalgo,1,1,0,0,0,0,1,1
+Femenino,29,Hidalgo,1,1,0,0,0,0,1,1
+Femenino,52,Baja California Sur,1,0,0,0,0,1,0,0
+Femenino,94,Quintana Roo,1,1,0,0,0,0,0,0
+Femenino,80,Tamaulipas,1,0,0,1,0,1,1,0
+Femenino,17,Ciudad de México,1,1,0,0,0,0,1,1
+Masculino,20,Tlaxcala,0,0,1,1,0,0,0,1
+Masculino,69,Coahuila,0,1,0,0,0,0,1,0
+Femenino,58,Oaxaca,0,0,0,0,1,1,0,0
+Masculino,47,Baja California Sur,0,1,0,0,0,0,1,1
+Femenino,20,Michoacán,1,0,1,0,1,1,1,0
+Femenino,84,Chihuahua,1,1,0,0,0,0,0,0
+Masculino,96,Querétaro,0,1,0,0,0,0,1,1
+Femenino,72,Querétaro,1,0,1,1,0,1,1,0
+Femenino,65,Nayarit,1,0,1,1,0,0,0,1
+Femenino,34,Nayarit,1,0,1,0,1,0,0,0
+Femenino,8,Hidalgo,0,1,0,0,0,0,1,0
+Masculino,79,Sonora,1,1,0,0,0,0,0,0
+Femenino,65,Querétaro,1,1,0,0,0,0,0,0
+Masculino,63,Oaxaca,0,0,1,0,0,0,0,0
+Femenino,12,Chiapas,1,0,0,0,0,0,1,0
+Femenino,82,Coahuila,0,0,0,1,0,0,1,0
+Masculino,16,Campeche,1,0,1,0,1,0,0,1
+Masculino,98,Colima,0,1,0,0,0,0,0,1
+Masculino,29,Aguascalientes,1,0,0,0,1,0,0,0
+Masculino,48,Oaxaca,0,1,0,0,0,0,1,1
+Masculino,83,Tlaxcala,0,1,0,0,0,0,1,0
+Femenino,32,Sinaloa,1,0,0,0,0,0,1,0
+Masculino,70,Chiapas,0,0,1,0,1,0,1,0
+Femenino,94,Quintana Roo,0,1,0,0,0,0,1,0
+Masculino,62,Coahuila,1,0,1,1,0,1,1,0
+Femenino,12,Quintana Roo,0,0,0,0,1,1,1,0
+Masculino,40,Baja California,1,1,0,0,0,0,1,1
+Femenino,19,Yucatán,0,1,0,0,0,0,1,1
+Femenino,41,Chiapas,0,0,1,1,1,1,1,0
+Masculino,5,Nuevo León,0,0,1,1,1,0,1,0
+Femenino,18,Guerrero,0,0,0,1,1,1,1,0
+Masculino,75,Morelos,1,1,0,0,0,0,1,1
+Masculino,91,Morelos,1,1,0,0,0,0,0,0
+Femenino,33,Durango,0,0,1,1,0,0,1,0
+Femenino,7,Sinaloa,1,0,0,0,0,1,1,0
+Masculino,8,Baja California Sur,1,0,0,0,1,0,1,0
+Masculino,8,Sinaloa,1,1,0,0,0,0,1,1
+Femenino,53,Guanajuato,0,0,0,0,1,0,1,1
+Femenino,50,Sonora,1,1,0,0,0,0,1,0
+Femenino,98,Ciudad de México,1,1,0,0,0,0,0,0
+Femenino,55,Chiapas,0,1,0,0,0,0,0,0
+Femenino,78,Ciudad de México,0,1,0,0,0,0,0,0
+Masculino,55,Sinaloa,0,1,0,0,0,0,1,1
+Femenino,18,Ciudad de México,1,0,1,1,0,1,1,0
+Masculino,48,Coahuila,1,0,1,0,0,0,1,0
+Masculino,15,Aguascalientes,0,1,0,0,0,0,1,0
+Masculino,30,Ciudad de México,1,0,1,0,1,1,1,0
+Femenino,33,Morelos,0,0,0,0,0,1,1,0
+Femenino,32,Jalisco,0,0,1,0,1,0,1,1
+Femenino,9,San Luis Potosí,1,1,0,0,0,0,1,0
+Masculino,52,Oaxaca,1,0,0,0,1,0,0,0
+Femenino,30,Baja California Sur,0,1,0,0,0,0,1,0
+Femenino,34,Jalisco,0,0,0,0,0,1,1,0
+Femenino,34,Veracruz,1,1,0,0,0,0,1,0
+Femenino,22,Baja California,1,0,1,0,0,0,1,0
+Masculino,62,Veracruz,1,0,0,0,0,1,0,0
+Femenino,15,Hidalgo,0,1,0,0,0,0,1,0
+Masculino,81,Nayarit,0,1,0,0,0,0,0,0
+Masculino,77,Nuevo León,1,0,0,1,0,0,1,0
+Femenino,64,Coahuila,1,1,0,0,0,0,0,0
+Femenino,45,Chihuahua,0,1,0,0,0,0,1,1
+Femenino,57,Jalisco,0,0,0,1,0,1,0,1
+Femenino,73,Baja California Sur,0,0,1,1,0,1,0,1
+Femenino,88,Guerrero,1,0,1,0,1,1,0,1
+Masculino,8,Hidalgo,0,1,0,0,0,0,1,1
+Masculino,37,Durango,0,0,0,0,1,0,1,1
+Femenino,61,Aguascalientes,1,1,0,0,0,0,1,0
+Masculino,51,Chiapas,1,1,0,0,0,0,0,1
+Masculino,40,Baja California,0,0,0,1,1,0,0,0
+Femenino,15,Nuevo León,1,0,1,1,1,0,0,0
+Masculino,33,Quintana Roo,1,1,0,0,0,0,1,0
+Masculino,74,Michoacán,1,1,0,0,0,0,1,1
+Femenino,51,Tabasco,1,1,0,0,0,0,1,0
+Femenino,20,Chiapas,0,0,1,1,1,1,0,0
+Femenino,3,Oaxaca,1,1,0,0,0,0,1,0
+Femenino,94,Colima,0,0,0,0,1,0,1,0
+Femenino,2,Durango,0,1,0,0,0,0,1,0
+Femenino,98,Ciudad de México,0,1,0,0,0,0,0,0
+Masculino,96,Nuevo León,1,0,1,1,1,0,1,0
+Masculino,82,Colima,0,1,0,0,0,0,0,1
+Masculino,59,Campeche,0,1,0,0,0,0,1,0
+Masculino,8,Hidalgo,0,0,1,0,1,1,1,0
+Femenino,93,Chiapas,1,0,1,0,0,1,1,1
+Masculino,60,Sonora,0,1,0,0,0,0,1,0
+Masculino,23,Jalisco,1,0,1,0,1,1,0,0
+Femenino,45,Quintana Roo,1,0,0,0,0,0,0,0
+Masculino,32,Jalisco,1,1,0,0,0,0,1,0
+Masculino,8,Chihuahua,0,1,0,0,0,0,1,0
+Masculino,11,Nayarit,0,0,0,0,0,1,1,1
+Femenino,3,Puebla,1,0,1,0,0,0,1,0
+Masculino,78,Guerrero,1,1,0,0,0,0,0,0
+Masculino,64,Nayarit,1,1,0,0,0,0,1,0
+Masculino,44,Tabasco,1,1,0,0,0,0,1,1
+Masculino,73,Oaxaca,0,0,1,0,0,0,1,0
+Femenino,70,Zacatecas,0,0,1,1,1,1,1,1
+Femenino,73,Sinaloa,1,0,0,0,1,1,0,0
+Masculino,86,Querétaro,1,0,1,0,0,0,1,1
+Femenino,25,Nayarit,0,0,0,1,1,0,1,1
+Femenino,77,Coahuila,0,0,0,0,0,0,1,0
+Masculino,47,Campeche,0,0,1,1,0,0,1,1
+Femenino,99,Ciudad de México,0,0,1,1,0,0,0,0
+Masculino,1,Chihuahua,0,0,1,0,0,1,1,0
+Masculino,22,Nuevo León,0,0,1,0,1,1,0,0
+Femenino,63,Sonora,0,0,1,1,0,1,0,0
+Femenino,93,Oaxaca,1,1,0,0,0,0,0,1
+Femenino,5,Quintana Roo,1,1,0,0,0,0,1,0
+Femenino,27,Hidalgo,1,0,0,0,1,1,1,0
+Masculino,68,Chihuahua,0,1,0,0,0,0,1,0
+Femenino,25,Guerrero,1,1,0,0,0,0,1,1
+Femenino,2,Nuevo León,0,1,0,0,0,0,1,0
+Masculino,61,Hidalgo,0,0,1,1,1,0,1,0
+Femenino,90,Zacatecas,0,0,1,1,0,0,1,1
+Femenino,55,Puebla,0,1,0,0,0,0,0,1
+Femenino,65,Chihuahua,1,0,1,1,0,1,1,0
+Masculino,24,Sinaloa,1,1,0,0,0,0,1,1
+Masculino,78,Tabasco,0,0,1,1,0,0,0,0
+Masculino,95,Morelos,1,0,0,1,0,1,0,1
+Femenino,42,Guerrero,0,1,0,0,0,0,1,1
+Femenino,78,Nuevo León,1,0,1,0,1,1,0,0
+Masculino,31,Baja California,0,1,0,0,0,0,1,1
+Masculino,42,Tabasco,0,0,1,0,1,1,0,1
+Masculino,98,Querétaro,0,1,0,0,0,0,0,0
+Femenino,67,Sonora,0,1,0,0,0,0,1,1
+Masculino,98,Tamaulipas,1,1,0,0,0,0,0,0
+Masculino,71,Querétaro,0,1,0,0,0,0,1,1
+Femenino,1,Yucatán,1,0,0,1,0,1,0,0
+Masculino,46,Querétaro,0,1,0,0,0,0,1,0
+Femenino,12,Coahuila,1,1,0,0,0,0,1,1
+Femenino,56,Aguascalientes,0,1,0,0,0,0,0,0
+Femenino,12,Chihuahua,0,0,0,1,0,0,1,1
+Masculino,14,Sonora,0,1,0,0,0,0,1,0
+Masculino,14,Veracruz,0,1,0,0,0,0,0,0
+Femenino,2,Nayarit,0,1,0,0,0,0,1,0
+Femenino,38,Tabasco,0,1,0,0,0,0,1,0
+Masculino,45,Oaxaca,1,1,0,0,0,0,1,0
+Masculino,18,Tlaxcala,1,0,1,0,1,0,1,0
+Femenino,20,Chihuahua,1,0,1,1,1,0,1,0
+Femenino,57,Chiapas,0,1,0,0,0,0,1,0
+Femenino,68,Querétaro,1,0,1,1,1,0,0,0
+Masculino,7,Tlaxcala,1,0,0,1,0,1,1,1
+Masculino,93,Quintana Roo,0,0,0,1,1,0,1,0
+Masculino,90,Nayarit,1,1,0,0,0,0,0,1
+Femenino,65,Ciudad de México,0,1,0,0,0,0,1,1
+Femenino,94,Nayarit,0,1,0,0,0,0,0,0
+Femenino,93,Oaxaca,0,0,0,1,0,0,1,0
+Femenino,97,Sinaloa,0,1,0,0,0,0,0,0
+Femenino,0,Chiapas,0,1,0,0,0,0,1,0
+Femenino,44,Durango,1,1,0,0,0,0,1,0
+Masculino,41,Nuevo León,0,1,0,0,0,0,1,1
+Femenino,69,Quintana Roo,1,0,0,0,0,1,1,0
+Femenino,84,Tlaxcala,0,0,1,0,0,1,0,0
+Masculino,69,Durango,0,1,0,0,0,0,1,0
+Masculino,54,Michoacán,1,1,0,0,0,0,0,0
+Masculino,75,Tamaulipas,1,1,0,0,0,0,0,1
+Femenino,39,Hidalgo,0,0,1,0,0,0,1,0
+Masculino,61,Zacatecas,0,0,1,1,0,0,0,1
+Femenino,49,Campeche,0,0,1,1,1,0,0,0
+Femenino,54,Veracruz,1,0,1,0,0,0,1,1
+Masculino,56,Tabasco,0,0,1,1,0,0,1,0
+Masculino,66,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,94,Tlaxcala,1,1,0,0,0,0,1,0
+Femenino,8,Tlaxcala,1,1,0,0,0,0,0,1
+Femenino,2,Tabasco,0,1,0,0,0,0,1,0
+Femenino,83,Hidalgo,1,1,0,0,0,0,0,1
+Femenino,92,Chihuahua,1,0,1,1,1,0,1,0
+Femenino,44,Chihuahua,1,0,0,1,1,1,1,1
+Masculino,10,Chiapas,1,1,0,0,0,0,1,1
+Femenino,76,Yucatán,1,0,1,1,1,1,1,1
+Masculino,72,Jalisco,0,1,0,0,0,0,1,0
+Masculino,13,Coahuila,0,0,0,1,1,1,0,1
+Femenino,89,Tamaulipas,0,0,0,0,1,0,0,0
+Femenino,9,Colima,0,1,0,0,0,0,1,0
+Femenino,46,Veracruz,1,1,0,0,0,0,1,0
+Femenino,71,Sonora,1,0,0,0,1,0,0,1
+Masculino,40,Querétaro,1,0,1,0,0,1,0,1
+Femenino,62,Veracruz,1,1,0,0,0,0,1,0
+Femenino,2,Coahuila,1,0,0,0,1,1,0,0
+Masculino,6,Guerrero,1,1,0,0,0,0,1,1
+Femenino,36,Michoacán,0,0,1,0,0,1,1,0
+Masculino,71,Veracruz,0,1,0,0,0,0,1,0
+Masculino,82,Chiapas,1,1,0,0,0,0,0,0
+Femenino,21,Querétaro,0,1,0,0,0,0,1,0
+Masculino,63,Morelos,1,1,0,0,0,0,1,1
+Masculino,18,Zacatecas,1,1,0,0,0,0,1,0
+Masculino,11,Guanajuato,0,0,0,0,1,0,1,1
+Masculino,82,Querétaro,0,0,0,1,0,1,1,0
+Masculino,53,Guanajuato,1,1,0,0,0,0,1,0
+Femenino,38,Puebla,0,1,0,0,0,0,1,0
+Masculino,92,Colima,1,0,0,1,0,1,0,1
+Femenino,49,Quintana Roo,1,1,0,0,0,0,1,0
+Femenino,25,Yucatán,0,1,0,0,0,0,1,1
+Femenino,17,Michoacán,1,0,1,0,0,0,1,0
+Femenino,45,Baja California,1,1,0,0,0,0,1,1
+Masculino,18,Chiapas,1,1,0,0,0,0,1,1
+Masculino,71,Guerrero,0,1,0,0,0,0,0,0
+Femenino,77,Guerrero,0,0,0,1,0,1,0,1
+Femenino,59,Chiapas,1,0,0,0,1,1,0,1
+Femenino,25,Tamaulipas,0,1,0,0,0,0,1,0
+Masculino,48,Ciudad de México,1,0,0,1,1,0,0,0
+Femenino,23,Zacatecas,0,0,1,1,0,1,1,0
+Femenino,47,Tabasco,0,0,0,0,1,0,1,1
+Femenino,66,Hidalgo,1,0,0,0,1,1,1,0
+Masculino,86,Aguascalientes,0,0,1,1,0,0,1,1
+Masculino,27,Morelos,1,1,0,0,0,0,1,0
+Masculino,41,Veracruz,0,0,1,0,0,1,1,0
+Masculino,46,Morelos,0,0,0,0,1,1,0,1
+Masculino,36,Durango,1,1,0,0,0,0,1,1
+Femenino,69,Chihuahua,1,0,1,1,0,1,1,0
+Masculino,57,Colima,1,0,1,0,0,1,1,1
+Femenino,10,Morelos,0,0,1,1,0,0,1,0
+Femenino,99,Tamaulipas,0,1,0,0,0,0,0,0
+Masculino,23,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,66,Querétaro,1,0,1,1,1,1,1,0
+Masculino,8,Veracruz,1,1,0,0,0,0,1,0
+Femenino,18,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,78,Chiapas,0,0,1,1,1,1,1,0
+Masculino,57,Veracruz,1,1,0,0,0,0,1,0
+Femenino,98,Durango,1,1,0,0,0,0,0,0
+Masculino,3,Tamaulipas,1,1,0,0,0,0,1,1
+Masculino,93,Baja California,1,1,0,0,0,0,1,1
+Femenino,48,Jalisco,1,0,0,1,1,1,0,0
+Femenino,64,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,82,Ciudad de México,0,1,0,0,0,0,1,0
+Femenino,14,Aguascalientes,1,0,0,0,1,1,1,0
+Femenino,55,Hidalgo,1,1,0,0,0,0,1,0
+Femenino,99,Nuevo León,0,1,0,0,0,0,1,1
+Masculino,78,Durango,1,1,0,0,0,0,0,1
+Femenino,69,Guanajuato,0,0,0,1,1,0,1,0
+Masculino,75,Coahuila,1,0,0,1,1,1,1,0
+Femenino,82,Durango,1,0,0,1,0,0,1,1
+Femenino,68,Colima,0,1,0,0,0,0,1,0
+Femenino,51,Ciudad de México,0,1,0,0,0,0,0,0
+Femenino,45,Zacatecas,1,1,0,0,0,0,0,0
+Masculino,70,Durango,0,1,0,0,0,0,1,1
+Masculino,58,Nuevo León,1,1,0,0,0,0,1,0
+Femenino,99,Veracruz,0,1,0,0,0,0,0,0
+Femenino,59,Tamaulipas,0,0,0,1,1,0,0,1
+Masculino,34,Durango,0,1,0,0,0,0,1,0
+Masculino,89,San Luis Potosí,1,1,0,0,0,0,1,1
+Masculino,97,Chihuahua,0,0,0,0,1,0,1,1
+Masculino,27,Chihuahua,1,0,0,1,1,1,0,1
+Femenino,68,Ciudad de México,1,1,0,0,0,0,1,1
+Masculino,94,Durango,0,1,0,0,0,0,0,0
+Masculino,41,Ciudad de México,1,0,0,1,1,0,1,0
+Femenino,46,Coahuila,1,0,0,1,0,0,1,0
+Masculino,60,Michoacán,0,0,1,0,1,0,1,1
+Masculino,62,Campeche,0,0,0,0,1,0,1,0
+Femenino,88,Colima,1,1,0,0,0,0,1,0
+Femenino,95,Yucatán,1,0,1,1,0,1,0,0
+Masculino,70,Querétaro,1,1,0,0,0,0,0,1
+Femenino,58,Jalisco,1,1,0,0,0,0,1,0
+Femenino,54,San Luis Potosí,1,0,0,0,0,1,0,0
+Femenino,84,Nuevo León,0,0,0,0,0,1,1,0
+Femenino,5,Tabasco,1,1,0,0,0,0,1,0
+Femenino,54,Sinaloa,0,0,0,0,0,1,1,0
+Femenino,84,Chihuahua,0,1,0,0,0,0,0,0
+Masculino,83,Michoacán,0,0,1,0,1,1,0,0
+Masculino,92,Guerrero,1,1,0,0,0,0,0,1
+Masculino,42,Yucatán,1,0,1,0,1,1,0,0
+Femenino,44,Sonora,1,1,0,0,0,0,1,0
+Masculino,53,Durango,0,1,0,0,0,0,1,0
+Femenino,13,Sonora,0,1,0,0,0,0,1,0
+Masculino,26,Yucatán,1,0,1,1,0,1,1,1
+Femenino,35,Tabasco,1,0,0,1,0,1,1,0
+Masculino,50,Guerrero,1,1,0,0,0,0,1,1
+Masculino,18,Sinaloa,0,0,1,0,0,1,0,1
+Masculino,96,Sonora,0,0,0,0,0,1,0,1
+Masculino,27,Chiapas,1,1,0,0,0,0,1,1
+Femenino,28,Morelos,0,0,0,0,0,1,1,0
+Masculino,43,Guanajuato,0,0,1,0,0,1,1,0
+Masculino,21,Baja California,0,1,0,0,0,0,1,0
+Masculino,94,Baja California Sur,1,1,0,0,0,0,1,0
+Femenino,79,Guanajuato,1,0,0,1,0,1,0,0
+Femenino,85,Nuevo León,1,1,0,0,0,0,0,0
+Masculino,14,Sinaloa,0,0,1,0,1,0,1,0
+Femenino,61,Querétaro,0,1,0,0,0,0,1,0
+Masculino,60,Veracruz,1,0,0,0,0,1,1,0
+Masculino,16,Durango,1,0,1,0,0,0,0,0
+Femenino,20,Baja California,0,1,0,0,0,0,1,0
+Femenino,15,Guerrero,0,0,0,0,0,1,1,0
+Masculino,62,Chihuahua,1,0,0,1,0,1,1,1
+Masculino,33,Baja California Sur,0,0,0,1,0,1,1,0
+Masculino,68,Tlaxcala,1,1,0,0,0,0,1,0
+Femenino,52,Chiapas,0,1,0,0,0,0,1,1
+Masculino,50,Tabasco,0,0,1,0,0,0,0,0
+Femenino,61,Nayarit,0,1,0,0,0,0,1,0
+Masculino,30,Zacatecas,1,0,1,0,0,0,1,0
+Masculino,0,Baja California,1,0,0,0,1,0,1,1
+Femenino,44,Tamaulipas,1,0,1,0,0,0,1,0
+Femenino,16,Campeche,1,1,0,0,0,0,1,0
+Femenino,79,Quintana Roo,0,0,1,0,0,0,0,0
+Masculino,100,Yucatán,0,0,0,0,0,0,0,0
+Femenino,89,Baja California Sur,1,0,1,1,1,1,0,0
+Masculino,78,Sinaloa,0,0,0,1,1,1,1,0
+Masculino,30,Ciudad de México,1,0,0,1,1,0,1,0
+Femenino,42,Tamaulipas,0,1,0,0,0,0,1,0
+Masculino,90,Durango,1,0,1,1,1,1,0,1
+Masculino,36,Guanajuato,0,1,0,0,0,0,1,0
+Masculino,42,Morelos,1,0,0,0,0,1,1,1
+Femenino,24,Guerrero,1,1,0,0,0,0,1,1
+Masculino,86,Jalisco,0,0,0,1,1,1,0,0
+Femenino,43,Guerrero,1,0,0,1,1,0,1,0
+Masculino,35,Hidalgo,1,0,1,0,0,0,0,1
+Masculino,83,Chiapas,0,0,1,0,0,1,1,1
+Masculino,56,Puebla,0,1,0,0,0,0,0,0
+Femenino,54,Campeche,1,1,0,0,0,0,0,1
+Masculino,74,Durango,1,0,1,1,0,1,0,0
+Masculino,93,Veracruz,0,0,0,0,0,0,1,0
+Masculino,87,Puebla,0,0,1,0,0,1,1,0
+Masculino,5,Hidalgo,0,0,0,1,0,1,1,0
+Femenino,57,Durango,0,1,0,0,0,0,0,0
+Femenino,20,Campeche,0,1,0,0,0,0,1,1
+Femenino,59,San Luis Potosí,1,0,0,1,0,1,0,0
+Femenino,35,Querétaro,0,1,0,0,0,0,1,0
+Masculino,27,Tabasco,0,0,0,0,1,0,1,1
+Masculino,91,Chiapas,1,1,0,0,0,0,1,0
+Masculino,54,Chihuahua,1,0,0,0,0,1,1,0
+Masculino,68,Hidalgo,0,0,0,0,1,0,0,0
+Masculino,14,Coahuila,0,0,1,0,0,1,0,0
+Femenino,72,San Luis Potosí,1,0,0,0,0,1,1,0
+Masculino,15,Coahuila,0,1,0,0,0,0,0,0
+Masculino,91,Chiapas,1,1,0,0,0,0,1,0
+Femenino,50,Baja California,1,1,0,0,0,0,0,1
+Masculino,44,Durango,1,1,0,0,0,0,1,0
+Femenino,36,San Luis Potosí,1,0,1,1,1,0,1,1
+Masculino,83,Guerrero,1,0,1,1,0,1,1,1
+Femenino,48,Yucatán,0,1,0,0,0,0,1,0
+Masculino,94,Morelos,1,1,0,0,0,0,0,0
+Masculino,45,Chiapas,1,1,0,0,0,0,1,0
+Femenino,39,Sonora,1,1,0,0,0,0,0,0
+Femenino,4,Nayarit,1,0,0,1,1,1,1,1
+Masculino,51,Querétaro,0,1,0,0,0,0,1,0
+Femenino,38,Nuevo León,1,1,0,0,0,0,1,1
+Masculino,74,Baja California Sur,0,1,0,0,0,0,1,0
+Femenino,61,Chiapas,1,1,0,0,0,0,1,1
+Masculino,29,Zacatecas,1,0,0,0,1,0,1,1
+Masculino,77,Hidalgo,1,0,1,1,0,1,0,0
+Femenino,56,Colima,0,1,0,0,0,0,0,0
+Masculino,56,Morelos,0,1,0,0,0,0,1,0
+Femenino,9,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,11,Morelos,1,0,1,0,1,1,1,0
+Femenino,71,Zacatecas,1,1,0,0,0,0,1,1
+Masculino,17,Oaxaca,0,1,0,0,0,0,1,0
+Masculino,43,Nayarit,1,0,1,1,0,0,1,1
+Masculino,6,Yucatán,0,1,0,0,0,0,1,0
+Femenino,53,Ciudad de México,1,0,0,1,0,0,1,1
+Masculino,69,Baja California,1,0,0,0,0,0,1,0
+Masculino,59,Campeche,0,0,0,0,1,0,1,0
+Masculino,55,Aguascalientes,1,1,0,0,0,0,1,1
+Femenino,58,Nayarit,1,1,0,0,0,0,0,0
+Femenino,58,Yucatán,0,1,0,0,0,0,1,1
+Femenino,65,Nayarit,0,0,1,0,1,0,1,1
+Femenino,95,Zacatecas,0,1,0,0,0,0,0,1
+Femenino,91,Guerrero,1,1,0,0,0,0,0,1
+Masculino,23,Yucatán,1,0,0,0,0,1,1,0
+Masculino,0,Veracruz,1,1,0,0,0,0,1,0
+Femenino,75,Tabasco,1,0,1,0,0,0,1,0
+Masculino,1,Baja California,1,1,0,0,0,0,1,1
+Masculino,65,Tamaulipas,1,1,0,0,0,0,0,1
+Femenino,11,Nuevo León,0,1,0,0,0,0,1,1
+Masculino,19,Aguascalientes,1,0,1,0,1,0,1,1
+Masculino,15,Zacatecas,1,0,1,0,0,0,0,0
+Femenino,9,Campeche,1,0,1,1,1,1,1,0
+Masculino,31,San Luis Potosí,1,1,0,0,0,0,1,0
+Femenino,70,Chiapas,0,0,0,0,0,0,0,1
+Masculino,17,Tamaulipas,1,0,1,0,1,1,1,0
+Masculino,66,Tlaxcala,1,1,0,0,0,0,0,0
+Femenino,95,Baja California,1,0,0,0,0,1,0,0
+Femenino,62,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,11,Puebla,1,1,0,0,0,0,1,0
+Femenino,32,Tlaxcala,1,0,0,0,0,1,1,1
+Masculino,12,Chiapas,1,0,0,1,1,1,1,1
+Masculino,43,Veracruz,1,0,0,1,0,0,1,0
+Masculino,26,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,63,Jalisco,0,0,0,0,1,1,1,0
+Masculino,58,Oaxaca,1,1,0,0,0,0,1,0
+Masculino,46,Baja California,0,0,0,1,0,1,0,1
+Masculino,89,Oaxaca,1,0,1,0,1,0,1,1
+Femenino,44,Guerrero,0,1,0,0,0,0,1,0
+Masculino,32,Yucatán,1,0,1,1,1,0,1,0
+Masculino,29,Baja California Sur,0,1,0,0,0,0,1,0
+Femenino,86,Tabasco,0,0,0,1,1,0,0,0
+Femenino,55,Baja California,1,1,0,0,0,0,1,1
+Femenino,52,Sinaloa,1,1,0,0,0,0,1,0
+Masculino,61,Tamaulipas,1,0,1,0,0,0,1,0
+Femenino,12,Hidalgo,1,1,0,0,0,0,1,0
+Masculino,99,Veracruz,1,1,0,0,0,0,1,0
+Masculino,99,Chiapas,0,1,0,0,0,0,0,0
+Femenino,62,Nuevo León,0,0,1,0,1,0,0,0
+Masculino,40,Zacatecas,0,0,0,0,1,1,1,0
+Masculino,56,Tlaxcala,1,0,0,0,1,1,1,1
+Masculino,6,Nuevo León,1,0,1,1,1,1,1,0
+Masculino,43,Chihuahua,0,0,1,1,0,1,1,0
+Femenino,53,Zacatecas,0,0,0,0,1,0,1,0
+Masculino,28,Nayarit,1,0,1,1,0,0,0,0
+Femenino,5,Baja California,1,0,1,0,0,1,1,0
+Femenino,77,San Luis Potosí,0,0,0,1,0,1,0,0
+Femenino,83,Tlaxcala,1,1,0,0,0,0,0,0
+Masculino,1,Chihuahua,0,1,0,0,0,0,1,1
+Masculino,71,Baja California Sur,0,1,0,0,0,0,1,0
+Masculino,66,Baja California,0,1,0,0,0,0,1,0
+Femenino,58,Coahuila,1,1,0,0,0,0,1,0
+Masculino,95,Nuevo León,0,1,0,0,0,0,1,1
+Femenino,64,Michoacán,1,1,0,0,0,0,0,0
+Femenino,85,Tamaulipas,1,0,1,1,1,1,0,0
+Masculino,81,Yucatán,1,1,0,0,0,0,1,0
+Femenino,28,Campeche,1,0,1,0,1,0,1,1
+Femenino,45,Campeche,0,1,0,0,0,0,0,0
+Masculino,39,Nayarit,1,1,0,0,0,0,1,0
+Masculino,34,Chihuahua,0,0,0,0,0,1,1,0
+Masculino,30,Oaxaca,0,1,0,0,0,0,1,1
+Femenino,15,Nayarit,1,0,0,1,0,0,1,0
+Femenino,96,Baja California,0,1,0,0,0,0,1,0
+Masculino,83,Quintana Roo,1,1,0,0,0,0,0,0
+Masculino,33,Durango,1,0,1,1,1,1,1,0
+Masculino,10,Yucatán,1,0,1,1,1,1,1,1
+Masculino,80,Sonora,0,0,0,0,1,0,0,1
+Femenino,24,Hidalgo,1,0,0,0,1,0,1,1
+Femenino,28,Zacatecas,0,1,0,0,0,0,1,1
+Femenino,13,Michoacán,0,1,0,0,0,0,1,1
+Femenino,54,Chihuahua,0,0,0,0,1,1,0,0
+Masculino,68,Oaxaca,0,0,1,0,0,1,1,0
+Masculino,29,Baja California,1,0,0,1,1,0,1,0
+Femenino,81,Campeche,0,1,0,0,0,0,1,0
+Femenino,45,Tabasco,0,1,0,0,0,0,0,0
+Femenino,4,Ciudad de México,1,0,0,1,0,0,1,0
+Masculino,20,Campeche,1,0,1,0,1,0,1,0
+Femenino,97,Sinaloa,0,1,0,0,0,0,1,1
+Femenino,94,Sonora,0,1,0,0,0,0,0,1
+Masculino,42,Baja California Sur,1,1,0,0,0,0,0,0
+Femenino,80,Veracruz,1,0,0,0,0,0,1,0
+Femenino,66,Querétaro,0,0,1,0,1,0,1,1
+Femenino,5,Sinaloa,1,0,0,0,0,0,1,1
+Femenino,37,San Luis Potosí,0,1,0,0,0,0,1,0
+Masculino,11,Jalisco,1,0,1,1,0,0,1,0
+Masculino,5,Tlaxcala,1,0,0,1,0,0,1,1
+Masculino,63,Zacatecas,0,0,0,0,1,0,1,0
+Femenino,10,Jalisco,0,1,0,0,0,0,1,1
+Femenino,6,Chihuahua,0,0,0,1,1,1,0,0
+Masculino,2,Tabasco,1,1,0,0,0,0,0,1
+Femenino,98,Nayarit,0,0,1,1,0,0,0,0
+Masculino,59,Puebla,0,1,0,0,0,0,0,1
+Masculino,47,Nuevo León,1,1,0,0,0,0,0,0
+Femenino,23,Aguascalientes,0,0,1,1,1,0,1,0
+Femenino,18,Querétaro,0,0,1,1,1,1,0,1
+Masculino,47,San Luis Potosí,1,0,0,0,0,1,0,0
+Femenino,84,Baja California,1,0,0,0,1,0,0,0
+Femenino,46,Querétaro,0,0,0,0,0,0,0,0
+Masculino,53,Tlaxcala,1,0,1,0,1,0,1,0
+Masculino,16,Puebla,1,1,0,0,0,0,1,0
+Femenino,94,San Luis Potosí,0,0,0,1,0,0,1,0
+Masculino,69,Campeche,0,0,0,0,0,0,1,0
+Femenino,66,Tabasco,0,1,0,0,0,0,1,0
+Masculino,60,Coahuila,0,0,0,1,0,0,0,0
+Masculino,34,Ciudad de México,1,0,1,0,1,1,1,0
+Femenino,49,Coahuila,0,1,0,0,0,0,1,1
+Masculino,79,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,80,Tamaulipas,1,1,0,0,0,0,1,1
+Masculino,82,Veracruz,0,0,1,1,1,1,0,1
+Femenino,88,Yucatán,1,0,1,1,0,0,0,0
+Femenino,9,Chiapas,1,1,0,0,0,0,1,1
+Masculino,69,Oaxaca,1,0,1,0,0,0,1,0
+Femenino,77,Tabasco,1,0,0,1,1,1,0,0
+Femenino,7,Nuevo León,0,1,0,0,0,0,1,1
+Femenino,29,Aguascalientes,1,1,0,0,0,0,0,1
+Femenino,48,Yucatán,1,1,0,0,0,0,1,1
+Femenino,72,Guanajuato,1,0,0,0,1,1,1,1
+Femenino,94,Jalisco,0,1,0,0,0,0,0,0
+Femenino,58,Quintana Roo,0,1,0,0,0,0,0,0
+Femenino,23,Durango,1,0,1,0,1,0,1,0
+Femenino,86,Guerrero,0,0,1,1,1,1,0,0
+Masculino,36,Durango,1,1,0,0,0,0,1,0
+Femenino,46,Michoacán,0,1,0,0,0,0,1,0
+Masculino,45,Aguascalientes,0,0,0,1,0,0,1,0
+Femenino,41,Zacatecas,0,1,0,0,0,0,1,1
+Masculino,19,Hidalgo,0,0,1,1,0,1,1,1
+Masculino,16,Hidalgo,1,1,0,0,0,0,1,0
+Masculino,19,Querétaro,0,0,1,1,0,0,1,0
+Masculino,81,Nuevo León,0,1,0,0,0,0,0,1
+Masculino,95,Tamaulipas,1,0,0,0,0,1,0,1
+Femenino,43,Tlaxcala,1,1,0,0,0,0,1,0
+Masculino,97,Nayarit,1,0,0,0,1,0,1,1
+Masculino,66,Coahuila,0,1,0,0,0,0,1,0
+Femenino,27,Durango,0,0,0,0,0,0,1,0
+Masculino,57,Sinaloa,0,0,0,1,1,0,0,0
+Femenino,21,Jalisco,1,1,0,0,0,0,1,0
+Masculino,65,Ciudad de México,1,1,0,0,0,0,1,0
+Masculino,74,Oaxaca,1,1,0,0,0,0,0,1
+Masculino,96,Morelos,1,0,0,0,0,0,1,0
+Masculino,41,Hidalgo,0,0,1,1,1,1,1,0
+Femenino,40,Campeche,0,0,0,1,1,1,1,1
+Masculino,96,Jalisco,1,1,0,0,0,0,0,0
+Femenino,73,Puebla,1,1,0,0,0,0,1,0
+Masculino,47,Sinaloa,0,0,1,0,0,1,0,0
+Femenino,45,Quintana Roo,1,1,0,0,0,0,1,0
+Masculino,68,Ciudad de México,1,0,0,0,1,1,1,1
+Femenino,83,Chiapas,0,1,0,0,0,0,0,1
+Masculino,45,Guanajuato,1,0,0,1,1,0,0,0
+Femenino,17,Tabasco,1,0,0,1,0,1,1,0
+Femenino,24,Jalisco,1,0,1,0,0,1,1,0
+Masculino,19,Baja California Sur,0,1,0,0,0,0,0,1
+Femenino,25,Michoacán,1,1,0,0,0,0,1,0
+Femenino,33,Yucatán,1,0,0,0,1,1,1,1
+Masculino,28,Coahuila,0,1,0,0,0,0,1,0
+Femenino,17,Colima,1,0,0,1,1,1,0,1
+Femenino,8,Chihuahua,0,0,0,1,0,0,1,1
+Masculino,79,Tlaxcala,0,0,0,1,1,1,0,1
+Femenino,30,Hidalgo,0,1,0,0,0,0,1,1
+Masculino,51,Hidalgo,1,0,0,1,1,0,1,0
+Masculino,62,Durango,1,0,0,0,0,1,0,1
+Femenino,27,Sonora,1,1,0,0,0,0,1,1
+Femenino,3,Sinaloa,0,1,0,0,0,0,1,0
+Masculino,27,Coahuila,0,0,0,0,1,0,1,0
+Femenino,83,Zacatecas,1,1,0,0,0,0,0,0
+Femenino,8,Michoacán,0,0,1,0,0,1,1,0
+Masculino,23,Morelos,0,1,0,0,0,0,1,0
+Femenino,97,Michoacán,0,1,0,0,0,0,0,0
+Femenino,79,Nayarit,0,1,0,0,0,0,1,1
+Femenino,31,Coahuila,0,0,1,0,1,0,1,1
+Masculino,92,Zacatecas,0,0,0,1,1,1,0,0
+Masculino,97,Michoacán,1,1,0,0,0,0,0,0
+Masculino,67,Campeche,1,1,0,0,0,0,1,0
+Femenino,60,Michoacán,0,0,0,0,1,0,1,0
+Femenino,0,Michoacán,0,1,0,0,0,0,1,0
+Masculino,60,Ciudad de México,0,0,1,1,0,1,0,0
+Masculino,75,San Luis Potosí,0,0,0,1,0,1,0,0
+Femenino,34,Guanajuato,0,1,0,0,0,0,1,0
+Masculino,31,Tabasco,0,1,0,0,0,0,1,0
+Femenino,97,Guanajuato,0,1,0,0,0,0,1,1
+Masculino,38,Oaxaca,1,1,0,0,0,0,0,0
+Masculino,19,Quintana Roo,1,0,1,1,1,0,1,0
+Masculino,33,Ciudad de México,1,0,1,1,1,1,1,1
+Femenino,54,Durango,0,0,0,0,1,1,1,0
+Masculino,14,Durango,1,1,0,0,0,0,1,0
+Masculino,17,Baja California Sur,1,1,0,0,0,0,1,0
+Femenino,66,Zacatecas,0,1,0,0,0,0,1,0
+Femenino,61,Guerrero,1,1,0,0,0,0,1,0
+Masculino,99,Durango,1,0,0,1,1,0,1,0
+Femenino,61,Sinaloa,1,0,0,1,1,1,0,0
+Femenino,61,Oaxaca,0,0,1,1,1,0,1,0
+Femenino,78,Hidalgo,1,1,0,0,0,0,0,1
+Masculino,92,Yucatán,0,0,1,1,0,1,0,1
+Femenino,96,Chihuahua,0,1,0,0,0,0,0,0
+Femenino,68,Sonora,1,0,1,0,1,1,1,0
+Masculino,0,Yucatán,1,0,0,0,1,1,1,1
+Masculino,95,Chiapas,1,0,1,1,0,0,1,0
+Femenino,66,Tabasco,1,0,1,0,0,1,1,0
+Masculino,77,Guanajuato,0,1,0,0,0,0,0,0
+Femenino,19,Coahuila,1,0,0,0,0,0,1,0
+Femenino,54,Sonora,0,1,0,0,0,0,0,0
+Femenino,17,Querétaro,1,0,0,0,0,0,1,1
+Masculino,1,Nuevo León,0,0,0,1,0,0,1,0
+Masculino,98,Jalisco,1,1,0,0,0,0,0,0
+Femenino,36,Baja California,1,1,0,0,0,0,1,0
+Masculino,87,Yucatán,1,1,0,0,0,0,0,0
+Femenino,82,Querétaro,1,1,0,0,0,0,0,1
+Masculino,23,Tamaulipas,1,0,1,0,1,0,1,1
+Masculino,33,Michoacán,0,0,0,1,1,1,1,0
+Femenino,92,Jalisco,1,1,0,0,0,0,0,0
+Masculino,67,Tlaxcala,1,0,1,1,0,1,0,1
+Femenino,98,Yucatán,0,1,0,0,0,0,0,0
+Femenino,97,Quintana Roo,0,0,1,1,0,0,1,0
+Femenino,1,Zacatecas,1,0,1,1,0,1,0,0
+Masculino,85,Chihuahua,0,0,0,0,1,0,0,0
+Femenino,23,Tamaulipas,0,0,0,0,0,0,1,1
+Masculino,94,Zacatecas,0,0,0,0,0,0,0,1
+Masculino,83,Querétaro,1,0,0,0,0,0,0,1
+Masculino,1,Zacatecas,0,1,0,0,0,0,1,0
+Femenino,66,Veracruz,0,1,0,0,0,0,1,1
+Masculino,4,Baja California,0,1,0,0,0,0,1,0
+Femenino,66,Baja California,1,0,0,0,1,1,0,0
+Femenino,24,Ciudad de México,1,1,0,0,0,0,1,0
+Femenino,55,Yucatán,1,0,0,1,1,0,1,0
+Masculino,25,Nuevo León,0,0,1,0,1,1,1,0
+Femenino,99,Baja California Sur,0,1,0,0,0,0,1,0
+Femenino,17,Puebla,0,0,1,1,1,1,1,1
+Masculino,84,Campeche,0,0,1,1,0,1,0,1
+Femenino,39,Nayarit,0,0,1,0,0,1,1,0
+Femenino,18,Querétaro,0,1,0,0,0,0,1,1
+Masculino,27,Baja California Sur,1,1,0,0,0,0,1,0
+Masculino,21,Colima,1,0,1,1,1,0,1,0
+Femenino,21,Guanajuato,0,1,0,0,0,0,1,0
+Masculino,38,Zacatecas,1,0,0,1,0,0,0,0
+Masculino,17,Colima,0,0,1,1,0,0,1,1
+Masculino,32,Nuevo León,1,0,0,1,0,1,1,0
+Masculino,89,Michoacán,1,0,1,1,0,1,1,0
+Masculino,50,Nayarit,1,0,0,0,0,1,1,0
+Femenino,87,Tlaxcala,1,1,0,0,0,0,1,1
+Femenino,39,Baja California Sur,1,1,0,0,0,0,1,1
+Femenino,23,Querétaro,0,1,0,0,0,0,1,0
+Femenino,73,Chihuahua,0,0,1,0,1,0,0,1
+Femenino,68,Nuevo León,1,0,0,0,1,0,1,0
+Masculino,7,Aguascalientes,1,1,0,0,0,0,1,0
+Masculino,85,Coahuila,1,1,0,0,0,0,0,0
+Femenino,67,Jalisco,0,0,1,0,1,1,0,0
+Femenino,12,Chihuahua,0,0,0,1,1,1,1,0
+Femenino,89,Querétaro,0,0,1,0,0,0,0,0
+Masculino,52,Jalisco,0,1,0,0,0,0,1,0
+Masculino,6,Chihuahua,1,0,0,0,0,1,1,1
+Masculino,72,Campeche,1,1,0,0,0,0,1,1
+Femenino,1,Tamaulipas,0,0,1,0,1,1,1,1
+Femenino,37,Ciudad de México,1,1,0,0,0,0,1,1
+Femenino,7,Morelos,1,0,0,0,1,0,1,1
+Femenino,3,Durango,1,0,0,0,1,0,1,0
+Femenino,2,Quintana Roo,0,0,0,1,1,1,1,0
+Femenino,66,Hidalgo,1,1,0,0,0,0,1,0
+Masculino,59,Puebla,0,0,1,0,1,1,1,0
+Masculino,95,Guanajuato,0,0,1,0,0,1,0,0
+Masculino,83,Aguascalientes,1,0,0,0,0,0,0,0
+Femenino,62,Guanajuato,1,1,0,0,0,0,1,0
+Femenino,51,Guanajuato,1,0,0,1,0,1,1,0
+Masculino,38,Nayarit,1,1,0,0,0,0,1,0
+Masculino,88,Tamaulipas,1,1,0,0,0,0,1,0
+Masculino,53,Querétaro,1,0,0,0,1,1,1,1
+Femenino,8,Morelos,1,0,0,1,1,1,1,1
+Masculino,82,Baja California Sur,0,0,1,1,1,0,0,0
+Masculino,18,Nuevo León,1,1,0,0,0,0,1,1
+Masculino,52,Ciudad de México,0,1,0,0,0,0,0,0
+Femenino,1,Aguascalientes,0,0,0,1,1,0,1,0
+Masculino,20,Nayarit,0,1,0,0,0,0,1,0
+Femenino,54,Puebla,0,1,0,0,0,0,0,0
+Femenino,70,Morelos,1,1,0,0,0,0,1,0
+Masculino,58,Aguascalientes,1,0,1,0,0,0,1,1
+Masculino,11,Aguascalientes,0,0,0,0,1,1,0,1
+Masculino,8,Jalisco,0,1,0,0,0,0,1,0
+Masculino,57,Morelos,1,0,0,1,0,0,1,0
+Masculino,21,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,9,Aguascalientes,0,0,0,1,1,0,1,1
+Femenino,93,Zacatecas,1,1,0,0,0,0,1,1
+Femenino,45,Quintana Roo,0,1,0,0,0,0,1,0
+Femenino,5,Nuevo León,0,1,0,0,0,0,1,0
+Masculino,56,Yucatán,0,1,0,0,0,0,0,1
+Femenino,65,Sonora,0,0,1,0,1,1,1,0
+Femenino,39,Guanajuato,1,0,1,0,1,1,1,1
+Masculino,59,Guerrero,0,0,1,0,0,0,1,0
+Masculino,34,Zacatecas,0,0,0,0,0,1,1,0
+Femenino,92,Michoacán,1,1,0,0,0,0,0,1
+Femenino,51,Baja California Sur,1,0,1,1,0,0,1,0
+Femenino,18,Guanajuato,1,0,1,0,0,0,1,0
+Femenino,43,Michoacán,0,1,0,0,0,0,0,0
+Masculino,4,Querétaro,1,0,1,0,0,0,1,0
+Femenino,73,Oaxaca,1,1,0,0,0,0,0,0
+Masculino,83,Campeche,0,1,0,0,0,0,1,1
+Femenino,60,Coahuila,0,0,1,0,0,0,1,0
+Masculino,11,Puebla,0,0,1,0,0,0,1,0
+Masculino,27,Zacatecas,0,0,0,0,1,0,1,1
+Masculino,78,Sinaloa,0,1,0,0,0,0,1,1
+Masculino,71,Durango,0,1,0,0,0,0,0,1
+Femenino,81,Michoacán,1,1,0,0,0,0,1,0
+Femenino,68,Ciudad de México,1,0,1,1,1,0,0,0
+Femenino,10,Ciudad de México,0,0,0,0,0,0,1,0
+Femenino,15,Chiapas,1,0,0,1,0,1,1,0
+Femenino,67,Yucatán,0,1,0,0,0,0,1,0
+Femenino,67,Sonora,1,0,0,0,1,1,0,0
+Masculino,27,Guanajuato,1,0,1,0,1,1,1,0
+Femenino,92,Puebla,0,0,1,1,0,1,0,0
+Femenino,37,Sinaloa,0,0,1,1,0,1,0,0
+Femenino,67,Chihuahua,1,0,0,1,1,1,1,1
+Femenino,33,Tlaxcala,0,1,0,0,0,0,1,1
+Masculino,76,Chihuahua,0,0,0,1,1,1,0,0
+Masculino,53,Puebla,1,1,0,0,0,0,1,0
+Femenino,65,Baja California,1,1,0,0,0,0,1,0
+Masculino,26,Chiapas,1,0,1,1,1,0,0,1
+Femenino,76,Chihuahua,1,0,0,0,1,0,1,0
+Femenino,63,Oaxaca,0,0,0,0,1,0,0,0
+Masculino,9,Nayarit,0,1,0,0,0,0,1,1
+Femenino,85,Aguascalientes,0,1,0,0,0,0,0,0
+Masculino,66,Yucatán,0,0,1,1,1,0,1,1
+Femenino,27,Guerrero,0,0,1,0,1,1,1,1
+Masculino,27,Chiapas,1,1,0,0,0,0,1,1
+Masculino,18,Tlaxcala,1,1,0,0,0,0,1,1
+Masculino,58,Michoacán,1,1,0,0,0,0,0,0
+Femenino,62,Chiapas,1,1,0,0,0,0,1,0
+Masculino,13,Jalisco,1,0,1,0,0,0,1,0
+Femenino,91,Tabasco,1,0,0,1,0,0,1,1
+Femenino,55,Querétaro,1,0,0,0,0,0,1,0
+Femenino,87,Nuevo León,1,0,1,0,1,0,0,1
+Masculino,50,Tabasco,1,1,0,0,0,0,1,0
+Femenino,32,Guanajuato,0,0,1,1,1,0,1,0
+Masculino,68,Durango,1,1,0,0,0,0,1,0
+Masculino,52,Tabasco,0,0,0,1,1,1,1,1
+Masculino,21,Quintana Roo,1,0,0,1,1,1,1,0
+Masculino,80,San Luis Potosí,0,0,0,1,1,1,1,0
+Masculino,48,Yucatán,0,1,0,0,0,0,1,1
+Femenino,58,Morelos,0,0,1,0,0,0,1,1
+Femenino,14,Ciudad de México,1,1,0,0,0,0,1,0
+Masculino,59,Michoacán,1,1,0,0,0,0,1,0
+Masculino,97,Nayarit,1,1,0,0,0,0,0,0
+Masculino,0,Sinaloa,1,1,0,0,0,0,1,1
+Femenino,62,Tabasco,1,1,0,0,0,0,1,0
+Femenino,100,Zacatecas,1,1,0,0,0,0,0,0
+Femenino,87,Querétaro,1,1,0,0,0,0,1,1
+Femenino,56,Veracruz,0,0,0,0,1,0,0,0
+Masculino,6,Aguascalientes,0,1,0,0,0,0,1,0
+Masculino,6,Oaxaca,0,0,0,1,0,1,1,0
+Femenino,80,Nuevo León,0,0,0,0,1,1,0,1
+Masculino,48,Oaxaca,0,0,1,0,0,0,1,1
+Masculino,99,San Luis Potosí,1,1,0,0,0,0,0,0
+Femenino,58,Querétaro,0,1,0,0,0,0,1,0
+Femenino,6,Michoacán,0,1,0,0,0,0,1,0
+Femenino,80,Coahuila,0,0,0,1,0,0,1,1
+Masculino,74,Veracruz,1,1,0,0,0,0,1,0
+Masculino,88,Sonora,1,1,0,0,0,0,0,0
+Femenino,62,Durango,0,1,0,0,0,0,0,0
+Masculino,64,Durango,0,1,0,0,0,0,1,0
+Femenino,83,Ciudad de México,1,1,0,0,0,0,0,1
+Femenino,58,Yucatán,0,0,1,1,0,0,1,0
+Femenino,56,Quintana Roo,0,1,0,0,0,0,0,1
+Femenino,46,Guerrero,0,1,0,0,0,0,1,1
+Femenino,25,Morelos,0,1,0,0,0,0,1,0
+Masculino,34,Veracruz,0,1,0,0,0,0,1,1
+Masculino,96,Querétaro,1,0,1,0,0,1,0,1
+Masculino,54,Veracruz,0,1,0,0,0,0,0,1
+Masculino,38,Quintana Roo,0,0,0,1,0,1,1,1
+Femenino,38,Oaxaca,0,1,0,0,0,0,1,1
+Femenino,66,Oaxaca,1,1,0,0,0,0,1,0
+Femenino,19,Guerrero,0,0,1,1,0,1,1,1
+Femenino,83,Coahuila,0,0,1,1,0,0,0,1
+Masculino,8,Sonora,1,1,0,0,0,0,1,0
+Femenino,19,Yucatán,1,0,1,0,0,1,1,0
+Femenino,2,Tamaulipas,0,1,0,0,0,0,1,0
+Femenino,66,Sinaloa,0,0,0,1,1,0,1,0
+Femenino,19,Tamaulipas,0,0,0,1,1,1,1,0
+Femenino,13,San Luis Potosí,0,0,0,1,0,1,1,0
+Femenino,85,Sonora,0,0,0,0,0,0,1,0
+Femenino,82,Morelos,1,1,0,0,0,0,1,0
+Femenino,38,Chiapas,0,0,0,1,0,1,1,0
+Masculino,94,Nuevo León,1,1,0,0,0,0,1,1
+Femenino,72,Veracruz,0,0,0,0,0,0,1,0
+Masculino,25,Baja California,0,1,0,0,0,0,1,1
+Femenino,100,Colima,0,0,1,0,0,0,0,1
+Masculino,15,Baja California Sur,0,1,0,0,0,0,1,1
+Femenino,89,Puebla,0,1,0,0,0,0,0,0
+Femenino,91,Querétaro,1,1,0,0,0,0,1,0
+Masculino,14,Baja California Sur,1,0,1,0,0,0,1,0
+Femenino,53,Michoacán,0,0,1,1,1,1,1,1
+Femenino,1,Tabasco,1,1,0,0,0,0,1,0
+Femenino,86,Quintana Roo,1,1,0,0,0,0,0,1
+Masculino,56,Baja California Sur,1,1,0,0,0,0,0,1
+Masculino,20,Campeche,0,1,0,0,0,0,1,0
+Masculino,29,Tlaxcala,1,1,0,0,0,0,1,0
+Masculino,13,Tamaulipas,1,1,0,0,0,0,1,1
+Femenino,57,Sonora,1,1,0,0,0,0,1,0
+Masculino,36,Campeche,0,1,0,0,0,0,1,0
+Masculino,96,Baja California,1,0,0,1,0,1,1,0
+Femenino,82,Tamaulipas,0,1,0,0,0,0,0,0
+Masculino,41,Nuevo León,1,1,0,0,0,0,1,0
+Masculino,53,Morelos,1,0,0,1,1,1,0,0
+Femenino,41,San Luis Potosí,0,1,0,0,0,0,1,0
+Masculino,78,Sinaloa,1,1,0,0,0,0,1,1
+Femenino,14,Tamaulipas,0,1,0,0,0,0,1,0
+Femenino,19,Oaxaca,1,1,0,0,0,0,1,1
+Masculino,47,San Luis Potosí,1,0,1,0,1,1,0,1
+Femenino,28,Baja California,1,0,1,0,0,1,1,0
+Femenino,42,Coahuila,1,1,0,0,0,0,1,0
+Femenino,62,Sonora,1,1,0,0,0,0,1,0
+Masculino,40,Durango,1,0,1,0,1,0,1,0
+Femenino,70,Hidalgo,0,1,0,0,0,0,1,0
+Masculino,28,Durango,1,0,0,1,1,1,1,0
+Masculino,36,Oaxaca,0,1,0,0,0,0,1,0
+Masculino,81,Veracruz,0,1,0,0,0,0,1,0
+Femenino,97,Guanajuato,0,1,0,0,0,0,1,0
+Femenino,35,Campeche,0,1,0,0,0,0,1,0
+Masculino,23,Aguascalientes,0,0,0,1,0,1,1,0
+Masculino,2,Aguascalientes,1,1,0,0,0,0,1,0
+Masculino,92,Coahuila,1,1,0,0,0,0,1,1
+Masculino,0,Sinaloa,1,0,0,1,0,1,0,0
+Femenino,5,Aguascalientes,0,0,0,0,0,1,1,0
+Femenino,47,Nayarit,1,0,0,0,1,1,0,1
+Masculino,51,Querétaro,0,0,1,0,1,0,0,0
+Femenino,41,Durango,1,0,1,1,0,0,1,0
+Femenino,59,Puebla,0,1,0,0,0,0,1,0
+Femenino,3,Yucatán,0,1,0,0,0,0,1,0
+Femenino,41,Sinaloa,0,1,0,0,0,0,1,1
+Masculino,55,Chihuahua,0,1,0,0,0,0,1,0
+Femenino,32,Zacatecas,0,0,1,0,1,0,0,0
+Masculino,33,Baja California,0,1,0,0,0,0,1,1
+Femenino,42,Tabasco,0,1,0,0,0,0,0,1
+Masculino,10,Sonora,0,1,0,0,0,0,1,0
+Masculino,59,Tlaxcala,0,0,1,1,1,1,0,1
+Femenino,56,Morelos,0,0,0,1,0,1,1,0
+Masculino,94,Chiapas,1,0,1,1,0,1,1,0
+Masculino,54,Nuevo León,1,1,0,0,0,0,1,0
+Masculino,55,Yucatán,0,0,1,0,0,1,0,0
+Masculino,67,Colima,1,0,0,1,0,1,1,1
+Masculino,14,Tlaxcala,0,1,0,0,0,0,1,1
+Masculino,18,Baja California Sur,0,1,0,0,0,0,1,1
+Masculino,86,Quintana Roo,0,1,0,0,0,0,1,1
+Masculino,40,Sinaloa,1,1,0,0,0,0,1,0
+Masculino,13,Aguascalientes,1,0,1,1,1,1,1,1
+Masculino,97,Sonora,0,1,0,0,0,0,1,0
+Masculino,3,Tamaulipas,0,1,0,0,0,0,1,1
+Masculino,1,Puebla,0,0,0,1,0,1,1,0
+Femenino,14,Baja California Sur,0,0,0,1,1,0,0,1
+Femenino,98,Ciudad de México,0,1,0,0,0,0,1,0
+Femenino,14,San Luis Potosí,0,1,0,0,0,0,1,0
+Masculino,35,Tabasco,1,0,0,1,1,0,0,0
+Masculino,43,Veracruz,1,0,0,0,1,0,1,1
+Masculino,80,Aguascalientes,1,0,1,1,1,0,0,0
+Femenino,63,Morelos,1,0,1,1,0,1,1,1
+Femenino,66,Yucatán,1,1,0,0,0,0,1,0
+Femenino,65,Zacatecas,1,1,0,0,0,0,0,0
+Masculino,18,Baja California Sur,0,0,1,0,0,1,1,0
+Femenino,55,Veracruz,1,1,0,0,0,0,1,0
+Femenino,50,Nuevo León,0,0,0,1,0,1,0,0
+Masculino,79,Zacatecas,1,1,0,0,0,0,1,0
+Femenino,60,Yucatán,0,0,0,0,0,1,1,1
+Masculino,45,Veracruz,1,0,1,0,0,1,1,1
+Femenino,3,Durango,0,1,0,0,0,0,1,0
+Masculino,96,Sonora,1,0,0,1,1,0,0,0
+Femenino,29,Nuevo León,0,0,0,0,0,0,1,0
+Femenino,6,Veracruz,0,1,0,0,0,0,1,0
+Femenino,75,Hidalgo,1,0,0,0,1,0,0,0
+Masculino,72,Guerrero,1,1,0,0,0,0,1,1
+Femenino,88,Hidalgo,1,1,0,0,0,0,1,0
+Femenino,84,Aguascalientes,1,1,0,0,0,0,1,1
+Masculino,30,Baja California,1,1,0,0,0,0,1,0
+Femenino,93,Puebla,0,0,1,1,0,0,0,1
+Femenino,97,Tamaulipas,1,0,1,1,0,1,0,0
+Masculino,14,Zacatecas,1,1,0,0,0,0,0,0
+Femenino,18,Michoacán,0,0,0,1,1,1,0,0
+Femenino,62,Quintana Roo,0,0,0,0,1,0,0,0
+Masculino,25,Veracruz,1,0,1,0,1,1,1,1
+Masculino,58,Campeche,0,0,1,1,1,0,0,1
+Masculino,54,Hidalgo,1,1,0,0,0,0,1,0
+Masculino,10,Jalisco,1,0,1,1,1,0,1,0
+Femenino,46,Aguascalientes,1,1,0,0,0,0,0,1
+Masculino,6,Tamaulipas,1,0,1,0,0,1,1,0
+Femenino,67,Tabasco,0,1,0,0,0,0,0,0
+Masculino,82,San Luis Potosí,1,1,0,0,0,0,0,0
+Femenino,15,Aguascalientes,1,1,0,0,0,0,1,1
+Femenino,67,Tamaulipas,1,0,1,0,1,1,1,0
+Masculino,40,Tlaxcala,0,1,0,0,0,0,0,0
+Femenino,58,Yucatán,1,0,0,1,1,1,1,1
+Masculino,60,Oaxaca,1,1,0,0,0,0,1,0
+Femenino,22,San Luis Potosí,1,1,0,0,0,0,1,1
+Masculino,46,Colima,1,1,0,0,0,0,0,0
+Femenino,28,Campeche,1,0,1,0,1,1,1,0
+Femenino,74,Tabasco,1,1,0,0,0,0,1,1
+Femenino,73,Tamaulipas,1,0,0,0,1,0,1,0
+Femenino,30,Ciudad de México,1,0,1,1,1,1,1,1
+Femenino,7,Colima,1,1,0,0,0,0,1,0
+Masculino,23,Tlaxcala,0,0,1,1,1,1,0,0
+Masculino,72,Guerrero,1,0,0,1,1,1,1,0
+Masculino,69,Tlaxcala,0,1,0,0,0,0,0,0
+Femenino,90,Coahuila,1,1,0,0,0,0,1,1
+Masculino,4,Zacatecas,0,0,1,0,0,0,1,0
+Masculino,12,Guanajuato,1,1,0,0,0,0,1,1
+Masculino,22,Chihuahua,1,1,0,0,0,0,1,1
+Femenino,51,Tabasco,1,1,0,0,0,0,0,1
+Masculino,26,Oaxaca,0,0,0,1,0,1,1,0
+Masculino,49,Sonora,0,1,0,0,0,0,1,1
+Masculino,68,Baja California,0,1,0,0,0,0,0,1
+Femenino,80,Quintana Roo,0,0,1,1,1,1,0,0
+Femenino,18,Ciudad de México,0,0,0,1,1,1,1,0
+Femenino,14,Coahuila,0,1,0,0,0,0,0,0
+Femenino,100,Chiapas,0,0,0,1,1,1,0,0
+Femenino,22,Querétaro,0,1,0,0,0,0,1,0
+Masculino,14,Durango,1,0,0,1,0,1,1,0
+Masculino,68,Coahuila,1,0,1,1,0,1,1,0
+Femenino,2,Morelos,0,0,1,1,1,1,1,0
+Femenino,72,Querétaro,1,1,0,0,0,0,1,0
+Masculino,14,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,41,San Luis Potosí,0,0,0,1,1,0,1,0
+Femenino,89,Sonora,1,1,0,0,0,0,1,1
+Masculino,65,Durango,0,0,1,1,1,0,1,0
+Femenino,83,Tabasco,1,0,1,1,1,1,0,1
+Masculino,49,Sinaloa,0,1,0,0,0,0,1,0
+Masculino,40,Aguascalientes,0,0,0,0,1,1,1,0
+Femenino,28,Guerrero,1,1,0,0,0,0,1,0
+Masculino,5,Veracruz,0,0,1,1,0,0,1,0
+Masculino,98,Durango,0,1,0,0,0,0,0,0
+Masculino,90,Sonora,0,0,1,0,0,0,1,1
+Masculino,92,Aguascalientes,0,0,0,1,0,0,0,1
+Femenino,4,San Luis Potosí,0,1,0,0,0,0,1,0
+Masculino,83,Chiapas,0,1,0,0,0,0,1,0
+Masculino,78,Puebla,0,1,0,0,0,0,0,0
+Femenino,67,Morelos,1,0,0,0,0,0,0,0
+Masculino,22,Durango,0,1,0,0,0,0,1,1
+Femenino,78,Jalisco,0,0,1,0,1,1,1,1
+Masculino,0,Jalisco,0,1,0,0,0,0,1,0
+Femenino,9,Sinaloa,0,1,0,0,0,0,1,0
+Femenino,34,Hidalgo,0,0,1,0,1,1,0,0
+Masculino,93,Nayarit,0,0,1,1,0,1,1,0
+Masculino,32,Chiapas,0,0,0,0,0,0,1,0
+Femenino,75,Zacatecas,1,1,0,0,0,0,1,0
+Femenino,82,Oaxaca,0,0,0,1,0,0,1,1
+Femenino,88,Aguascalientes,1,0,0,1,0,0,0,0
+Femenino,66,Puebla,1,1,0,0,0,0,0,0
+Femenino,26,Sonora,0,0,1,0,1,1,1,0
+Femenino,8,Tabasco,1,0,0,0,0,0,1,1
+Femenino,96,Baja California Sur,0,1,0,0,0,0,0,0
+Femenino,76,Tabasco,0,1,0,0,0,0,0,0
+Femenino,52,Nuevo León,0,0,1,1,0,0,1,1
+Femenino,66,Tabasco,1,0,0,0,1,1,0,1
+Femenino,86,Tabasco,0,0,1,0,0,0,1,0
+Masculino,23,Sinaloa,0,0,1,0,0,1,1,1
+Femenino,8,Guanajuato,1,1,0,0,0,0,1,0
+Femenino,32,Coahuila,0,1,0,0,0,0,1,0
+Masculino,26,Morelos,0,0,0,1,0,0,0,0
+Femenino,10,Colima,1,1,0,0,0,0,1,0
+Femenino,57,Quintana Roo,1,1,0,0,0,0,0,0
+Masculino,57,Baja California,1,1,0,0,0,0,1,0
+Masculino,73,Campeche,0,0,0,1,0,1,0,0
+Masculino,73,Durango,1,0,0,0,1,0,1,1
+Masculino,75,Jalisco,0,0,1,0,0,1,0,0
+Femenino,93,Querétaro,1,1,0,0,0,0,0,1
+Masculino,34,Coahuila,1,0,0,1,0,1,1,0
+Femenino,5,Aguascalientes,0,1,0,0,0,0,1,0
+Masculino,10,Aguascalientes,0,1,0,0,0,0,1,1
+Masculino,25,Nuevo León,1,0,1,1,1,0,1,0
+Femenino,89,Quintana Roo,1,0,0,0,0,0,1,0
+Masculino,43,Veracruz,1,1,0,0,0,0,1,0
+Femenino,56,Nayarit,0,0,0,0,1,1,0,0
+Femenino,23,Nayarit,0,0,0,0,1,1,1,1
+Femenino,98,Zacatecas,1,1,0,0,0,0,0,0
+Femenino,42,Sinaloa,0,1,0,0,0,0,1,0
+Femenino,19,Baja California,1,1,0,0,0,0,0,1
+Femenino,8,Veracruz,0,0,1,0,1,1,1,0
+Masculino,95,Campeche,0,0,1,0,0,0,0,0
+Femenino,43,Morelos,0,0,0,0,0,0,0,0
+Femenino,73,Jalisco,1,1,0,0,0,0,0,0
+Femenino,87,San Luis Potosí,0,1,0,0,0,0,1,0
+Femenino,43,Zacatecas,0,1,0,0,0,0,0,0
+Masculino,74,Campeche,0,1,0,0,0,0,1,0
+Masculino,88,Coahuila,1,1,0,0,0,0,0,0
+Masculino,67,Jalisco,1,1,0,0,0,0,1,1
+Masculino,13,Guerrero,0,0,0,0,0,1,1,1
+Femenino,19,Baja California Sur,1,0,1,0,0,0,1,0
+Masculino,12,Oaxaca,1,0,0,0,0,0,1,0
+Femenino,18,Oaxaca,1,1,0,0,0,0,1,1
+Femenino,85,Nayarit,1,0,0,0,1,0,1,0
+Femenino,82,Colima,1,1,0,0,0,0,0,0
+Masculino,83,Durango,1,0,0,1,0,0,1,0
+Femenino,44,Baja California,0,1,0,0,0,0,1,0
+Masculino,32,Chihuahua,0,1,0,0,0,0,1,1
+Masculino,71,Oaxaca,0,0,0,1,1,0,0,0
+Femenino,37,Zacatecas,1,0,0,1,0,0,1,1
+Femenino,44,Durango,0,0,1,1,1,1,1,1
+Femenino,56,Zacatecas,0,1,0,0,0,0,1,0
+Femenino,35,Baja California Sur,1,1,0,0,0,0,1,0
+Masculino,80,Oaxaca,0,0,0,0,0,1,0,0
+Masculino,90,Querétaro,0,1,0,0,0,0,1,0
+Masculino,95,Campeche,1,0,1,0,1,0,0,1
+Femenino,83,Nuevo León,0,1,0,0,0,0,0,1
+Masculino,19,Guanajuato,1,1,0,0,0,0,1,1
+Masculino,99,Colima,0,1,0,0,0,0,0,0
+Masculino,79,Querétaro,0,0,1,1,0,1,0,0
+Femenino,80,Nuevo León,1,1,0,0,0,0,1,1
+Masculino,7,Jalisco,0,1,0,0,0,0,1,0
+Femenino,21,Baja California,1,1,0,0,0,0,1,1
+Femenino,58,Oaxaca,1,1,0,0,0,0,1,0
+Masculino,81,Chihuahua,1,1,0,0,0,0,0,1
+Femenino,98,Durango,1,1,0,0,0,0,1,1
+Masculino,79,Campeche,1,0,0,0,1,1,0,0
+Femenino,17,Nayarit,0,0,0,1,1,1,1,0
+Masculino,97,Durango,1,1,0,0,0,0,1,1
+Femenino,43,Guerrero,1,0,0,1,0,1,0,0
+Femenino,59,Hidalgo,0,1,0,0,0,0,0,0
+Masculino,69,Nuevo León,1,0,0,1,0,0,1,0
+Masculino,81,Querétaro,1,1,0,0,0,0,1,1
+Femenino,35,Oaxaca,1,0,1,0,1,1,1,0
+Masculino,83,Zacatecas,1,1,0,0,0,0,0,0
+Femenino,61,Nuevo León,1,0,1,0,0,1,1,0
+Femenino,63,Tamaulipas,0,0,0,1,1,1,0,0
+Femenino,9,Tlaxcala,1,0,1,0,1,1,1,1
+Femenino,80,Baja California Sur,0,0,0,1,0,1,1,0
+Masculino,68,Guerrero,1,1,0,0,0,0,0,1
+Masculino,82,Campeche,0,0,0,1,0,0,0,0
+Femenino,62,Colima,0,1,0,0,0,0,1,0
+Femenino,27,Guerrero,1,1,0,0,0,0,1,0
+Masculino,73,Guanajuato,0,1,0,0,0,0,1,0
+Femenino,82,Chiapas,0,1,0,0,0,0,0,1
+Femenino,19,Chiapas,0,1,0,0,0,0,0,1
+Masculino,9,Sonora,0,1,0,0,0,0,1,1
+Masculino,44,Querétaro,0,0,1,0,0,1,1,0
+Femenino,14,Sonora,1,1,0,0,0,0,1,0
+Masculino,63,Nuevo León,1,1,0,0,0,0,1,0
+Femenino,61,Jalisco,0,1,0,0,0,0,1,0
+Femenino,40,Guerrero,0,1,0,0,0,0,1,0
+Femenino,0,Jalisco,0,0,1,0,0,0,1,1
+Masculino,48,Puebla,1,1,0,0,0,0,1,0
+Femenino,34,San Luis Potosí,0,1,0,0,0,0,0,0
+Masculino,64,Durango,0,0,1,1,1,1,0,0
+Masculino,37,Sonora,1,1,0,0,0,0,1,1
+Femenino,1,Chiapas,1,1,0,0,0,0,1,1
+Femenino,39,Veracruz,1,0,1,0,1,0,1,1
+Femenino,59,Ciudad de México,1,1,0,0,0,0,0,0
+Masculino,67,Aguascalientes,1,1,0,0,0,0,1,1
+Masculino,11,Baja California,1,1,0,0,0,0,1,0
+Masculino,72,San Luis Potosí,1,1,0,0,0,0,1,0
+Femenino,37,Tamaulipas,1,1,0,0,0,0,1,0
+Masculino,52,Coahuila,1,1,0,0,0,0,1,0
+Masculino,35,Guanajuato,0,1,0,0,0,0,1,1
+Masculino,95,Querétaro,1,0,0,0,0,0,1,0
+Femenino,69,Aguascalientes,0,1,0,0,0,0,1,0
+Masculino,89,Sonora,0,1,0,0,0,0,0,0
+Femenino,44,Hidalgo,0,0,1,1,0,0,0,0
+Femenino,11,Tabasco,0,1,0,0,0,0,1,1
+Masculino,53,Ciudad de México,0,1,0,0,0,0,1,1
+Masculino,30,Guerrero,1,1,0,0,0,0,1,0
+Femenino,28,Baja California Sur,1,1,0,0,0,0,0,0
+Femenino,99,Sonora,1,0,1,1,0,0,0,0
+Masculino,59,Tamaulipas,0,1,0,0,0,0,1,0
+Femenino,38,Nayarit,1,1,0,0,0,0,1,0
+Masculino,76,Chihuahua,1,0,0,0,0,0,1,1
+Femenino,97,Aguascalientes,0,0,1,1,0,0,1,1
+Masculino,63,Chihuahua,1,1,0,0,0,0,1,1
+Masculino,9,Ciudad de México,0,0,1,1,1,0,1,1
+Masculino,80,Zacatecas,0,0,0,1,0,1,0,1
+Femenino,55,Tamaulipas,1,1,0,0,0,0,0,0
+Femenino,55,Chihuahua,0,1,0,0,0,0,1,0
+Femenino,66,Morelos,0,1,0,0,0,0,0,1
+Femenino,39,Tamaulipas,1,0,1,0,1,1,1,0
+Femenino,82,Colima,1,1,0,0,0,0,0,0
+Femenino,81,Tlaxcala,1,1,0,0,0,0,1,1
+Masculino,60,Guerrero,1,1,0,0,0,0,1,1
+Femenino,55,Baja California,0,1,0,0,0,0,1,1
+Masculino,3,Querétaro,1,0,1,1,1,1,1,1
+Femenino,86,Baja California,0,0,1,0,1,0,0,0
+Femenino,78,Guanajuato,1,1,0,0,0,0,1,0
+Femenino,72,Oaxaca,1,1,0,0,0,0,0,1
+Femenino,13,Sinaloa,0,0,0,0,0,1,1,0
+Masculino,34,Guanajuato,0,0,1,1,0,0,1,0
+Masculino,57,Yucatán,0,0,1,0,1,1,1,0
+Masculino,75,Yucatán,0,1,0,0,0,0,1,0
+Femenino,27,Hidalgo,1,1,0,0,0,0,1,0
+Masculino,0,Sonora,1,1,0,0,0,0,1,0
+Femenino,80,Veracruz,0,1,0,0,0,0,0,0
+Masculino,2,Campeche,1,1,0,0,0,0,1,0
+Femenino,9,Sinaloa,0,1,0,0,0,0,1,0
+Femenino,67,Colima,1,1,0,0,0,0,1,1
+Masculino,10,Morelos,1,0,0,0,1,0,1,1
+Masculino,82,Baja California,1,1,0,0,0,0,0,0
+Masculino,44,Colima,0,1,0,0,0,0,0,0
+Femenino,16,Morelos,0,1,0,0,0,0,0,0
+Femenino,26,Durango,0,1,0,0,0,0,1,0
+Masculino,41,Coahuila,0,0,1,1,1,1,1,0
+Masculino,64,Nayarit,1,0,1,0,0,0,1,0
+Femenino,88,Aguascalientes,1,0,1,1,1,1,0,0
+Masculino,53,Jalisco,1,1,0,0,0,0,0,0
+Femenino,77,Jalisco,0,1,0,0,0,0,1,0
+Femenino,18,Sonora,1,1,0,0,0,0,1,1
+Masculino,80,Ciudad de México,1,0,1,0,1,1,0,0
+Femenino,86,Colima,0,0,1,0,1,1,0,1
+Masculino,78,Coahuila,0,0,0,0,1,1,1,0
+Femenino,47,Baja California,1,0,1,0,0,0,1,1
+Masculino,67,Michoacán,1,1,0,0,0,0,1,0
+Femenino,41,Oaxaca,1,0,1,1,0,0,1,1
+Masculino,57,Michoacán,1,1,0,0,0,0,0,0
+Masculino,48,Tabasco,1,1,0,0,0,0,1,1
+Masculino,33,Durango,0,1,0,0,0,0,1,1
+Femenino,86,Chiapas,1,0,0,1,0,0,0,1
+Masculino,90,Veracruz,0,1,0,0,0,0,0,0
+Femenino,9,Puebla,1,1,0,0,0,0,1,0
+Femenino,44,Tamaulipas,1,0,0,0,1,0,1,0
+Masculino,96,Colima,0,1,0,0,0,0,1,0
+Masculino,51,Veracruz,0,1,0,0,0,0,1,0
+Masculino,92,Aguascalientes,0,1,0,0,0,0,1,0
+Femenino,0,Puebla,0,0,0,0,1,0,1,1
+Femenino,2,Campeche,1,0,1,0,0,1,1,0
+Masculino,9,Tlaxcala,1,0,1,1,1,0,1,1
+Masculino,60,Chiapas,1,0,0,0,1,0,0,0
+Masculino,42,Sinaloa,1,1,0,0,0,0,1,1
+Masculino,10,Coahuila,1,0,0,1,1,1,1,0
+Femenino,65,Quintana Roo,1,0,0,1,0,1,0,1
+Femenino,17,Oaxaca,0,1,0,0,0,0,1,0
+Masculino,63,Campeche,1,0,1,1,1,0,1,1
+Masculino,85,Oaxaca,0,1,0,0,0,0,0,0
+Femenino,3,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,72,Morelos,1,0,0,0,1,0,1,0
+Masculino,6,Colima,0,1,0,0,0,0,1,0
+Femenino,93,Colima,1,1,0,0,0,0,1,0
+Femenino,90,Campeche,1,0,0,1,1,1,1,1
+Masculino,12,Baja California,1,0,1,1,1,0,1,0
+Femenino,25,San Luis Potosí,0,1,0,0,0,0,1,0
+Masculino,26,Jalisco,0,0,1,0,0,0,1,0
+Masculino,76,Puebla,0,1,0,0,0,0,0,1
+Femenino,31,Colima,0,0,1,0,0,1,1,0
+Masculino,7,Veracruz,1,0,1,0,1,0,1,0
+Femenino,52,Hidalgo,0,0,1,0,1,0,1,0
+Femenino,97,Veracruz,1,0,0,1,1,0,1,0
+Femenino,19,Ciudad de México,1,0,0,1,0,1,0,0
+Femenino,70,Querétaro,0,1,0,0,0,0,1,0
+Femenino,12,Michoacán,1,1,0,0,0,0,1,0
+Femenino,7,Querétaro,1,0,1,0,1,0,1,0
+Femenino,38,Querétaro,0,0,1,1,1,1,1,0
+Femenino,37,Campeche,1,1,0,0,0,0,1,0
+Femenino,69,Jalisco,1,0,1,0,1,0,0,0
+Femenino,14,Zacatecas,1,0,0,1,1,1,1,0
+Femenino,86,Yucatán,1,0,1,0,0,0,0,0
+Femenino,51,Guerrero,1,0,1,0,0,1,0,1
+Femenino,11,Tlaxcala,1,0,0,0,1,1,1,0
+Femenino,97,Baja California,1,0,0,1,0,1,1,0
+Masculino,60,Morelos,0,1,0,0,0,0,1,1
+Femenino,28,Zacatecas,0,0,1,0,1,1,1,1
+Femenino,93,Veracruz,0,0,0,0,0,0,1,1
+Femenino,55,Yucatán,1,1,0,0,0,0,1,1
+Masculino,93,Sonora,0,1,0,0,0,0,1,0
+Femenino,47,Morelos,1,0,1,1,0,1,1,1
+Masculino,20,Coahuila,0,0,1,1,1,1,1,0
+Femenino,97,Hidalgo,0,0,1,1,0,1,0,0
+Femenino,26,Guerrero,0,1,0,0,0,0,1,1
+Femenino,21,Ciudad de México,0,1,0,0,0,0,0,0
+Femenino,7,Colima,1,1,0,0,0,0,1,0
+Masculino,52,Baja California Sur,1,1,0,0,0,0,0,0
+Masculino,74,Aguascalientes,0,1,0,0,0,0,1,0
+Masculino,91,Coahuila,0,0,0,0,1,0,1,0
+Femenino,39,Ciudad de México,0,0,1,1,0,0,1,0
+Femenino,96,Coahuila,1,1,0,0,0,0,0,0
+Masculino,41,Michoacán,1,1,0,0,0,0,1,0
+Femenino,18,Colima,1,1,0,0,0,0,1,0
+Masculino,54,Chiapas,1,1,0,0,0,0,1,1
+Femenino,77,Jalisco,1,0,1,0,0,0,0,0
+Femenino,22,Ciudad de México,0,1,0,0,0,0,1,1
+Femenino,42,Puebla,0,0,1,0,0,1,1,0
+Femenino,5,Morelos,0,0,0,1,0,0,1,0
+Masculino,30,Guanajuato,1,1,0,0,0,0,1,1
+Masculino,97,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,64,Yucatán,1,0,1,1,1,0,1,0
+Femenino,45,Chihuahua,1,1,0,0,0,0,1,0
+Masculino,98,Tabasco,0,0,0,1,0,0,1,0
+Masculino,12,Yucatán,0,0,1,1,0,1,1,1
+Masculino,40,Nuevo León,0,1,0,0,0,0,1,0
+Masculino,67,Nayarit,0,1,0,0,0,0,1,0
+Masculino,92,Ciudad de México,1,1,0,0,0,0,1,0
+Femenino,71,Quintana Roo,1,0,0,0,1,1,0,0
+Masculino,51,Veracruz,0,0,1,0,1,1,1,0
+Femenino,63,Morelos,0,1,0,0,0,0,1,1
+Femenino,38,Tabasco,1,1,0,0,0,0,0,0
+Femenino,84,Veracruz,1,0,1,0,1,0,1,0
+Femenino,29,Baja California Sur,1,0,0,1,0,0,1,0
+Femenino,12,Coahuila,1,0,0,0,1,1,1,0
+Masculino,69,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,5,Nuevo León,0,0,0,0,0,0,1,0
+Femenino,49,Querétaro,1,1,0,0,0,0,1,0
+Masculino,1,Yucatán,1,0,0,0,1,1,1,0
+Femenino,12,Colima,1,0,0,0,1,1,1,0
+Femenino,50,Tamaulipas,0,0,0,0,1,0,0,0
+Femenino,99,Puebla,1,0,1,1,0,0,1,0
+Masculino,81,Morelos,0,1,0,0,0,0,0,0
+Masculino,43,Yucatán,0,1,0,0,0,0,1,0
+Femenino,23,Tlaxcala,1,0,1,0,0,1,1,1
+Masculino,69,Nuevo León,1,1,0,0,0,0,1,0
+Femenino,7,Puebla,0,1,0,0,0,0,1,1
+Femenino,60,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,54,Colima,1,0,0,1,1,1,0,1
+Femenino,5,Tabasco,1,0,1,0,0,1,1,1
+Femenino,29,Sonora,0,0,1,0,0,1,1,0
+Masculino,85,Michoacán,0,1,0,0,0,0,0,1
+Femenino,67,San Luis Potosí,0,0,0,0,0,1,0,1
+Femenino,19,Hidalgo,0,0,0,1,0,0,0,0
+Masculino,59,Chihuahua,1,1,0,0,0,0,1,1
+Masculino,55,Nayarit,1,0,0,1,1,1,0,1
+Masculino,2,Campeche,1,0,1,0,0,0,1,1
+Femenino,21,Puebla,0,0,1,1,1,0,0,0
+Femenino,94,Chihuahua,1,0,1,1,1,1,1,0
+Femenino,6,Campeche,1,1,0,0,0,0,1,0
+Masculino,84,Puebla,0,1,0,0,0,0,0,0
+Femenino,33,San Luis Potosí,0,0,1,1,1,1,1,0
+Masculino,11,Sonora,0,0,0,1,1,0,1,0
+Masculino,51,Chiapas,0,0,1,1,0,0,1,0
+Femenino,18,Nayarit,0,0,0,1,0,1,0,0
+Masculino,95,Coahuila,1,1,0,0,0,0,0,0
+Masculino,42,Durango,0,0,1,1,1,0,0,1
+Masculino,11,Aguascalientes,0,1,0,0,0,0,1,0
+Femenino,68,Sinaloa,1,1,0,0,0,0,1,1
+Masculino,13,Jalisco,1,1,0,0,0,0,1,1
+Masculino,4,Nuevo León,1,1,0,0,0,0,1,0
+Femenino,14,Colima,0,0,1,0,0,0,0,0
+Femenino,8,Ciudad de México,1,1,0,0,0,0,1,0
+Femenino,80,Nuevo León,1,0,0,0,0,0,1,1
+Masculino,15,Chiapas,0,0,1,0,0,1,1,0
+Masculino,35,Chiapas,0,0,0,0,1,0,1,1
+Masculino,95,Yucatán,1,1,0,0,0,0,0,0
+Masculino,98,Coahuila,1,1,0,0,0,0,0,1
+Femenino,95,Yucatán,1,0,1,1,0,0,1,0
+Femenino,82,Michoacán,0,1,0,0,0,0,0,0
+Masculino,5,Coahuila,0,0,1,1,1,1,1,0
+Femenino,28,Nuevo León,0,0,0,1,0,1,1,1
+Femenino,94,Coahuila,0,0,1,0,1,1,1,0
+Femenino,31,Yucatán,1,0,0,1,0,0,1,0
+Masculino,15,Querétaro,1,1,0,0,0,0,1,0
+Masculino,61,Baja California,1,0,1,0,0,1,1,0
+Masculino,3,Baja California Sur,0,1,0,0,0,0,1,0
+Masculino,73,Yucatán,0,0,1,1,1,1,0,0
+Femenino,99,Sonora,1,0,0,1,0,1,0,0
+Femenino,15,Sinaloa,0,0,0,1,0,0,1,0
+Masculino,99,Quintana Roo,1,1,0,0,0,0,0,0
+Masculino,74,Chihuahua,1,1,0,0,0,0,1,1
+Masculino,46,Veracruz,1,1,0,0,0,0,1,0
+Masculino,78,Baja California Sur,0,0,1,0,1,0,1,1
+Masculino,48,Jalisco,1,0,0,0,1,1,1,0
+Femenino,60,Yucatán,0,0,1,1,0,0,1,0
+Femenino,37,Sonora,0,1,0,0,0,0,1,0
+Femenino,78,Tlaxcala,0,1,0,0,0,0,1,0
+Femenino,4,Baja California,1,0,0,0,1,1,1,0
+Femenino,11,Hidalgo,0,1,0,0,0,0,1,1
+Femenino,81,Baja California Sur,1,1,0,0,0,0,1,0
+Masculino,20,Baja California Sur,1,1,0,0,0,0,0,0
+Femenino,97,Nayarit,1,1,0,0,0,0,1,1
+Masculino,34,Tlaxcala,0,1,0,0,0,0,1,0
+Masculino,21,Durango,0,0,0,0,1,0,1,0
+Femenino,99,Nuevo León,0,0,1,1,1,0,1,1
+Masculino,0,Baja California,1,0,0,1,0,1,1,0
+Femenino,2,Nayarit,1,1,0,0,0,0,1,1
+Masculino,35,Veracruz,1,1,0,0,0,0,1,1
+Masculino,0,Sinaloa,1,1,0,0,0,0,1,0
+Masculino,59,Jalisco,0,0,1,1,0,1,1,1
+Femenino,36,Yucatán,1,0,1,0,0,1,0,0
+Masculino,48,Coahuila,1,1,0,0,0,0,1,1
+Femenino,85,Quintana Roo,1,1,0,0,0,0,1,0
+Masculino,51,Zacatecas,0,0,0,0,0,1,1,0
+Femenino,54,Ciudad de México,1,1,0,0,0,0,0,1
+Femenino,27,Puebla,1,1,0,0,0,0,1,0
+Femenino,27,Aguascalientes,0,1,0,0,0,0,1,1
+Masculino,41,Sinaloa,1,0,1,0,0,1,1,0
+Masculino,91,Zacatecas,1,0,0,0,1,0,0,0
+Masculino,94,Nuevo León,0,0,1,1,0,0,1,0
+Masculino,25,Baja California,1,0,0,0,1,0,1,0
+Femenino,47,Veracruz,0,1,0,0,0,0,0,1
+Masculino,26,Querétaro,0,1,0,0,0,0,0,0
+Femenino,43,Puebla,1,1,0,0,0,0,0,1
+Femenino,7,Quintana Roo,0,0,1,0,0,0,1,0
+Femenino,47,Durango,0,0,0,0,1,0,1,0
+Femenino,7,Baja California Sur,1,0,1,1,1,0,1,0
+Masculino,88,Jalisco,1,0,0,0,1,0,0,1
+Femenino,1,Ciudad de México,0,1,0,0,0,0,1,0
+Masculino,64,Guanajuato,0,1,0,0,0,0,1,0
+Femenino,20,Campeche,1,1,0,0,0,0,0,1
+Masculino,24,Sinaloa,1,1,0,0,0,0,1,0
+Femenino,61,Nuevo León,1,0,1,0,0,1,0,0
+Masculino,25,Ciudad de México,0,1,0,0,0,0,1,0
+Femenino,95,Guanajuato,1,0,1,1,0,0,0,0
+Masculino,49,Guerrero,0,1,0,0,0,0,0,1
+Femenino,40,Tlaxcala,0,1,0,0,0,0,1,0
+Femenino,54,Jalisco,0,0,1,0,1,1,1,0
+Masculino,16,Veracruz,0,1,0,0,0,0,1,0
+Femenino,44,Morelos,1,1,0,0,0,0,1,0
+Femenino,0,Morelos,1,0,1,1,1,1,1,0
+Femenino,42,Colima,1,1,0,0,0,0,0,0
+Masculino,79,Oaxaca,0,0,0,1,0,0,0,0
+Femenino,5,Baja California,0,0,0,1,0,1,1,1
+Masculino,84,Chihuahua,1,0,0,0,1,1,1,0
+Masculino,8,Coahuila,0,0,1,0,1,0,1,1
+Femenino,24,Sonora,1,1,0,0,0,0,1,0
+Femenino,66,Chihuahua,1,1,0,0,0,0,0,0
+Femenino,55,Baja California Sur,1,1,0,0,0,0,0,1
+Femenino,90,Baja California,1,1,0,0,0,0,1,1
+Masculino,21,Michoacán,0,1,0,0,0,0,1,0
+Masculino,64,Tabasco,0,0,0,1,0,1,1,0
+Femenino,24,Campeche,0,1,0,0,0,0,1,0
+Femenino,32,Puebla,1,1,0,0,0,0,1,0
+Femenino,42,Puebla,1,0,1,0,0,1,1,1
+Masculino,79,Baja California Sur,0,1,0,0,0,0,1,1
+Masculino,22,Sinaloa,0,0,0,1,1,1,1,1
+Masculino,85,Zacatecas,1,1,0,0,0,0,1,0
+Masculino,14,Guerrero,0,1,0,0,0,0,1,0
+Femenino,66,Baja California,0,0,1,1,0,0,0,0
+Masculino,15,Morelos,0,0,0,0,1,1,1,0
+Femenino,62,Baja California,1,0,1,0,0,0,0,1
+Masculino,97,San Luis Potosí,0,0,0,1,0,1,1,0
+Masculino,88,Colima,0,1,0,0,0,0,1,1
+Femenino,41,Colima,0,0,0,1,1,1,1,0
+Femenino,60,Jalisco,0,1,0,0,0,0,0,1
+Masculino,47,Baja California Sur,0,1,0,0,0,0,1,0
+Femenino,18,Durango,0,0,1,0,0,1,1,0
+Femenino,49,Jalisco,1,0,0,1,0,1,1,1
+Masculino,35,Hidalgo,1,1,0,0,0,0,1,0
+Femenino,35,Quintana Roo,0,0,1,1,0,0,0,1
+Femenino,45,Campeche,1,0,0,0,1,1,0,0
+Masculino,83,Jalisco,0,0,1,0,1,1,1,1
+Masculino,3,Baja California,1,0,0,1,0,0,1,0
+Masculino,60,Aguascalientes,1,1,0,0,0,0,0,0
+Masculino,70,Hidalgo,0,0,1,0,0,1,0,0
+Masculino,21,Sinaloa,0,0,1,1,0,1,0,0
+Masculino,85,Nayarit,1,0,0,0,1,0,1,0
+Masculino,22,Colima,0,1,0,0,0,0,1,1
+Femenino,77,Oaxaca,0,1,0,0,0,0,1,0
+Femenino,70,Ciudad de México,1,0,0,0,0,1,1,1
+Masculino,26,Sinaloa,1,1,0,0,0,0,1,0
+Femenino,95,Chihuahua,1,0,1,0,1,1,0,0
+Femenino,46,Hidalgo,1,0,0,0,1,1,0,1
+Femenino,50,Chihuahua,0,0,0,1,0,1,1,1
+Masculino,83,Chihuahua,0,0,1,0,0,1,0,0
+Masculino,68,Tabasco,0,0,0,0,1,1,0,0
+Femenino,87,Colima,1,1,0,0,0,0,1,0
+Masculino,38,Aguascalientes,1,1,0,0,0,0,1,1
+Femenino,7,Baja California Sur,0,1,0,0,0,0,1,0
+Femenino,25,Nuevo León,0,0,0,1,0,0,1,0
+Femenino,1,Hidalgo,1,0,1,1,0,0,1,1
+Femenino,66,San Luis Potosí,0,0,1,1,1,1,1,1
+Masculino,82,Baja California Sur,0,1,0,0,0,0,1,1
+Masculino,17,Puebla,0,1,0,0,0,0,1,0
+Masculino,43,Chiapas,1,0,0,1,1,1,1,0
+Femenino,6,San Luis Potosí,1,0,0,1,0,1,0,0
+Femenino,37,Ciudad de México,1,0,0,0,1,0,0,1
+Femenino,78,Morelos,0,0,1,1,0,1,0,0
+Masculino,24,Yucatán,0,0,0,1,1,0,0,0
+Masculino,100,Quintana Roo,0,1,0,0,0,0,1,1
+Femenino,14,Michoacán,1,1,0,0,0,0,1,0
+Masculino,63,Quintana Roo,1,0,1,0,1,0,1,0
+Masculino,100,Chiapas,1,0,0,1,1,1,1,1
+Masculino,14,Colima,0,1,0,0,0,0,1,0
+Masculino,78,Querétaro,1,1,0,0,0,0,1,0
+Masculino,55,Sonora,1,0,0,0,0,0,0,0
+Masculino,62,Coahuila,0,0,1,0,0,1,0,0
+Femenino,8,Tamaulipas,1,1,0,0,0,0,1,1
+Femenino,6,Jalisco,1,1,0,0,0,0,1,0
+Femenino,1,Hidalgo,1,0,0,1,1,0,1,0
+Femenino,89,Durango,0,1,0,0,0,0,1,0
+Femenino,15,Quintana Roo,0,1,0,0,0,0,1,0
+Masculino,21,Baja California,1,1,0,0,0,0,1,0
+Femenino,69,Oaxaca,1,1,0,0,0,0,0,1
+Masculino,72,Durango,0,1,0,0,0,0,1,0
+Femenino,69,Tlaxcala,0,0,1,1,1,0,0,0
+Femenino,12,Nayarit,1,1,0,0,0,0,0,0
+Masculino,9,Guanajuato,1,1,0,0,0,0,1,0
+Masculino,83,Baja California Sur,1,1,0,0,0,0,0,0
+Femenino,35,Ciudad de México,1,0,0,0,0,0,1,0
+Masculino,66,Chihuahua,1,0,1,1,0,1,1,1
+Masculino,66,Sinaloa,0,0,0,1,1,0,0,0
+Masculino,87,Sinaloa,0,0,0,1,1,1,1,0
+Masculino,87,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,59,Guanajuato,0,1,0,0,0,0,0,1
+Masculino,1,Nuevo León,1,0,0,0,1,1,0,0
+Femenino,92,Nayarit,1,1,0,0,0,0,1,0
+Femenino,54,Baja California,1,0,0,0,0,0,0,0
+Masculino,30,Yucatán,1,1,0,0,0,0,0,1
+Masculino,98,Tabasco,0,1,0,0,0,0,1,0
+Femenino,82,Tlaxcala,1,0,0,0,0,0,0,1
+Masculino,11,San Luis Potosí,1,0,0,0,1,0,1,1
+Masculino,98,Coahuila,0,1,0,0,0,0,1,0
+Femenino,50,Yucatán,1,0,1,1,0,0,0,1
+Femenino,36,Quintana Roo,1,0,1,0,1,1,0,0
+Masculino,92,Querétaro,0,1,0,0,0,0,1,0
+Masculino,90,Hidalgo,1,0,0,0,0,0,1,1
+Masculino,56,Nayarit,0,0,0,0,0,1,0,1
+Masculino,55,Nayarit,0,1,0,0,0,0,1,1
+Femenino,95,Morelos,0,1,0,0,0,0,0,0
+Masculino,85,Yucatán,0,1,0,0,0,0,1,0
+Femenino,15,Quintana Roo,0,1,0,0,0,0,1,0
+Femenino,92,Quintana Roo,0,0,1,0,1,1,0,1
+Masculino,61,Tamaulipas,1,0,0,0,1,1,0,0
+Femenino,0,Nayarit,0,1,0,0,0,0,1,0
+Masculino,86,Ciudad de México,1,1,0,0,0,0,1,0
+Femenino,77,Quintana Roo,0,0,0,0,0,1,0,0
+Masculino,88,Durango,1,1,0,0,0,0,0,0
+Femenino,17,Querétaro,0,0,0,0,0,0,1,0
+Masculino,34,Baja California Sur,1,1,0,0,0,0,1,1
+Masculino,35,Veracruz,1,1,0,0,0,0,1,1
+Masculino,29,Campeche,0,0,1,0,0,0,1,0
+Masculino,14,Tamaulipas,1,0,1,0,1,0,1,0
+Masculino,18,Durango,0,0,1,1,0,0,1,0
+Femenino,31,Durango,0,0,1,0,1,0,0,1
+Femenino,34,Puebla,1,0,0,1,1,0,1,0
+Masculino,55,Michoacán,0,0,0,1,1,0,1,0
+Masculino,22,Tamaulipas,0,0,0,0,1,1,1,0
+Femenino,89,Puebla,0,1,0,0,0,0,0,0
+Femenino,14,Chihuahua,1,1,0,0,0,0,1,0
+Femenino,58,Colima,1,0,1,0,0,0,1,0
+Femenino,28,Zacatecas,0,0,1,0,1,0,1,1
+Femenino,93,Hidalgo,1,1,0,0,0,0,0,1
+Masculino,38,Chihuahua,0,0,1,1,1,1,1,0
+Masculino,87,Coahuila,1,1,0,0,0,0,1,1
+Femenino,82,Michoacán,0,0,0,0,0,0,0,1
+Femenino,20,Oaxaca,1,0,0,1,1,0,1,0
+Femenino,91,Michoacán,0,1,0,0,0,0,1,0
+Masculino,79,Jalisco,1,0,0,1,1,1,0,1
+Masculino,25,Jalisco,0,1,0,0,0,0,1,0
+Femenino,67,San Luis Potosí,1,1,0,0,0,0,1,1
+Femenino,93,Tabasco,1,1,0,0,0,0,0,1
+Masculino,39,Sonora,1,1,0,0,0,0,1,1
+Femenino,46,Aguascalientes,1,0,0,1,1,0,1,0
+Masculino,23,Tlaxcala,1,0,0,1,0,0,1,0
+Femenino,93,Ciudad de México,1,0,0,0,1,1,1,1
+Masculino,93,Veracruz,1,1,0,0,0,0,0,1
+Femenino,71,Yucatán,0,1,0,0,0,0,1,1
+Masculino,94,Chihuahua,1,0,0,1,0,0,1,0
+Femenino,98,Veracruz,0,1,0,0,0,0,0,0
+Femenino,71,Colima,1,1,0,0,0,0,1,0
+Masculino,13,Nuevo León,1,1,0,0,0,0,0,0
+Femenino,47,Durango,0,1,0,0,0,0,0,1
+Femenino,12,Ciudad de México,0,0,0,0,1,0,1,0
+Masculino,69,Ciudad de México,0,1,0,0,0,0,1,0
+Femenino,39,Tamaulipas,0,1,0,0,0,0,1,0
+Femenino,49,Baja California,1,0,1,0,0,0,1,1
+Masculino,100,Ciudad de México,1,1,0,0,0,0,0,1
+Masculino,58,Ciudad de México,1,1,0,0,0,0,1,1
+Masculino,46,Sonora,1,0,1,0,1,1,0,0
+Masculino,86,Guerrero,1,1,0,0,0,0,1,0
+Femenino,92,Aguascalientes,0,1,0,0,0,0,0,1
+Masculino,22,Guanajuato,1,1,0,0,0,0,0,1
+Masculino,4,Tabasco,0,0,1,0,0,1,1,1
+Femenino,75,Baja California,1,0,1,0,0,1,0,0
+Masculino,70,Ciudad de México,0,1,0,0,0,0,1,1
+Masculino,52,Michoacán,0,1,0,0,0,0,1,0
+Masculino,14,Nuevo León,1,0,1,0,0,1,1,0
+Masculino,52,Tlaxcala,0,1,0,0,0,0,1,0
+Femenino,79,Tamaulipas,1,1,0,0,0,0,0,0
+Masculino,19,Querétaro,0,0,1,1,0,1,1,0
+Masculino,74,San Luis Potosí,0,1,0,0,0,0,1,0
+Femenino,31,San Luis Potosí,1,0,1,0,0,0,1,0
+Femenino,38,Baja California Sur,0,0,0,1,1,0,1,0
+Masculino,84,Aguascalientes,0,1,0,0,0,0,1,1
+Femenino,4,Sinaloa,0,1,0,0,0,0,1,0
+Femenino,0,Nayarit,0,0,0,1,0,1,1,1
+Femenino,91,Oaxaca,0,0,1,1,1,1,0,0
+Masculino,72,Chihuahua,0,1,0,0,0,0,1,1
+Femenino,52,Morelos,0,0,0,0,0,1,0,1
+Masculino,13,Zacatecas,0,0,0,0,0,0,1,0
+Femenino,23,Veracruz,1,1,0,0,0,0,0,0
+Masculino,32,Ciudad de México,0,1,0,0,0,0,1,0
+Masculino,4,Nuevo León,0,0,0,1,1,1,1,0
+Femenino,82,Querétaro,1,1,0,0,0,0,1,0
+Masculino,15,Tamaulipas,0,0,0,0,1,1,1,1
+Masculino,69,Jalisco,0,0,1,0,1,1,0,0
+Femenino,85,Morelos,0,1,0,0,0,0,1,0
+Femenino,18,Michoacán,0,1,0,0,0,0,1,0
+Masculino,67,Oaxaca,1,1,0,0,0,0,1,1
+Femenino,65,Chiapas,1,0,0,0,1,0,0,0
+Femenino,68,Tabasco,1,0,0,0,1,1,1,0
+Femenino,72,San Luis Potosí,1,1,0,0,0,0,0,1
+Masculino,82,Puebla,0,1,0,0,0,0,0,0
+Femenino,86,Zacatecas,1,1,0,0,0,0,0,0
+Femenino,77,Baja California Sur,0,1,0,0,0,0,1,0
+Femenino,70,Jalisco,1,0,1,0,1,1,1,1
+Femenino,55,Nuevo León,1,0,0,0,0,1,1,0
+Femenino,20,Colima,0,0,0,1,0,1,0,0
+Masculino,67,Morelos,1,1,0,0,0,0,1,0
+Masculino,14,Guerrero,1,1,0,0,0,0,1,1
+Femenino,76,Guerrero,1,0,1,0,1,0,0,1
+Masculino,63,Querétaro,0,0,1,0,0,1,1,0
+Masculino,17,Campeche,1,0,0,1,0,1,1,0
+Femenino,100,Baja California Sur,0,1,0,0,0,0,0,0
+Femenino,53,Hidalgo,0,0,1,0,0,0,1,1
+Femenino,56,Oaxaca,0,1,0,0,0,0,0,0
+Masculino,85,Guanajuato,0,0,0,1,0,0,1,1
+Masculino,95,Chihuahua,1,0,1,1,0,0,0,1
+Femenino,7,Guerrero,0,1,0,0,0,0,1,0
+Masculino,18,Ciudad de México,0,1,0,0,0,0,0,0
+Femenino,63,Puebla,0,1,0,0,0,0,1,0
+Femenino,96,Sinaloa,0,1,0,0,0,0,1,0
+Femenino,4,Oaxaca,1,1,0,0,0,0,1,0
+Femenino,17,Guerrero,0,1,0,0,0,0,1,1
+Femenino,50,Yucatán,0,1,0,0,0,0,1,1
+Masculino,29,Michoacán,1,1,0,0,0,0,1,0
+Masculino,16,Querétaro,1,0,0,1,1,0,1,0
+Femenino,24,Veracruz,1,0,1,1,1,1,1,0
+Masculino,17,Hidalgo,0,0,0,0,1,0,1,0
+Femenino,71,Guerrero,0,0,0,0,0,1,1,0
+Femenino,19,Colima,0,0,0,0,0,0,1,0
+Femenino,75,Guanajuato,1,1,0,0,0,0,1,0
+Femenino,98,Tamaulipas,1,0,1,0,0,1,1,0
+Masculino,80,Baja California,1,0,1,1,1,1,0,1
+Femenino,66,Yucatán,1,1,0,0,0,0,1,0
+Masculino,4,San Luis Potosí,0,0,0,0,1,1,1,0
+Masculino,12,Chihuahua,1,1,0,0,0,0,1,0
+Femenino,53,Baja California,0,1,0,0,0,0,1,0
+Femenino,75,Tabasco,1,0,0,1,1,1,0,0
+Femenino,28,Yucatán,1,0,0,0,0,0,0,0
+Masculino,65,Yucatán,1,0,0,0,0,1,0,1
+Femenino,78,Nayarit,1,1,0,0,0,0,0,0
+Masculino,52,Coahuila,0,1,0,0,0,0,1,0
+Femenino,30,Nuevo León,0,0,1,1,0,1,0,1
+Femenino,59,Baja California Sur,1,0,0,0,0,1,0,0
+Femenino,62,Hidalgo,0,1,0,0,0,0,1,0
+Masculino,52,Nayarit,0,0,0,0,1,1,1,0
+Femenino,65,Morelos,1,1,0,0,0,0,0,1
+Femenino,75,Yucatán,0,0,0,0,0,1,1,0
+Femenino,80,Zacatecas,1,0,1,0,0,1,0,0
+Masculino,34,Guerrero,0,1,0,0,0,0,0,0
+Femenino,74,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,57,Colima,0,0,0,1,1,1,0,0
+Femenino,79,Sinaloa,1,1,0,0,0,0,1,0
+Masculino,36,Chiapas,0,1,0,0,0,0,1,0
+Masculino,87,Sinaloa,0,1,0,0,0,0,0,0
+Masculino,95,Chihuahua,1,0,1,0,0,0,0,0
+Femenino,34,Hidalgo,1,0,1,1,0,1,1,0
+Masculino,48,Michoacán,1,1,0,0,0,0,0,0
+Femenino,91,Sonora,1,1,0,0,0,0,1,0
+Femenino,40,Michoacán,1,1,0,0,0,0,0,1
+Masculino,78,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,93,Morelos,0,1,0,0,0,0,1,1
+Femenino,0,Colima,0,0,1,1,1,0,1,0
+Femenino,94,Hidalgo,1,0,1,1,1,1,0,0
+Masculino,4,Ciudad de México,1,0,0,0,0,0,1,0
+Femenino,67,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,69,Baja California,1,0,0,0,0,0,1,0
+Femenino,43,Ciudad de México,0,0,0,0,0,1,0,0
+Femenino,95,Tamaulipas,1,1,0,0,0,0,0,0
+Femenino,21,Puebla,1,1,0,0,0,0,1,0
+Masculino,63,Nuevo León,0,1,0,0,0,0,1,1
+Masculino,37,Colima,1,1,0,0,0,0,1,0
+Femenino,67,Sonora,0,1,0,0,0,0,0,0
+Femenino,48,Colima,0,0,0,0,1,1,1,0
+Masculino,88,Guerrero,1,1,0,0,0,0,0,0
+Masculino,19,Puebla,0,0,1,0,0,1,1,0
+Masculino,1,Nayarit,0,1,0,0,0,0,1,0
+Femenino,80,Zacatecas,0,0,1,0,0,0,1,0
+Masculino,59,Sonora,1,0,0,0,0,0,0,0
+Masculino,74,Veracruz,0,1,0,0,0,0,1,0
+Femenino,87,Aguascalientes,1,0,1,0,1,0,0,0
+Femenino,89,Sinaloa,0,1,0,0,0,0,1,1
+Masculino,81,Colima,0,0,0,0,1,1,0,1
+Femenino,98,Sinaloa,1,1,0,0,0,0,0,1
+Masculino,91,Guerrero,1,0,0,1,1,0,0,0
+Masculino,56,Jalisco,0,1,0,0,0,0,0,0
+Masculino,45,Guanajuato,0,0,0,1,1,1,0,0
+Masculino,21,San Luis Potosí,1,0,1,1,0,1,1,0
+Femenino,51,Baja California Sur,0,1,0,0,0,0,0,0
+Masculino,78,Tlaxcala,1,1,0,0,0,0,0,0
+Masculino,95,Nuevo León,0,1,0,0,0,0,0,0
+Femenino,26,Tlaxcala,0,1,0,0,0,0,0,1
+Femenino,8,Puebla,1,0,0,0,1,0,1,0
+Femenino,99,Tabasco,0,0,1,0,0,0,1,1
+Femenino,83,Chiapas,0,1,0,0,0,0,1,0
+Masculino,14,Nuevo León,0,0,0,0,0,1,1,0
+Femenino,75,Nayarit,1,1,0,0,0,0,0,0
+Femenino,54,Chihuahua,1,0,0,0,1,1,0,0
+Femenino,38,Colima,1,1,0,0,0,0,1,0
+Femenino,96,Jalisco,1,0,1,0,1,0,1,1
+Masculino,95,Tamaulipas,0,0,0,0,1,0,0,0
+Femenino,97,Tamaulipas,1,0,1,0,0,1,0,0
+Femenino,62,Zacatecas,1,0,0,1,1,0,0,1
+Masculino,29,Chihuahua,1,0,1,1,0,0,0,0
+Femenino,50,Tabasco,0,0,1,0,1,1,1,0
+Masculino,65,Baja California,1,1,0,0,0,0,1,1
+Femenino,98,Baja California Sur,1,1,0,0,0,0,1,0
+Masculino,78,Colima,1,0,1,0,0,0,1,0
+Masculino,28,Baja California,0,0,1,0,0,1,0,0
+Masculino,7,Nayarit,0,1,0,0,0,0,1,0
+Femenino,39,Chiapas,1,0,0,1,0,1,1,0
+Masculino,43,Oaxaca,0,1,0,0,0,0,0,0
+Masculino,45,Chiapas,0,1,0,0,0,0,1,1
+Femenino,50,Coahuila,1,1,0,0,0,0,1,0
+Femenino,95,Campeche,0,0,1,1,0,1,1,0
+Masculino,7,Nuevo León,0,1,0,0,0,0,1,0
+Femenino,86,Querétaro,0,0,1,0,1,0,0,0
+Masculino,63,Baja California Sur,0,1,0,0,0,0,1,0
+Femenino,30,Guanajuato,1,1,0,0,0,0,0,0
+Femenino,96,Oaxaca,0,0,1,0,1,1,0,0
+Femenino,37,Nayarit,1,1,0,0,0,0,1,0
+Masculino,44,Durango,1,1,0,0,0,0,1,1
+Masculino,54,Chiapas,0,0,0,0,0,0,1,0
+Femenino,76,Nayarit,0,0,0,1,1,1,1,0
+Masculino,66,Aguascalientes,1,0,0,0,0,0,0,1
+Femenino,50,Veracruz,0,1,0,0,0,0,0,0
+Femenino,34,Coahuila,0,1,0,0,0,0,1,1
+Masculino,70,Morelos,1,1,0,0,0,0,0,1
+Masculino,42,Hidalgo,0,1,0,0,0,0,1,1
+Femenino,63,Campeche,0,0,1,0,0,1,1,0
+Masculino,8,Colima,1,0,0,1,0,0,1,0
+Femenino,6,Aguascalientes,0,0,1,0,1,0,1,0
+Femenino,47,Veracruz,0,1,0,0,0,0,1,0
+Masculino,94,San Luis Potosí,0,1,0,0,0,0,0,1
+Masculino,91,Baja California Sur,1,0,1,1,1,0,1,0
+Femenino,25,Chiapas,0,1,0,0,0,0,1,0
+Masculino,12,Aguascalientes,0,0,1,0,0,1,1,0
+Femenino,18,Tabasco,1,0,1,0,1,1,0,0
+Femenino,62,Colima,0,1,0,0,0,0,1,0
+Masculino,86,Baja California,1,1,0,0,0,0,1,1
+Femenino,89,Sinaloa,1,1,0,0,0,0,0,1
+Masculino,100,Jalisco,1,1,0,0,0,0,0,0
+Masculino,1,San Luis Potosí,1,1,0,0,0,0,1,0
+Masculino,48,Yucatán,1,0,1,1,0,1,1,0
+Masculino,21,Veracruz,0,0,1,1,0,0,1,0
+Femenino,32,Ciudad de México,0,0,1,0,1,1,0,0
+Femenino,1,Campeche,1,1,0,0,0,0,1,1
+Masculino,89,Yucatán,0,0,0,0,1,0,1,1
+Femenino,14,Nayarit,0,1,0,0,0,0,1,0
+Femenino,53,Puebla,0,1,0,0,0,0,0,0
+Masculino,47,Coahuila,1,0,1,1,0,0,0,0
+Masculino,90,Nayarit,1,1,0,0,0,0,0,0
+Femenino,7,Quintana Roo,1,1,0,0,0,0,1,1
+Masculino,37,Nuevo León,1,0,1,1,0,1,0,0
+Femenino,8,Puebla,0,1,0,0,0,0,1,1
+Masculino,66,Morelos,1,1,0,0,0,0,1,1
+Femenino,95,Durango,0,1,0,0,0,0,1,1
+Masculino,47,Zacatecas,0,1,0,0,0,0,1,1
+Femenino,23,Baja California,0,0,0,0,1,0,1,0
+Masculino,33,Baja California,0,0,0,1,0,0,0,0
+Femenino,24,Yucatán,0,0,1,1,0,1,1,0
+Femenino,79,Chihuahua,0,1,0,0,0,0,0,0
+Masculino,58,Coahuila,0,0,0,0,1,0,1,0
+Femenino,94,Sonora,1,0,1,1,1,1,0,0
+Masculino,74,Sonora,0,0,0,0,1,0,1,1
+Masculino,74,Baja California,0,1,0,0,0,0,0,0
+Masculino,25,Colima,1,1,0,0,0,0,1,0
+Femenino,2,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,85,Durango,0,1,0,0,0,0,0,1
+Femenino,88,Jalisco,1,0,1,0,0,0,0,0
+Femenino,27,Quintana Roo,1,1,0,0,0,0,1,0
+Masculino,39,Puebla,0,0,1,0,1,0,0,0
+Femenino,28,Aguascalientes,0,1,0,0,0,0,0,0
+Femenino,12,Sinaloa,1,0,0,1,0,0,1,0
+Femenino,32,Chihuahua,1,0,0,0,0,1,1,0
+Masculino,97,Baja California Sur,0,0,0,1,0,0,0,0
+Masculino,42,Chihuahua,0,0,0,0,0,1,0,1
+Femenino,42,Sinaloa,1,1,0,0,0,0,1,0
+Femenino,9,Guerrero,1,0,1,0,0,0,1,0
+Masculino,72,Durango,0,1,0,0,0,0,1,1
+Femenino,71,Guanajuato,1,0,1,1,0,0,0,1
+Masculino,59,Aguascalientes,0,1,0,0,0,0,1,0
+Masculino,46,Nuevo León,0,0,1,0,1,0,1,1
+Femenino,82,Oaxaca,1,0,1,0,0,0,0,0
+Masculino,75,Baja California Sur,0,0,1,0,1,0,1,1
+Masculino,31,Colima,0,0,0,1,1,1,1,0
+Masculino,25,Sonora,1,1,0,0,0,0,1,0
+Femenino,7,Baja California Sur,0,1,0,0,0,0,0,0
+Femenino,19,Chiapas,1,1,0,0,0,0,0,1
+Femenino,58,Michoacán,1,1,0,0,0,0,1,0
+Femenino,17,Chiapas,1,1,0,0,0,0,1,0
+Masculino,61,Yucatán,0,0,1,1,0,0,1,0
+Femenino,56,Nayarit,0,1,0,0,0,0,1,0
+Femenino,15,Baja California Sur,0,1,0,0,0,0,0,1
+Masculino,59,Campeche,0,1,0,0,0,0,1,0
+Femenino,19,Sonora,1,1,0,0,0,0,1,0
+Femenino,13,Veracruz,1,0,0,0,0,0,1,0
+Masculino,82,Aguascalientes,0,1,0,0,0,0,1,0
+Masculino,99,Colima,0,0,0,1,1,1,0,0
+Masculino,73,Sonora,1,0,0,0,0,0,1,0
+Femenino,67,Veracruz,0,1,0,0,0,0,1,0
+Masculino,72,Nuevo León,0,0,1,0,0,0,0,1
+Femenino,59,Morelos,1,0,0,0,0,0,1,0
+Femenino,67,Hidalgo,1,1,0,0,0,0,1,0
+Masculino,84,Jalisco,1,1,0,0,0,0,0,0
+Femenino,54,Durango,1,1,0,0,0,0,1,0
+Masculino,27,Zacatecas,1,1,0,0,0,0,1,1
+Femenino,33,Oaxaca,0,1,0,0,0,0,0,0
+Masculino,65,Campeche,1,0,1,1,0,0,0,0
+Masculino,6,Coahuila,1,1,0,0,0,0,1,1
+Femenino,64,Baja California Sur,1,0,0,1,0,1,1,0
+Femenino,4,Baja California,1,1,0,0,0,0,1,0
+Masculino,82,Morelos,0,0,0,1,1,0,1,0
+Masculino,3,Aguascalientes,0,0,0,1,1,1,1,1
+Masculino,56,Nuevo León,1,0,1,1,1,1,1,1
+Femenino,22,Tabasco,0,0,0,1,1,0,0,0
+Masculino,14,Ciudad de México,1,1,0,0,0,0,1,1
+Masculino,76,Campeche,1,0,0,0,0,0,1,1
+Femenino,43,Nayarit,1,1,0,0,0,0,1,0
+Femenino,59,Chihuahua,1,1,0,0,0,0,1,0
+Masculino,21,Puebla,0,0,1,0,1,1,1,0
+Masculino,27,Jalisco,1,1,0,0,0,0,1,1
+Femenino,28,Sinaloa,1,1,0,0,0,0,1,0
+Femenino,83,Aguascalientes,1,1,0,0,0,0,0,0
+Femenino,48,Puebla,1,0,0,0,1,1,1,0
+Masculino,85,Quintana Roo,1,0,1,1,0,0,1,0
+Masculino,18,Tlaxcala,1,1,0,0,0,0,0,0
+Masculino,57,Zacatecas,0,0,1,1,1,1,1,1
+Femenino,24,Tamaulipas,0,1,0,0,0,0,1,1
+Masculino,60,Hidalgo,0,0,0,1,0,1,1,0
+Femenino,49,San Luis Potosí,0,0,1,1,0,0,1,0
+Masculino,92,Querétaro,1,0,0,1,0,0,0,0
+Femenino,75,Ciudad de México,0,1,0,0,0,0,1,0
+Femenino,83,Tlaxcala,1,0,1,1,1,0,1,0
+Femenino,52,Guerrero,0,0,0,0,0,1,1,0
+Femenino,44,Michoacán,0,0,1,0,1,0,1,0
+Femenino,7,Ciudad de México,0,0,0,0,1,1,1,0
+Femenino,13,Tabasco,1,0,1,0,1,0,1,1
+Masculino,59,Oaxaca,0,1,0,0,0,0,0,0
+Femenino,85,Guanajuato,0,0,0,1,1,0,0,0
+Masculino,10,Colima,0,1,0,0,0,0,1,1
+Femenino,36,Baja California,1,0,0,0,1,1,0,0
+Masculino,34,Sonora,1,0,0,1,0,0,1,0
+Femenino,17,Michoacán,0,1,0,0,0,0,0,1
+Femenino,63,Zacatecas,0,0,0,0,1,1,1,0
+Masculino,83,Oaxaca,1,0,0,0,0,1,1,0
+Femenino,59,Coahuila,1,0,0,1,0,0,1,0
+Masculino,2,Campeche,1,0,0,0,0,0,1,1
+Masculino,67,Quintana Roo,0,1,0,0,0,0,1,0
+Femenino,63,Michoacán,0,0,1,1,0,1,0,1
+Femenino,83,Tabasco,1,0,0,1,0,0,0,0
+Femenino,78,Guanajuato,1,0,0,1,1,1,1,0
+Masculino,34,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,30,Hidalgo,1,0,1,1,1,0,0,0
+Femenino,36,Nuevo León,1,1,0,0,0,0,1,0
+Masculino,68,Jalisco,1,1,0,0,0,0,0,1
+Femenino,65,Aguascalientes,1,0,1,1,0,1,1,1
+Masculino,69,Tabasco,1,1,0,0,0,0,0,0
+Femenino,45,Ciudad de México,0,1,0,0,0,0,1,0
+Femenino,27,Sonora,1,1,0,0,0,0,1,1
+Femenino,58,Ciudad de México,1,0,1,1,0,1,0,1
+Masculino,66,Puebla,1,0,0,0,1,0,1,1
+Femenino,17,San Luis Potosí,1,0,1,0,0,1,1,0
+Femenino,15,Guanajuato,0,1,0,0,0,0,1,1
+Masculino,57,San Luis Potosí,0,0,0,0,1,0,0,0
+Masculino,81,Nuevo León,1,1,0,0,0,0,1,1
+Femenino,21,Baja California,0,1,0,0,0,0,0,0
+Femenino,16,Campeche,0,1,0,0,0,0,1,0
+Masculino,63,Chiapas,0,0,0,1,1,1,0,0
+Masculino,19,Baja California,0,0,1,1,0,0,1,0
+Femenino,23,Tamaulipas,0,1,0,0,0,0,1,1
+Femenino,79,Coahuila,1,1,0,0,0,0,0,0
+Masculino,71,Oaxaca,0,1,0,0,0,0,1,1
+Masculino,92,Chihuahua,1,0,1,1,1,0,0,0
+Masculino,16,Chiapas,1,1,0,0,0,0,0,0
+Masculino,23,Chihuahua,0,1,0,0,0,0,1,0
+Femenino,0,Colima,0,0,1,1,1,1,1,0
+Femenino,29,Michoacán,1,0,1,0,0,1,1,1
+Masculino,82,Nayarit,1,0,1,0,1,1,0,1
+Masculino,60,Querétaro,0,0,1,0,0,1,0,0
+Masculino,41,Jalisco,0,0,0,1,1,1,1,0
+Masculino,71,Quintana Roo,1,0,0,1,0,0,1,0
+Femenino,29,Guerrero,1,0,0,1,0,1,1,0
+Masculino,86,Baja California,0,0,1,0,0,0,1,1
+Masculino,64,Morelos,0,1,0,0,0,0,1,0
+Femenino,1,Chiapas,0,0,0,1,1,0,1,0
+Femenino,36,Guanajuato,0,0,0,1,1,0,1,0
+Masculino,12,Querétaro,1,0,1,1,1,0,1,0
+Femenino,58,Veracruz,1,0,0,0,1,1,1,0
+Femenino,69,Chiapas,0,1,0,0,0,0,0,0
+Masculino,38,Michoacán,1,1,0,0,0,0,1,0
+Masculino,89,Morelos,1,0,1,1,0,1,0,1
+Femenino,13,Quintana Roo,0,0,1,1,1,0,0,0
+Masculino,3,Chihuahua,1,0,1,0,0,1,1,0
+Masculino,81,Tlaxcala,1,1,0,0,0,0,0,0
+Femenino,4,Colima,1,0,0,0,0,1,1,0
+Femenino,44,Yucatán,1,0,1,0,0,1,0,0
+Masculino,25,Hidalgo,1,0,1,1,0,0,1,0
+Femenino,64,Chihuahua,0,1,0,0,0,0,0,0
+Masculino,59,Guerrero,1,0,0,1,1,0,1,0
+Masculino,72,Guanajuato,1,0,1,0,1,0,0,0
+Masculino,59,Chihuahua,0,1,0,0,0,0,1,0
+Masculino,76,Durango,1,1,0,0,0,0,1,0
+Femenino,23,Quintana Roo,0,0,0,0,1,1,1,0
+Femenino,77,Zacatecas,1,0,1,0,0,0,0,0
+Masculino,85,Hidalgo,0,0,1,0,0,1,0,1
+Masculino,8,Guerrero,1,1,0,0,0,0,0,0
+Masculino,92,Morelos,1,1,0,0,0,0,1,0
+Femenino,95,Durango,1,0,1,1,0,1,0,0
+Femenino,1,Yucatán,1,0,0,0,0,1,1,0
+Masculino,29,San Luis Potosí,1,0,0,1,1,0,1,0
+Masculino,54,Jalisco,1,0,1,1,1,1,0,1
+Masculino,6,Durango,0,0,0,1,0,1,1,1
+Masculino,47,Durango,0,0,1,0,1,0,1,0
+Femenino,66,Guanajuato,1,0,1,0,1,1,1,0
+Masculino,99,Baja California,1,1,0,0,0,0,1,0
+Masculino,31,Morelos,0,1,0,0,0,0,1,1
+Femenino,4,Guanajuato,0,1,0,0,0,0,1,0
+Femenino,7,Baja California Sur,1,1,0,0,0,0,1,1
+Masculino,94,Querétaro,1,1,0,0,0,0,0,1
+Femenino,76,Nuevo León,0,1,0,0,0,0,1,1
+Femenino,41,Yucatán,1,1,0,0,0,0,1,1
+Masculino,72,Veracruz,0,1,0,0,0,0,0,0
+Masculino,39,Guanajuato,0,1,0,0,0,0,0,0
+Masculino,61,Zacatecas,0,0,1,1,0,0,1,1
+Femenino,12,San Luis Potosí,1,0,1,1,1,0,1,0
+Femenino,28,Tamaulipas,1,0,1,0,1,1,0,0
+Masculino,38,Baja California Sur,1,1,0,0,0,0,0,0
+Masculino,84,Tabasco,1,0,0,0,0,0,0,0
+Femenino,95,Chiapas,1,0,0,1,0,0,0,0
+Femenino,71,Oaxaca,0,0,0,1,1,0,1,0
+Masculino,88,Oaxaca,0,0,0,1,0,1,0,0
+Femenino,63,Veracruz,0,1,0,0,0,0,1,0
+Femenino,52,Chiapas,1,0,0,0,1,0,1,0
+Masculino,83,Nuevo León,0,0,1,1,0,0,1,0
+Masculino,48,Baja California Sur,1,0,1,0,0,0,1,0
+Femenino,1,Tabasco,1,1,0,0,0,0,1,0
+Masculino,5,Guerrero,0,1,0,0,0,0,1,0
+Masculino,51,Campeche,0,1,0,0,0,0,0,0
+Femenino,2,Puebla,1,1,0,0,0,0,1,1
+Femenino,84,Tabasco,0,0,1,1,1,0,1,0
+Femenino,37,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,82,Chiapas,1,0,1,1,1,0,0,1
+Femenino,56,Tlaxcala,1,1,0,0,0,0,1,0
+Femenino,6,Veracruz,1,1,0,0,0,0,1,0
+Femenino,40,Quintana Roo,0,1,0,0,0,0,1,0
+Femenino,56,Zacatecas,0,0,0,1,1,1,1,0
+Masculino,4,Chihuahua,1,0,0,1,1,0,1,1
+Femenino,90,Quintana Roo,0,1,0,0,0,0,1,0
+Masculino,14,Aguascalientes,1,1,0,0,0,0,1,0
+Masculino,13,Morelos,0,0,0,0,1,1,1,0
+Femenino,28,Hidalgo,1,1,0,0,0,0,0,0
+Masculino,93,Chihuahua,0,1,0,0,0,0,1,0
+Masculino,18,Querétaro,0,1,0,0,0,0,1,0
+Masculino,17,Ciudad de México,0,1,0,0,0,0,1,0
+Masculino,87,San Luis Potosí,0,1,0,0,0,0,0,1
+Femenino,72,Sinaloa,0,1,0,0,0,0,1,0
+Femenino,80,Baja California,0,0,0,0,1,0,1,1
+Femenino,59,Zacatecas,1,0,0,1,1,1,1,1
+Femenino,84,Guerrero,0,0,1,1,1,1,0,0
+Masculino,12,Yucatán,1,0,0,1,1,0,1,0
+Masculino,50,Chihuahua,1,0,0,1,1,1,1,0
+Masculino,29,Yucatán,0,0,0,1,0,0,0,1
+Femenino,5,Tabasco,0,1,0,0,0,0,1,0
+Masculino,72,Puebla,0,0,0,1,0,0,1,1
+Femenino,25,Tamaulipas,1,0,1,1,1,1,1,0
+Masculino,11,Coahuila,0,1,0,0,0,0,1,0
+Masculino,38,Puebla,1,1,0,0,0,0,1,1
+Femenino,26,Michoacán,0,1,0,0,0,0,1,1
+Masculino,74,Ciudad de México,0,0,0,0,0,1,1,0
+Femenino,82,Colima,1,1,0,0,0,0,0,0
+Masculino,92,Michoacán,1,1,0,0,0,0,0,0
+Masculino,5,Nuevo León,0,1,0,0,0,0,1,0
+Masculino,45,Guerrero,1,1,0,0,0,0,1,0
+Masculino,98,Hidalgo,1,0,1,0,1,0,0,0
+Femenino,11,Colima,0,1,0,0,0,0,1,0
+Masculino,69,Campeche,0,1,0,0,0,0,1,0
+Masculino,21,Tabasco,1,0,1,0,1,1,1,0
+Masculino,54,Baja California,0,0,0,0,1,0,1,1
+Femenino,36,Oaxaca,1,1,0,0,0,0,1,1
+Femenino,77,Puebla,1,0,0,0,0,1,0,0
+Masculino,0,Tlaxcala,0,0,1,0,1,1,0,0
+Masculino,27,Durango,0,1,0,0,0,0,0,0
+Masculino,100,Nayarit,1,0,1,0,0,0,0,0
+Femenino,95,Veracruz,0,1,0,0,0,0,1,0
+Masculino,4,Tamaulipas,0,1,0,0,0,0,1,1
+Femenino,10,Querétaro,1,1,0,0,0,0,1,1
+Masculino,73,Jalisco,1,0,1,0,1,0,1,0
+Masculino,43,Puebla,0,1,0,0,0,0,0,0
+Femenino,42,Colima,1,0,1,1,0,0,1,1
+Masculino,85,Hidalgo,1,1,0,0,0,0,0,1
+Femenino,98,Tlaxcala,1,1,0,0,0,0,0,0
+Femenino,4,Quintana Roo,0,1,0,0,0,0,1,0
+Masculino,11,Guanajuato,1,1,0,0,0,0,1,0
+Femenino,0,San Luis Potosí,0,0,1,1,0,1,1,1
+Masculino,50,Jalisco,1,1,0,0,0,0,0,0
+Masculino,11,Sonora,1,0,1,0,0,0,1,0
+Femenino,23,Ciudad de México,1,1,0,0,0,0,1,0
+Femenino,84,Hidalgo,0,1,0,0,0,0,1,1
+Femenino,80,Ciudad de México,1,1,0,0,0,0,1,1
+Masculino,12,Durango,0,0,0,1,1,0,1,1
+Masculino,33,Nayarit,0,0,0,0,1,1,1,0
+Femenino,77,Chiapas,0,1,0,0,0,0,1,0
+Femenino,32,Jalisco,1,0,0,1,0,1,0,0
+Femenino,82,San Luis Potosí,0,1,0,0,0,0,1,0
+Masculino,61,Campeche,1,0,0,0,1,0,1,0
+Masculino,82,Guanajuato,1,1,0,0,0,0,0,0
+Femenino,72,Campeche,1,1,0,0,0,0,1,1
+Femenino,9,Yucatán,1,0,0,0,0,1,1,1
+Masculino,69,San Luis Potosí,0,0,0,0,0,1,1,1
+Femenino,15,Michoacán,0,0,1,0,0,1,1,1
+Masculino,45,Nayarit,0,0,0,1,1,1,0,0
+Masculino,22,Tamaulipas,1,1,0,0,0,0,1,0
+Masculino,39,Nayarit,1,0,1,0,1,0,1,0
+Femenino,44,San Luis Potosí,1,1,0,0,0,0,0,0
+Masculino,90,Nayarit,0,0,0,1,0,0,0,0
+Femenino,43,Yucatán,1,1,0,0,0,0,1,0
+Femenino,28,Puebla,0,0,0,1,0,0,1,0
+Femenino,74,San Luis Potosí,1,0,1,0,1,0,0,0
+Masculino,43,Colima,0,1,0,0,0,0,0,0
+Masculino,67,Durango,1,1,0,0,0,0,1,0
+Femenino,54,Guerrero,1,0,0,1,1,0,1,1
+Masculino,2,Tamaulipas,0,1,0,0,0,0,1,0
+Femenino,26,San Luis Potosí,1,1,0,0,0,0,1,1
+Femenino,93,Colima,1,1,0,0,0,0,1,0
+Masculino,75,Campeche,0,1,0,0,0,0,0,0
+Masculino,97,Colima,1,0,0,1,0,1,1,0
+Femenino,72,Nayarit,0,1,0,0,0,0,0,0
+Masculino,47,Jalisco,1,0,1,1,1,1,0,0
+Femenino,87,Sinaloa,0,0,0,1,0,1,0,0
+Masculino,51,Sinaloa,0,0,0,0,0,0,1,0
+Femenino,88,Quintana Roo,0,0,1,0,0,1,0,1
+Femenino,13,Coahuila,1,1,0,0,0,0,1,1
+Femenino,61,Chiapas,0,0,0,0,1,1,1,0
+Masculino,78,Nuevo León,0,0,0,1,0,0,1,1
+Femenino,11,Baja California,0,1,0,0,0,0,1,0
+Femenino,87,Coahuila,1,1,0,0,0,0,0,1
+Femenino,89,Colima,0,0,1,1,0,1,1,1
+Masculino,26,Hidalgo,1,0,0,1,0,0,1,1
+Femenino,52,Aguascalientes,0,0,1,1,0,0,1,1
+Masculino,64,Chiapas,1,1,0,0,0,0,1,0
+Femenino,46,Tlaxcala,1,1,0,0,0,0,0,1
+Masculino,38,Puebla,0,1,0,0,0,0,1,1
+Masculino,45,Guanajuato,1,1,0,0,0,0,1,0
+Femenino,38,Guerrero,0,1,0,0,0,0,1,0
+Femenino,7,Campeche,0,0,0,0,1,0,1,1
+Femenino,94,Querétaro,1,1,0,0,0,0,1,1
+Masculino,8,Chiapas,1,1,0,0,0,0,1,1
+Femenino,26,Hidalgo,1,0,1,1,1,0,0,0
+Femenino,60,Morelos,0,1,0,0,0,0,0,1
+Masculino,27,Querétaro,1,0,0,1,0,1,1,0
+Masculino,9,Nuevo León,1,1,0,0,0,0,1,1
+Femenino,28,Tamaulipas,0,0,0,0,1,0,1,0
+Masculino,43,Veracruz,1,1,0,0,0,0,0,0
+Femenino,7,Tlaxcala,1,0,0,0,1,0,1,0
+Masculino,77,Oaxaca,0,1,0,0,0,0,0,1
+Masculino,3,Querétaro,0,0,0,1,1,0,1,0
+Masculino,53,San Luis Potosí,1,0,0,1,1,1,1,0
+Femenino,44,Chiapas,0,1,0,0,0,0,1,0
+Masculino,45,Baja California,1,0,0,1,0,0,1,1
+Femenino,39,Chiapas,0,1,0,0,0,0,1,0
+Masculino,87,Ciudad de México,1,0,0,0,0,0,1,0
+Femenino,25,Hidalgo,0,0,0,1,1,0,1,0
+Femenino,34,San Luis Potosí,0,0,0,1,1,1,1,0
+Masculino,30,Guerrero,1,1,0,0,0,0,1,0
+Femenino,27,Tamaulipas,1,1,0,0,0,0,1,1
+Femenino,34,Durango,1,1,0,0,0,0,1,0
+Masculino,99,Yucatán,1,1,0,0,0,0,0,1
+Femenino,53,Colima,1,1,0,0,0,0,1,0
+Masculino,9,Quintana Roo,0,1,0,0,0,0,1,0
+Masculino,38,Puebla,1,1,0,0,0,0,0,0
+Masculino,75,Querétaro,0,1,0,0,0,0,0,1
+Masculino,61,San Luis Potosí,1,1,0,0,0,0,0,1
+Masculino,24,Durango,1,0,1,0,0,1,1,1
+Masculino,36,Baja California,1,1,0,0,0,0,0,0
+Femenino,27,Jalisco,0,1,0,0,0,0,1,0
+Masculino,88,Quintana Roo,1,0,0,0,1,1,0,0
+Femenino,47,Tamaulipas,0,1,0,0,0,0,0,0
+Masculino,100,Guerrero,1,1,0,0,0,0,1,0
+Femenino,81,Campeche,0,1,0,0,0,0,1,1
+Femenino,74,Oaxaca,1,0,1,0,1,0,0,0
+Femenino,62,Baja California,1,1,0,0,0,0,1,0
+Masculino,30,Aguascalientes,0,0,0,1,1,0,0,0
+Masculino,0,Michoacán,1,1,0,0,0,0,1,0
+Femenino,27,San Luis Potosí,0,0,1,1,1,1,0,0
+Masculino,37,Chiapas,1,1,0,0,0,0,0,0
+Masculino,4,Guanajuato,1,1,0,0,0,0,1,0
+Femenino,70,Coahuila,1,1,0,0,0,0,1,1
+Masculino,14,Durango,1,0,1,0,0,1,1,0
+Masculino,25,Querétaro,1,0,1,1,1,0,1,0
+Masculino,96,Puebla,1,1,0,0,0,0,0,0
+Femenino,41,Tlaxcala,0,0,1,1,1,1,0,0
+Masculino,17,Campeche,0,1,0,0,0,0,1,0
+Masculino,74,Colima,1,0,1,1,1,1,1,0
+Femenino,14,Hidalgo,0,0,1,0,1,1,1,0
+Masculino,69,Campeche,0,0,0,1,1,0,1,0
+Masculino,54,Campeche,0,1,0,0,0,0,1,0
+Femenino,39,Nuevo León,0,0,1,0,1,0,1,1
+Masculino,55,Tabasco,1,1,0,0,0,0,1,0
+Femenino,23,Veracruz,1,0,0,0,0,0,0,0
+Femenino,62,Sonora,1,1,0,0,0,0,0,0
+Femenino,61,Quintana Roo,1,1,0,0,0,0,1,0
+Masculino,67,Sonora,1,1,0,0,0,0,0,0
+Masculino,42,Aguascalientes,0,1,0,0,0,0,1,1
+Masculino,21,Chiapas,0,1,0,0,0,0,1,0
+Masculino,49,Oaxaca,1,0,0,0,1,1,0,1
+Femenino,6,Tamaulipas,1,1,0,0,0,0,1,0
+Masculino,89,Sonora,0,0,1,0,0,0,1,1
+Masculino,0,Quintana Roo,0,0,1,0,1,1,1,0
+Masculino,21,Coahuila,1,1,0,0,0,0,1,0
+Femenino,66,Yucatán,0,0,1,1,1,0,1,1
+Masculino,75,Colima,0,1,0,0,0,0,1,0
+Femenino,85,Colima,1,0,1,0,0,0,0,0
+Masculino,34,Nuevo León,1,0,0,0,0,1,0,0
+Masculino,45,Tamaulipas,1,0,1,0,0,0,1,0
+Femenino,49,Ciudad de México,0,1,0,0,0,0,1,1
+Masculino,92,Jalisco,0,0,1,0,1,1,0,0
+Femenino,70,Zacatecas,0,1,0,0,0,0,0,0
+Masculino,33,Aguascalientes,1,0,0,0,0,0,1,0
+Masculino,90,Morelos,1,1,0,0,0,0,0,1
+Femenino,31,San Luis Potosí,0,0,1,1,0,0,0,0
+Masculino,46,Chiapas,0,0,1,0,0,1,1,1
+Femenino,6,Michoacán,0,0,1,1,0,0,1,0
+Masculino,14,Nuevo León,0,1,0,0,0,0,1,0
+Masculino,21,Jalisco,1,1,0,0,0,0,1,0
+Femenino,97,Oaxaca,1,0,0,0,1,1,0,0
+Masculino,12,Yucatán,1,0,0,1,1,1,1,0
+Femenino,59,Sinaloa,0,1,0,0,0,0,1,0
+Masculino,46,Sonora,0,1,0,0,0,0,1,0
+Masculino,51,Jalisco,1,1,0,0,0,0,1,0
+Femenino,89,Oaxaca,0,1,0,0,0,0,0,0
+Masculino,33,Tlaxcala,0,0,1,0,0,0,0,0
+Femenino,44,Hidalgo,0,0,1,0,1,1,0,0
+Masculino,19,Guerrero,1,0,1,0,1,0,1,0
+Masculino,22,Yucatán,1,0,1,0,1,0,1,0
+Femenino,24,Puebla,1,1,0,0,0,0,1,0
+Masculino,6,Nayarit,0,1,0,0,0,0,1,0
+Masculino,92,Zacatecas,1,0,1,0,0,0,0,0
+Femenino,53,Yucatán,0,0,1,0,1,0,0,0
+Masculino,82,Baja California Sur,0,0,0,0,0,0,0,0
+Masculino,74,Morelos,1,1,0,0,0,0,1,1
+Femenino,22,Zacatecas,0,0,0,0,0,0,1,0
+Masculino,10,Durango,0,1,0,0,0,0,1,0
+Femenino,57,Hidalgo,1,1,0,0,0,0,1,0
+Femenino,78,Oaxaca,1,1,0,0,0,0,0,0
+Masculino,5,Michoacán,0,0,1,0,0,0,1,1
+Femenino,90,Chihuahua,1,0,1,0,1,1,1,1
+Masculino,23,Nuevo León,0,0,1,1,1,1,1,0
+Femenino,91,Ciudad de México,1,1,0,0,0,0,1,0
+Masculino,7,Tabasco,0,1,0,0,0,0,1,1
+Femenino,81,Baja California Sur,1,1,0,0,0,0,0,1
+Femenino,33,Zacatecas,1,0,0,1,1,0,0,1
+Masculino,98,Hidalgo,0,0,0,1,1,0,0,1
+Masculino,76,Baja California,0,0,0,0,1,1,0,1
+Femenino,94,Yucatán,1,1,0,0,0,0,0,1
+Masculino,55,Sonora,1,0,1,0,0,1,1,1
+Masculino,13,Durango,1,0,1,0,0,0,1,0
+Masculino,35,Sinaloa,0,1,0,0,0,0,1,1
+Masculino,62,Tlaxcala,0,0,0,1,0,1,1,0
+Masculino,60,Tlaxcala,0,0,1,0,0,1,1,0
+Masculino,17,Yucatán,0,1,0,0,0,0,1,0
+Masculino,25,Hidalgo,1,1,0,0,0,0,1,1
+Femenino,30,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,1,Campeche,1,0,1,1,1,1,1,0
+Masculino,25,Tabasco,1,1,0,0,0,0,1,0
+Masculino,69,Oaxaca,0,0,1,1,0,0,0,0
+Femenino,89,Jalisco,0,0,0,1,0,0,1,0
+Femenino,42,Ciudad de México,0,0,0,0,1,0,1,1
+Masculino,46,Campeche,1,0,1,0,1,1,0,1
+Femenino,29,San Luis Potosí,1,0,0,1,1,1,0,1
+Masculino,90,Aguascalientes,1,1,0,0,0,0,0,1
+Femenino,57,Coahuila,0,1,0,0,0,0,1,1
+Femenino,73,Chiapas,0,0,1,0,0,1,0,0
+Femenino,63,Tabasco,1,1,0,0,0,0,1,0
+Masculino,46,Yucatán,0,1,0,0,0,0,0,0
+Femenino,9,Colima,0,1,0,0,0,0,1,1
+Femenino,98,Chihuahua,0,0,1,0,0,1,1,0
+Femenino,74,Querétaro,0,1,0,0,0,0,1,0
+Femenino,77,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,69,Colima,0,0,1,0,0,1,0,0
+Masculino,70,Zacatecas,1,0,0,0,0,0,1,0
+Masculino,27,Baja California,1,0,1,1,0,0,1,1
+Femenino,52,Puebla,1,1,0,0,0,0,0,0
+Masculino,92,Guanajuato,1,0,1,1,0,1,0,0
+Masculino,23,Hidalgo,0,0,1,0,0,1,1,0
+Femenino,19,Querétaro,0,0,0,1,1,0,1,0
+Femenino,34,Querétaro,0,1,0,0,0,0,1,1
+Femenino,31,Chiapas,1,0,0,0,1,0,1,0
+Masculino,0,Hidalgo,1,0,1,1,1,0,1,0
+Femenino,59,Colima,0,0,1,1,1,0,1,0
+Masculino,42,Sonora,0,0,1,1,0,1,0,0
+Masculino,47,Guerrero,0,0,1,0,0,1,0,0
+Femenino,72,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,51,Hidalgo,0,1,0,0,0,0,1,0
+Masculino,40,Hidalgo,1,1,0,0,0,0,1,0
+Femenino,9,Baja California Sur,1,1,0,0,0,0,1,0
+Femenino,32,Michoacán,1,0,1,1,1,0,1,0
+Masculino,1,Campeche,1,1,0,0,0,0,1,1
+Masculino,50,Guanajuato,0,1,0,0,0,0,1,0
+Masculino,58,San Luis Potosí,1,1,0,0,0,0,0,0
+Femenino,66,Oaxaca,1,0,0,0,1,1,0,0
+Femenino,91,Michoacán,1,0,1,1,1,1,0,0
+Masculino,14,Aguascalientes,1,1,0,0,0,0,1,0
+Masculino,20,Puebla,0,1,0,0,0,0,1,0
+Masculino,36,Michoacán,1,0,1,0,0,1,1,0
+Masculino,66,Aguascalientes,1,0,1,0,0,1,0,1
+Masculino,71,Durango,0,0,1,0,1,0,1,1
+Masculino,91,Chihuahua,0,0,0,0,1,1,0,0
+Masculino,66,Durango,1,1,0,0,0,0,1,0
+Femenino,79,Chihuahua,1,0,1,1,1,0,0,0
+Masculino,54,Querétaro,1,0,0,1,1,1,0,0
+Femenino,68,Yucatán,0,0,0,0,1,0,0,0
+Femenino,76,Baja California,0,1,0,0,0,0,1,1
+Femenino,72,Coahuila,0,1,0,0,0,0,1,0
+Femenino,39,Baja California Sur,0,0,1,1,0,0,0,1
+Masculino,29,Baja California,0,0,0,0,0,1,1,0
+Masculino,14,Tabasco,1,0,0,1,1,0,1,0
+Femenino,83,Chihuahua,1,0,0,0,0,1,1,0
+Femenino,90,Michoacán,1,1,0,0,0,0,0,1
+Femenino,75,Coahuila,0,0,1,1,1,1,1,0
+Masculino,96,Sinaloa,1,1,0,0,0,0,1,0
+Femenino,15,San Luis Potosí,0,0,1,1,0,0,1,0
+Femenino,1,Guerrero,0,1,0,0,0,0,1,1
+Masculino,4,Hidalgo,1,1,0,0,0,0,1,0
+Masculino,49,Puebla,0,0,0,1,1,1,1,0
+Masculino,17,Jalisco,1,1,0,0,0,0,1,0
+Femenino,26,Tamaulipas,0,1,0,0,0,0,1,0
+Femenino,70,Hidalgo,1,0,1,1,0,0,0,0
+Femenino,61,Sinaloa,0,1,0,0,0,0,0,0
+Femenino,18,Morelos,1,1,0,0,0,0,1,1
+Masculino,72,Durango,1,1,0,0,0,0,0,0
+Masculino,57,Chihuahua,1,0,0,0,0,0,0,0
+Femenino,12,Chihuahua,1,1,0,0,0,0,1,1
+Masculino,61,Tabasco,1,1,0,0,0,0,1,0
+Masculino,83,Colima,0,1,0,0,0,0,0,0
+Masculino,9,Guanajuato,0,1,0,0,0,0,1,0
+Femenino,75,Tlaxcala,1,0,0,0,0,1,1,0
+Masculino,62,Durango,1,0,1,1,0,1,1,1
+Femenino,22,Veracruz,0,0,1,0,0,0,1,1
+Femenino,78,San Luis Potosí,1,1,0,0,0,0,1,1
+Femenino,50,Colima,0,1,0,0,0,0,1,0
+Masculino,74,Guerrero,0,1,0,0,0,0,1,1
+Masculino,65,Colima,1,1,0,0,0,0,0,0
+Femenino,58,Tlaxcala,0,1,0,0,0,0,1,1
+Masculino,43,Aguascalientes,0,0,1,0,1,0,1,0
+Masculino,61,Sinaloa,1,1,0,0,0,0,1,1
+Femenino,71,Quintana Roo,0,0,1,0,1,0,1,0
+Masculino,57,San Luis Potosí,0,0,0,0,0,0,1,0
+Masculino,93,Hidalgo,0,0,0,1,0,0,1,0
+Femenino,25,Querétaro,0,0,0,1,0,1,1,0
+Masculino,36,Campeche,1,1,0,0,0,0,1,1
+Masculino,60,Oaxaca,0,0,0,0,1,0,0,0
+Femenino,97,Oaxaca,0,1,0,0,0,0,1,1
+Masculino,91,Quintana Roo,0,1,0,0,0,0,0,0
+Femenino,60,San Luis Potosí,1,1,0,0,0,0,1,1
+Femenino,15,Nayarit,0,1,0,0,0,0,1,1
+Femenino,97,Oaxaca,0,0,1,0,0,1,0,0
+Femenino,64,Veracruz,1,1,0,0,0,0,1,0
+Femenino,26,Jalisco,1,1,0,0,0,0,1,1
+Femenino,90,Baja California,0,1,0,0,0,0,0,0
+Femenino,11,Nayarit,0,1,0,0,0,0,1,1
+Femenino,15,Chihuahua,0,0,1,0,0,1,1,1
+Femenino,85,Sinaloa,0,1,0,0,0,0,0,1
+Masculino,78,Nayarit,1,1,0,0,0,0,0,1
+Femenino,63,Jalisco,0,1,0,0,0,0,1,0
+Femenino,96,Chiapas,0,0,0,1,0,0,1,1
+Femenino,53,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,87,San Luis Potosí,0,1,0,0,0,0,1,0
+Femenino,70,Tabasco,0,0,1,1,0,0,1,1
+Femenino,65,Guerrero,0,0,1,0,0,0,1,0
+Femenino,12,Nayarit,1,0,0,1,0,0,1,0
+Masculino,9,Baja California Sur,1,0,0,0,0,1,0,0
+Femenino,78,Baja California,0,0,1,0,0,0,1,1
+Masculino,5,Tabasco,1,1,0,0,0,0,1,0
+Femenino,22,Chihuahua,1,0,0,0,0,0,1,1
+Femenino,8,San Luis Potosí,0,0,0,1,1,1,1,0
+Masculino,33,Guanajuato,0,0,0,1,0,0,0,0
+Femenino,85,Chiapas,0,1,0,0,0,0,1,1
+Masculino,88,Yucatán,1,1,0,0,0,0,1,0
+Femenino,4,Tabasco,0,0,0,1,1,1,0,0
+Masculino,22,Durango,0,0,1,0,0,0,1,0
+Femenino,23,Baja California Sur,0,0,0,0,1,0,1,0
+Femenino,25,Durango,1,1,0,0,0,0,1,0
+Masculino,34,Campeche,0,1,0,0,0,0,0,1
+Masculino,29,Guerrero,0,1,0,0,0,0,1,0
+Masculino,95,Tabasco,0,0,1,1,1,0,0,0
+Masculino,2,San Luis Potosí,1,1,0,0,0,0,1,0
+Femenino,98,Tamaulipas,0,1,0,0,0,0,1,0
+Masculino,28,Chiapas,0,1,0,0,0,0,0,1
+Masculino,72,Chihuahua,1,1,0,0,0,0,0,0
+Masculino,92,Tabasco,1,0,1,1,0,1,1,0
+Femenino,56,Chihuahua,1,1,0,0,0,0,1,0
+Masculino,57,Baja California Sur,0,0,1,0,0,1,1,1
+Femenino,5,Sinaloa,1,1,0,0,0,0,1,0
+Femenino,41,Ciudad de México,1,1,0,0,0,0,0,0
+Masculino,82,Tabasco,1,1,0,0,0,0,0,0
+Masculino,1,Veracruz,0,0,1,1,0,1,1,0
+Masculino,19,Tabasco,1,0,1,1,0,0,1,0
+Femenino,33,Sinaloa,1,1,0,0,0,0,0,0
+Masculino,79,Colima,1,0,0,0,0,0,0,1
+Femenino,76,Jalisco,0,1,0,0,0,0,1,0
+Femenino,86,Morelos,1,1,0,0,0,0,1,1
+Femenino,4,Chiapas,0,1,0,0,0,0,0,0
+Masculino,40,Querétaro,1,0,0,0,0,1,0,0
+Femenino,18,Hidalgo,0,0,1,0,1,1,1,0
+Femenino,80,Veracruz,0,0,1,0,0,1,0,0
+Masculino,23,Tabasco,1,1,0,0,0,0,1,0
+Masculino,33,Michoacán,1,1,0,0,0,0,1,1
+Masculino,50,Jalisco,0,1,0,0,0,0,1,1
+Femenino,2,Zacatecas,0,0,1,0,1,0,0,1
+Femenino,39,Yucatán,0,1,0,0,0,0,1,1
+Masculino,10,Michoacán,1,0,0,0,1,0,1,1
+Femenino,7,Chihuahua,0,1,0,0,0,0,0,0
+Masculino,65,Querétaro,1,0,0,0,0,0,1,0
+Masculino,54,Tabasco,0,0,0,1,1,0,0,0
+Masculino,56,Veracruz,0,0,0,1,1,1,1,0
+Femenino,12,Oaxaca,1,0,1,0,0,0,1,0
+Femenino,85,Guanajuato,0,0,0,1,1,0,1,0
+Femenino,49,Chihuahua,1,1,0,0,0,0,1,0
+Femenino,21,Chihuahua,1,1,0,0,0,0,1,0
+Masculino,25,Tlaxcala,1,1,0,0,0,0,1,0
+Masculino,90,Hidalgo,0,1,0,0,0,0,1,1
+Femenino,10,Campeche,0,0,1,1,0,0,1,0
+Femenino,8,Veracruz,1,1,0,0,0,0,1,1
+Masculino,34,Tabasco,0,1,0,0,0,0,1,0
+Masculino,75,Quintana Roo,1,1,0,0,0,0,1,0
+Femenino,21,Aguascalientes,0,0,1,0,0,0,0,0
+Masculino,61,Chihuahua,1,1,0,0,0,0,1,0
+Femenino,24,Baja California,1,0,1,0,0,0,1,1
+Femenino,54,Quintana Roo,1,1,0,0,0,0,1,1
+Femenino,94,Durango,1,1,0,0,0,0,1,0
+Femenino,92,Aguascalientes,0,0,0,0,0,1,0,0
+Femenino,14,Colima,0,1,0,0,0,0,1,0
+Femenino,47,Hidalgo,0,0,1,0,1,0,0,0
+Femenino,27,Chiapas,0,0,1,1,0,1,1,0
+Masculino,1,Querétaro,1,0,1,1,1,0,1,0
+Femenino,72,Tamaulipas,1,0,1,0,1,1,0,0
+Masculino,83,Guanajuato,1,1,0,0,0,0,1,0
+Masculino,20,Zacatecas,1,1,0,0,0,0,1,0
+Femenino,82,Colima,1,0,0,1,1,1,1,1
+Masculino,79,Hidalgo,0,1,0,0,0,0,1,0
+Masculino,75,Morelos,1,0,0,0,1,0,1,0
+Masculino,5,Tabasco,0,0,0,0,1,1,1,0
+Femenino,0,San Luis Potosí,0,0,0,1,0,0,1,0
+Masculino,27,Michoacán,0,0,0,0,1,0,1,1
+Femenino,67,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,65,Quintana Roo,1,1,0,0,0,0,1,1
+Femenino,66,Nuevo León,1,1,0,0,0,0,0,0
+Masculino,17,San Luis Potosí,1,0,1,1,0,0,1,0
+Femenino,56,San Luis Potosí,0,0,0,0,0,0,1,1
+Masculino,66,Baja California,0,1,0,0,0,0,1,0
+Femenino,78,Tamaulipas,1,0,1,1,0,0,0,0
+Femenino,13,San Luis Potosí,0,0,1,0,1,0,1,1
+Femenino,30,Veracruz,1,1,0,0,0,0,1,1
+Femenino,97,Chiapas,0,0,1,1,1,1,0,0
+Femenino,86,Zacatecas,0,1,0,0,0,0,0,0
+Masculino,40,Ciudad de México,0,0,1,1,0,1,1,1
+Masculino,16,Morelos,0,1,0,0,0,0,1,0
+Masculino,33,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,30,Querétaro,1,0,0,1,0,1,1,0
+Femenino,49,Coahuila,1,0,1,1,0,0,1,0
+Femenino,92,Guanajuato,0,1,0,0,0,0,0,0
+Masculino,24,Hidalgo,1,1,0,0,0,0,0,0
+Masculino,90,Jalisco,0,0,1,0,1,0,0,0
+Femenino,25,Chihuahua,1,1,0,0,0,0,0,0
+Femenino,33,Puebla,0,0,1,0,1,0,0,1
+Masculino,89,Puebla,1,1,0,0,0,0,1,1
+Femenino,17,Colima,0,0,1,0,0,1,1,0
+Femenino,62,San Luis Potosí,0,0,0,1,0,0,1,0
+Masculino,64,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,4,Yucatán,1,1,0,0,0,0,1,0
+Masculino,34,Oaxaca,1,0,1,0,0,0,1,1
+Femenino,59,Sinaloa,1,0,0,0,1,0,1,0
+Femenino,57,Zacatecas,0,0,0,1,1,0,1,1
+Masculino,79,Puebla,0,1,0,0,0,0,0,0
+Masculino,42,Michoacán,1,1,0,0,0,0,1,0
+Femenino,10,Veracruz,0,0,1,0,0,1,1,1
+Masculino,26,Durango,1,1,0,0,0,0,1,1
+Masculino,6,Zacatecas,0,0,1,1,0,1,1,1
+Masculino,30,Yucatán,0,1,0,0,0,0,1,1
+Femenino,93,Baja California,1,1,0,0,0,0,1,0
+Femenino,96,Guanajuato,1,1,0,0,0,0,1,0
+Femenino,34,Guerrero,0,0,0,0,1,0,1,1
+Femenino,96,Colima,1,0,1,0,0,0,1,1
+Femenino,44,Guerrero,0,1,0,0,0,0,1,1
+Masculino,55,Jalisco,0,0,1,1,1,0,1,0
+Femenino,26,Tlaxcala,0,1,0,0,0,0,1,1
+Femenino,35,Tabasco,0,1,0,0,0,0,0,0
+Masculino,53,Tamaulipas,0,0,0,1,0,1,0,1
+Masculino,92,Quintana Roo,0,1,0,0,0,0,1,0
+Masculino,57,Colima,1,0,0,1,0,1,0,0
+Masculino,14,Oaxaca,1,1,0,0,0,0,1,0
+Femenino,91,Tabasco,1,0,0,1,1,1,0,0
+Femenino,30,Baja California,0,0,1,1,1,0,1,0
+Femenino,25,Yucatán,1,0,1,1,1,0,1,0
+Masculino,48,Baja California Sur,0,1,0,0,0,0,1,1
+Masculino,57,Tlaxcala,0,0,1,1,0,1,1,1
+Masculino,44,Zacatecas,0,1,0,0,0,0,1,0
+Femenino,43,Ciudad de México,1,0,1,1,0,0,1,0
+Femenino,42,Quintana Roo,0,1,0,0,0,0,1,1
+Femenino,24,Sinaloa,1,0,1,1,0,1,1,0
+Masculino,60,Jalisco,0,1,0,0,0,0,1,0
+Femenino,50,Oaxaca,1,0,1,0,1,0,1,0
+Masculino,46,Colima,1,1,0,0,0,0,1,0
+Femenino,13,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,23,Aguascalientes,0,1,0,0,0,0,1,0
+Femenino,51,Durango,0,1,0,0,0,0,1,1
+Femenino,58,Campeche,1,0,1,0,1,0,1,0
+Masculino,6,Aguascalientes,1,0,0,0,0,1,0,1
+Masculino,31,Jalisco,0,1,0,0,0,0,1,1
+Masculino,2,Chiapas,0,0,1,0,1,1,1,0
+Masculino,53,Querétaro,0,1,0,0,0,0,1,1
+Femenino,77,Morelos,0,1,0,0,0,0,0,0
+Femenino,65,Zacatecas,1,1,0,0,0,0,0,1
+Masculino,38,Michoacán,1,0,1,0,1,0,1,0
+Masculino,94,Guerrero,0,1,0,0,0,0,1,1
+Femenino,15,Nayarit,0,1,0,0,0,0,1,1
+Femenino,76,Ciudad de México,1,1,0,0,0,0,1,0
+Masculino,41,Sonora,1,0,1,0,0,0,0,0
+Masculino,30,Baja California,0,0,0,1,0,0,1,0
+Femenino,52,Campeche,1,0,0,0,1,0,1,0
+Masculino,47,Quintana Roo,0,0,1,1,0,1,0,1
+Masculino,14,Tamaulipas,1,1,0,0,0,0,1,0
+Masculino,73,Veracruz,1,1,0,0,0,0,1,0
+Femenino,53,Oaxaca,0,1,0,0,0,0,1,0
+Femenino,35,Chihuahua,1,0,1,0,1,0,1,0
+Masculino,82,Jalisco,1,0,0,1,0,1,0,1
+Femenino,59,Sinaloa,1,1,0,0,0,0,0,0
+Femenino,76,Michoacán,0,0,1,1,0,0,0,0
+Femenino,70,Quintana Roo,0,1,0,0,0,0,1,0
+Femenino,45,Hidalgo,0,0,1,1,1,0,0,0
+Masculino,2,Guanajuato,0,0,0,1,1,0,1,0
+Masculino,71,Querétaro,0,0,0,0,1,0,1,0
+Masculino,67,San Luis Potosí,1,1,0,0,0,0,0,0
+Femenino,73,Querétaro,1,0,0,0,1,1,1,0
+Masculino,2,Zacatecas,0,1,0,0,0,0,1,0
+Femenino,22,Coahuila,0,1,0,0,0,0,1,0
+Femenino,85,Hidalgo,1,0,0,1,0,1,1,0
+Masculino,92,Sinaloa,0,0,1,1,1,1,0,0
+Femenino,35,Guerrero,1,0,0,1,1,1,1,1
+Femenino,63,Jalisco,1,0,0,0,1,1,0,0
+Femenino,88,Nuevo León,1,0,0,1,0,1,1,0
+Masculino,75,Quintana Roo,0,0,0,0,0,1,1,0
+Masculino,53,Baja California Sur,1,0,1,1,1,1,0,0
+Masculino,84,Colima,1,1,0,0,0,0,0,1
+Femenino,65,Nayarit,0,1,0,0,0,0,0,0
+Masculino,61,Coahuila,0,1,0,0,0,0,0,1
+Masculino,96,Nuevo León,0,0,1,0,1,0,0,1
+Masculino,37,Sinaloa,0,1,0,0,0,0,0,0
+Femenino,87,Aguascalientes,1,0,1,1,0,1,1,0
+Masculino,33,Durango,1,0,0,1,1,1,1,0
+Masculino,17,Durango,0,1,0,0,0,0,1,0
+Masculino,10,Nuevo León,0,0,0,0,1,0,1,0
+Femenino,25,Sinaloa,0,1,0,0,0,0,1,0
+Femenino,77,Nuevo León,0,1,0,0,0,0,0,0
+Masculino,100,Nuevo León,1,0,1,0,0,1,0,0
+Masculino,84,Jalisco,0,1,0,0,0,0,1,0
+Masculino,87,Tabasco,1,0,0,1,1,1,1,1
+Masculino,100,Coahuila,0,1,0,0,0,0,1,1
+Masculino,2,Puebla,0,1,0,0,0,0,1,0
+Femenino,50,Tamaulipas,0,0,0,1,1,0,1,1
+Masculino,44,Ciudad de México,0,0,1,1,1,1,1,1
+Femenino,35,Campeche,1,1,0,0,0,0,0,1
+Femenino,37,Sinaloa,0,1,0,0,0,0,0,0
+Femenino,76,Baja California,1,0,0,1,1,0,0,0
+Femenino,61,Sonora,0,0,1,0,1,0,1,0
+Masculino,52,Yucatán,1,1,0,0,0,0,0,0
+Femenino,12,Zacatecas,0,0,0,1,1,1,0,1
+Masculino,73,Tlaxcala,1,1,0,0,0,0,1,0
+Masculino,25,Guanajuato,1,0,1,1,1,0,1,0
+Femenino,70,Nayarit,0,1,0,0,0,0,1,0
+Masculino,87,Coahuila,1,0,0,0,1,1,0,0
+Femenino,96,Guerrero,0,0,1,0,0,0,0,0
+Masculino,54,Chihuahua,0,0,0,1,1,1,0,0
+Masculino,68,Ciudad de México,1,1,0,0,0,0,1,0
+Masculino,40,Coahuila,1,1,0,0,0,0,1,0
+Femenino,30,Aguascalientes,0,0,1,1,0,1,0,0
+Masculino,1,Hidalgo,1,1,0,0,0,0,1,1
+Femenino,28,Coahuila,0,1,0,0,0,0,1,1
+Femenino,96,Querétaro,0,1,0,0,0,0,0,0
+Femenino,20,Querétaro,1,0,0,0,1,1,1,0
+Masculino,29,Morelos,1,0,1,1,1,0,1,0
+Femenino,18,Chihuahua,0,1,0,0,0,0,0,1
+Femenino,7,Morelos,1,0,0,1,1,0,1,1
+Masculino,26,Michoacán,1,0,0,0,1,1,1,0
+Masculino,39,Chiapas,0,0,1,0,0,0,1,0
+Femenino,9,Campeche,0,1,0,0,0,0,1,0
+Femenino,23,San Luis Potosí,1,1,0,0,0,0,1,0
+Femenino,95,Zacatecas,1,0,0,0,1,0,0,0
+Femenino,81,Aguascalientes,0,1,0,0,0,0,0,0
+Masculino,74,Guanajuato,1,1,0,0,0,0,0,1
+Femenino,81,Hidalgo,1,1,0,0,0,0,1,0
+Femenino,98,Baja California Sur,1,0,0,1,1,0,1,0
+Femenino,16,Michoacán,1,1,0,0,0,0,1,0
+Femenino,64,Tlaxcala,1,0,1,1,0,0,1,1
+Masculino,62,Durango,0,1,0,0,0,0,1,0
+Femenino,4,Colima,0,1,0,0,0,0,1,1
+Femenino,36,Sinaloa,1,1,0,0,0,0,0,0
+Masculino,86,Coahuila,1,0,1,1,0,0,1,0
+Femenino,89,Colima,0,1,0,0,0,0,0,0
+Masculino,78,Guerrero,1,1,0,0,0,0,1,0
+Femenino,39,Nuevo León,1,1,0,0,0,0,0,1
+Masculino,5,Nayarit,1,1,0,0,0,0,1,0
+Femenino,98,Ciudad de México,0,0,1,1,1,0,1,0
+Masculino,87,Morelos,0,1,0,0,0,0,0,0
+Masculino,96,Michoacán,1,1,0,0,0,0,0,0
+Femenino,67,Coahuila,1,1,0,0,0,0,1,1
+Masculino,65,Baja California Sur,0,0,1,1,0,0,1,0
+Femenino,95,Chihuahua,1,0,1,1,1,1,0,0
+Masculino,93,Tlaxcala,1,0,1,0,0,1,1,0
+Femenino,64,Nayarit,1,0,0,1,1,0,1,1
+Femenino,64,Aguascalientes,1,1,0,0,0,0,1,1
+Masculino,29,Ciudad de México,1,0,0,1,1,1,1,0
+Femenino,49,Tabasco,0,0,1,1,0,1,1,0
+Femenino,37,Yucatán,1,0,1,0,0,0,1,1
+Femenino,54,Tabasco,1,0,0,0,1,1,0,0
+Masculino,56,Tlaxcala,1,1,0,0,0,0,1,0
+Masculino,92,Quintana Roo,1,1,0,0,0,0,0,0
+Masculino,19,Zacatecas,1,1,0,0,0,0,1,0
+Masculino,1,Michoacán,1,0,0,0,0,0,1,1
+Masculino,29,Jalisco,1,1,0,0,0,0,1,0
+Masculino,14,Coahuila,1,1,0,0,0,0,1,0
+Masculino,28,Yucatán,0,0,0,0,0,1,1,0
+Femenino,57,Hidalgo,0,0,1,1,1,1,0,0
+Femenino,82,Chiapas,0,0,0,0,0,0,1,0
+Masculino,100,Durango,0,0,1,1,1,1,0,0
+Femenino,58,Querétaro,0,1,0,0,0,0,1,0
+Femenino,71,Jalisco,1,0,0,1,1,1,1,0
+Masculino,94,Guerrero,0,0,0,1,0,0,1,1
+Femenino,48,Chiapas,1,0,0,0,1,0,1,0
+Femenino,80,Yucatán,1,0,0,1,1,1,0,0
+Femenino,83,Campeche,0,1,0,0,0,0,0,1
+Femenino,64,Nayarit,0,1,0,0,0,0,1,0
+Masculino,36,Guanajuato,0,1,0,0,0,0,0,0
+Femenino,13,Nuevo León,0,1,0,0,0,0,1,0
+Femenino,75,Nuevo León,0,0,1,0,1,1,0,0
+Femenino,17,Durango,0,1,0,0,0,0,1,1
+Masculino,38,Durango,0,1,0,0,0,0,0,1
+Masculino,60,Morelos,0,0,1,1,1,0,0,1
+Masculino,82,Veracruz,1,0,0,0,0,1,1,1
+Femenino,86,Coahuila,1,0,1,0,1,1,1,0
+Femenino,52,Colima,1,0,0,0,1,1,1,0
+Masculino,97,Guerrero,0,1,0,0,0,0,0,0
+Masculino,100,Baja California Sur,1,0,0,0,0,1,1,0
+Femenino,45,Puebla,0,0,1,1,1,0,0,0
+Femenino,22,Michoacán,1,0,0,1,1,1,1,1
+Femenino,1,Chiapas,1,0,0,0,0,1,1,1
+Femenino,48,Chihuahua,1,1,0,0,0,0,1,0
+Femenino,60,Morelos,1,0,1,1,0,1,0,0
+Masculino,55,Baja California,0,1,0,0,0,0,1,0
+Femenino,74,Sonora,1,0,0,1,0,0,0,0
+Femenino,18,Colima,0,1,0,0,0,0,1,1
+Masculino,18,Hidalgo,0,0,0,1,0,1,1,1
+Masculino,50,San Luis Potosí,0,1,0,0,0,0,1,0
+Masculino,28,Baja California Sur,0,1,0,0,0,0,1,0
+Masculino,84,Durango,1,1,0,0,0,0,0,1
+Femenino,49,Sinaloa,1,0,0,1,0,1,1,0
+Masculino,73,Baja California Sur,0,1,0,0,0,0,1,0
+Masculino,100,Hidalgo,0,0,1,1,0,0,1,0
+Femenino,100,Chihuahua,1,0,1,1,1,1,0,1
+Masculino,71,Chiapas,0,0,0,1,0,0,1,0
+Femenino,30,Sonora,1,0,0,1,0,1,0,0
+Femenino,55,Puebla,0,1,0,0,0,0,1,0
+Masculino,0,Sinaloa,1,1,0,0,0,0,1,0
+Masculino,26,Durango,0,1,0,0,0,0,0,1
+Masculino,94,Aguascalientes,0,0,1,1,1,1,1,1
+Masculino,25,Ciudad de México,1,1,0,0,0,0,1,0
+Femenino,72,Oaxaca,1,0,0,1,0,0,0,0
+Femenino,44,Guanajuato,0,0,1,1,0,1,0,0
+Femenino,11,Tabasco,0,1,0,0,0,0,1,0
+Femenino,24,Tabasco,0,1,0,0,0,0,1,0
+Femenino,88,Jalisco,1,0,0,1,1,0,0,0
+Femenino,6,Veracruz,0,1,0,0,0,0,1,0
+Masculino,44,Veracruz,0,0,1,1,1,1,1,1
+Femenino,19,Sonora,0,1,0,0,0,0,1,1
+Masculino,46,San Luis Potosí,1,1,0,0,0,0,1,0
+Masculino,57,Baja California,1,1,0,0,0,0,1,0
+Masculino,20,Aguascalientes,0,0,0,1,0,1,0,0
+Masculino,26,Guanajuato,0,1,0,0,0,0,1,1
+Masculino,80,San Luis Potosí,1,1,0,0,0,0,1,0
+Masculino,2,Veracruz,0,1,0,0,0,0,1,0
+Masculino,71,Sonora,0,1,0,0,0,0,0,1
+Femenino,91,Coahuila,1,1,0,0,0,0,0,0
+Femenino,79,Yucatán,1,1,0,0,0,0,0,0
+Masculino,61,Tabasco,0,0,0,1,1,1,0,1
+Femenino,15,Durango,0,0,1,1,0,0,1,1
+Masculino,64,Campeche,1,0,1,1,1,1,0,0
+Masculino,10,Quintana Roo,0,0,1,1,1,1,1,0
+Femenino,96,Colima,0,1,0,0,0,0,0,0
+Masculino,23,Guanajuato,0,1,0,0,0,0,1,0
+Masculino,21,Sinaloa,1,1,0,0,0,0,1,1
+Femenino,43,Querétaro,0,1,0,0,0,0,1,1
+Femenino,73,Jalisco,1,0,0,0,0,0,1,0
+Masculino,58,Quintana Roo,0,0,0,0,0,1,0,0
+Femenino,93,Tamaulipas,1,0,0,0,1,1,0,0
+Masculino,69,Tlaxcala,1,0,0,1,1,1,1,0
+Femenino,36,Nuevo León,0,1,0,0,0,0,1,1
+Femenino,40,Tlaxcala,1,1,0,0,0,0,1,0
+Masculino,40,Campeche,0,0,0,0,1,0,1,0
+Masculino,13,Sinaloa,0,0,0,0,1,1,1,1
+Masculino,25,Sonora,0,0,1,1,1,0,0,1
+Masculino,16,Coahuila,1,1,0,0,0,0,1,0
+Masculino,17,Baja California,0,0,1,1,0,0,1,0
+Masculino,66,Jalisco,1,0,1,1,0,1,0,1
+Masculino,76,Sonora,0,1,0,0,0,0,1,1
+Masculino,27,Sinaloa,0,1,0,0,0,0,1,1
+Femenino,18,Jalisco,1,1,0,0,0,0,1,1
+Masculino,30,Puebla,1,0,0,1,0,1,1,0
+Masculino,55,Michoacán,1,1,0,0,0,0,1,1
+Masculino,32,Oaxaca,0,0,1,0,1,1,0,0
+Masculino,96,Nayarit,0,0,1,1,1,0,1,0
+Masculino,20,Yucatán,0,1,0,0,0,0,1,1
+Masculino,47,Baja California Sur,0,1,0,0,0,0,0,1
+Femenino,92,Jalisco,1,0,0,1,0,1,1,1
+Masculino,9,Sonora,1,1,0,0,0,0,1,1
+Femenino,23,Nayarit,1,0,1,0,0,1,1,0
+Femenino,95,Michoacán,0,0,1,0,0,0,0,0
+Masculino,30,Michoacán,1,1,0,0,0,0,1,0
+Masculino,35,Tlaxcala,1,1,0,0,0,0,1,1
+Masculino,51,Yucatán,0,1,0,0,0,0,0,1
+Masculino,26,Coahuila,1,1,0,0,0,0,1,1
+Femenino,91,Sinaloa,1,0,1,0,1,1,1,1
+Masculino,82,Chihuahua,1,1,0,0,0,0,1,0
+Masculino,42,Hidalgo,1,0,1,1,0,0,0,0
+Femenino,26,Puebla,0,1,0,0,0,0,1,1
+Femenino,90,Yucatán,1,0,0,1,0,0,0,0
+Femenino,25,Veracruz,0,1,0,0,0,0,1,1
+Femenino,1,Colima,0,0,1,1,0,0,1,0
+Masculino,54,Morelos,1,1,0,0,0,0,1,0
+Femenino,80,Yucatán,0,1,0,0,0,0,0,1
+Masculino,55,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,60,Aguascalientes,0,1,0,0,0,0,0,1
+Femenino,35,Puebla,1,0,1,1,0,1,1,1
+Femenino,75,Colima,0,1,0,0,0,0,1,0
+Masculino,46,Nayarit,0,1,0,0,0,0,0,0
+Masculino,72,Guanajuato,0,1,0,0,0,0,1,0
+Masculino,58,Tamaulipas,0,1,0,0,0,0,1,1
+Femenino,97,Puebla,0,0,0,0,1,1,1,0
+Masculino,23,Zacatecas,0,0,1,1,0,1,1,0
+Femenino,84,Colima,1,1,0,0,0,0,1,0
+Masculino,56,Baja California,1,1,0,0,0,0,1,0
+Masculino,91,Yucatán,0,0,1,0,1,0,0,1
+Femenino,88,Yucatán,0,0,0,0,0,0,1,0
+Masculino,19,Campeche,0,0,1,0,1,1,0,1
+Femenino,5,Jalisco,1,1,0,0,0,0,1,0
+Femenino,73,Guerrero,1,1,0,0,0,0,1,0
+Masculino,29,Nuevo León,1,1,0,0,0,0,1,0
+Femenino,62,Jalisco,1,1,0,0,0,0,0,0
+Masculino,71,Sinaloa,0,1,0,0,0,0,1,1
+Masculino,85,Coahuila,0,0,0,1,1,1,0,0
+Femenino,94,Campeche,1,1,0,0,0,0,0,0
+Femenino,46,Baja California Sur,0,1,0,0,0,0,1,0
+Masculino,11,Chiapas,0,0,1,0,1,1,0,0
+Masculino,87,Sinaloa,0,1,0,0,0,0,1,0
+Masculino,20,Coahuila,0,1,0,0,0,0,1,0
+Femenino,16,Zacatecas,1,0,1,0,0,0,1,1
+Femenino,74,Hidalgo,0,0,0,0,1,0,0,0
+Masculino,47,Colima,0,0,0,0,0,0,1,0
+Masculino,12,Sinaloa,0,0,1,0,0,1,0,0
+Masculino,39,Hidalgo,1,0,1,0,0,0,1,0
+Masculino,100,Querétaro,1,0,0,0,0,1,0,0
+Masculino,19,Yucatán,0,1,0,0,0,0,1,0
+Femenino,24,Hidalgo,1,1,0,0,0,0,0,1
+Masculino,23,Jalisco,0,1,0,0,0,0,1,1
+Masculino,97,Coahuila,0,0,0,0,1,1,1,0
+Femenino,10,Nayarit,1,1,0,0,0,0,1,0
+Masculino,15,Sonora,0,1,0,0,0,0,1,1
+Femenino,52,Colima,0,0,1,0,0,0,1,0
+Femenino,2,Chiapas,1,0,1,1,1,0,1,0
+Masculino,86,Tamaulipas,1,1,0,0,0,0,0,0
+Femenino,11,Baja California,1,0,1,1,1,1,0,0
+Femenino,34,Quintana Roo,0,1,0,0,0,0,1,0
+Femenino,25,Querétaro,0,0,0,0,1,1,0,0
+Masculino,71,Yucatán,0,0,0,0,0,1,1,1
+Femenino,86,Aguascalientes,1,0,1,1,1,0,0,1
+Masculino,44,Sinaloa,1,1,0,0,0,0,0,0
+Masculino,48,Jalisco,1,0,1,0,1,0,0,1
+Masculino,59,Quintana Roo,1,1,0,0,0,0,0,0
+Masculino,82,Oaxaca,0,0,1,1,0,1,1,1
+Masculino,65,Ciudad de México,0,0,0,0,1,0,1,0
+Femenino,83,Tamaulipas,1,0,0,0,1,0,0,0
+Masculino,48,Guerrero,0,0,1,1,0,1,1,0
+Femenino,89,Sonora,0,1,0,0,0,0,0,0
+Femenino,13,Querétaro,1,0,1,1,0,0,1,0
+Femenino,89,Aguascalientes,0,0,1,1,1,0,0,1
+Masculino,0,Campeche,0,0,1,0,0,1,0,0
+Masculino,64,Puebla,0,0,0,1,1,1,0,1
+Femenino,56,Nayarit,1,0,1,1,0,1,0,1
+Femenino,94,Puebla,1,0,0,1,0,1,0,0
+Masculino,55,Baja California,1,0,0,1,0,0,1,1
+Femenino,42,Quintana Roo,0,0,0,0,0,1,1,0
+Masculino,46,Michoacán,1,1,0,0,0,0,1,1
+Masculino,39,Sinaloa,0,0,1,0,0,1,1,0
+Masculino,6,Morelos,1,0,1,0,0,0,1,0
+Femenino,53,Baja California,1,1,0,0,0,0,1,1
+Femenino,97,Baja California,1,1,0,0,0,0,0,0
+Femenino,88,San Luis Potosí,1,0,1,1,0,1,0,0
+Femenino,1,Hidalgo,0,0,0,0,1,1,1,1
+Masculino,46,Guerrero,0,1,0,0,0,0,0,0
+Femenino,15,Sonora,0,1,0,0,0,0,1,0
+Femenino,100,Aguascalientes,1,0,1,1,1,1,0,0
+Femenino,0,Chiapas,1,1,0,0,0,0,1,0
+Femenino,73,Jalisco,0,1,0,0,0,0,1,0
+Masculino,100,Nuevo León,1,0,1,0,0,0,0,0
+Femenino,14,Hidalgo,0,1,0,0,0,0,1,0
+Masculino,72,Sinaloa,1,1,0,0,0,0,1,0
+Masculino,99,Tabasco,1,0,1,0,1,1,1,0
+Femenino,91,Nuevo León,0,1,0,0,0,0,1,1
+Femenino,26,Baja California,0,1,0,0,0,0,0,0
+Masculino,100,Aguascalientes,1,0,1,0,1,1,0,1
+Masculino,46,Coahuila,1,1,0,0,0,0,1,0
+Masculino,22,Puebla,1,0,0,0,0,0,1,1
+Femenino,67,Aguascalientes,1,1,0,0,0,0,0,0
+Masculino,50,Sinaloa,1,0,1,1,0,1,1,1
+Masculino,36,Chihuahua,1,1,0,0,0,0,1,0
+Masculino,26,Quintana Roo,0,1,0,0,0,0,1,0
+Femenino,48,Guerrero,1,0,1,1,0,1,0,0
+Femenino,66,Baja California Sur,1,1,0,0,0,0,0,1
+Masculino,35,San Luis Potosí,0,0,1,1,1,0,0,0
+Masculino,37,Nuevo León,0,0,1,1,1,0,1,0
+Femenino,45,Querétaro,1,0,0,1,0,0,1,0
+Femenino,82,Campeche,0,0,0,0,0,1,1,0
+Masculino,74,Zacatecas,1,1,0,0,0,0,1,1
+Masculino,7,Guerrero,1,0,0,0,1,1,1,0
+Femenino,40,Tabasco,0,0,0,0,1,0,1,1
+Masculino,7,Sinaloa,1,0,1,1,1,1,1,0
+Femenino,57,San Luis Potosí,0,1,0,0,0,0,1,0
+Femenino,95,Guanajuato,1,0,0,0,1,0,0,0
+Masculino,8,Tabasco,1,0,1,1,0,0,1,0
+Masculino,16,Sinaloa,1,1,0,0,0,0,1,0
+Femenino,74,Baja California,0,0,0,1,1,1,0,0
+Femenino,11,San Luis Potosí,1,0,1,0,0,0,1,0
+Femenino,22,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,18,Sinaloa,1,0,1,1,1,0,1,0
+Masculino,21,Guerrero,0,0,1,1,0,1,0,0
+Femenino,89,Durango,0,0,1,1,1,0,0,1
+Masculino,83,Tlaxcala,1,1,0,0,0,0,0,0
+Masculino,79,Quintana Roo,1,1,0,0,0,0,0,0
+Femenino,93,Nuevo León,0,1,0,0,0,0,1,0
+Masculino,69,Durango,1,0,0,0,0,1,1,0
+Femenino,66,Hidalgo,0,1,0,0,0,0,1,1
+Femenino,33,Campeche,1,0,0,1,1,1,1,1
+Femenino,25,Aguascalientes,0,1,0,0,0,0,1,0
+Masculino,89,Ciudad de México,1,1,0,0,0,0,0,0
+Femenino,28,Zacatecas,1,1,0,0,0,0,1,0
+Femenino,0,Ciudad de México,1,1,0,0,0,0,1,1
+Masculino,73,Puebla,1,1,0,0,0,0,0,1
+Masculino,42,Chihuahua,0,0,1,0,0,1,0,0
+Masculino,51,Sonora,0,0,1,1,1,1,1,0
+Masculino,9,Tlaxcala,0,1,0,0,0,0,1,0
+Masculino,68,Guanajuato,0,1,0,0,0,0,0,1
+Masculino,13,Ciudad de México,0,0,1,1,0,1,1,1
+Masculino,35,San Luis Potosí,1,1,0,0,0,0,0,0
+Masculino,86,Aguascalientes,1,0,1,0,0,1,0,0
+Masculino,8,San Luis Potosí,0,0,0,0,1,0,1,0
+Femenino,44,Sinaloa,1,1,0,0,0,0,1,0
+Masculino,96,Morelos,1,0,0,1,0,0,1,1
+Masculino,96,Quintana Roo,1,1,0,0,0,0,1,0
+Femenino,68,Durango,1,1,0,0,0,0,1,0
+Masculino,77,Morelos,0,0,1,1,0,0,0,0
+Femenino,74,Tamaulipas,1,1,0,0,0,0,0,0
+Femenino,12,Chihuahua,0,0,1,0,0,0,1,1
+Femenino,32,Veracruz,1,0,0,0,0,1,1,0
+Masculino,60,Oaxaca,1,1,0,0,0,0,0,0
+Masculino,73,Tlaxcala,1,1,0,0,0,0,1,1
+Masculino,98,Baja California,0,1,0,0,0,0,0,1
+Masculino,69,Baja California,1,0,0,1,1,1,1,0
+Femenino,96,Querétaro,0,0,0,0,0,1,0,0
+Femenino,33,Coahuila,1,0,0,0,0,0,1,0
+Masculino,10,Colima,0,0,1,1,0,0,1,0
+Femenino,22,Tlaxcala,0,0,1,1,0,0,1,0
+Femenino,92,Baja California Sur,0,1,0,0,0,0,1,0
+Masculino,87,Veracruz,0,1,0,0,0,0,0,0
+Masculino,15,Zacatecas,1,1,0,0,0,0,1,0
+Masculino,49,Tamaulipas,1,0,0,1,0,0,1,0
+Femenino,97,Nuevo León,1,1,0,0,0,0,1,0
+Masculino,86,Puebla,0,1,0,0,0,0,0,0
+Masculino,95,Sinaloa,0,0,1,1,0,0,1,0
+Masculino,45,Baja California Sur,0,0,0,1,0,1,0,0
+Masculino,3,Baja California Sur,0,0,0,0,0,0,1,1
+Femenino,80,Guanajuato,1,0,1,0,1,1,1,0
+Masculino,89,Zacatecas,1,1,0,0,0,0,1,0
+Femenino,74,Yucatán,1,1,0,0,0,0,0,1
+Femenino,80,Sinaloa,0,0,0,1,0,0,1,1
+Femenino,17,Coahuila,0,0,0,0,0,0,0,0
+Femenino,63,Oaxaca,1,1,0,0,0,0,1,0
+Femenino,49,Oaxaca,1,1,0,0,0,0,1,0
+Femenino,93,Aguascalientes,1,0,1,1,1,1,0,0
+Femenino,89,Guerrero,0,0,0,1,1,0,1,0
+Femenino,27,Morelos,1,0,0,0,1,1,1,1
+Masculino,25,Durango,0,0,0,1,0,1,1,1
+Masculino,4,Yucatán,0,1,0,0,0,0,1,0
+Masculino,78,Querétaro,0,1,0,0,0,0,0,0
+Masculino,88,Coahuila,0,1,0,0,0,0,1,0
+Masculino,19,Zacatecas,1,1,0,0,0,0,0,0
+Femenino,46,Guerrero,0,1,0,0,0,0,1,0
+Femenino,83,Hidalgo,1,0,1,0,0,1,0,0
+Masculino,62,Oaxaca,1,0,1,0,0,1,1,1
+Masculino,7,Zacatecas,1,0,1,0,1,0,0,0
+Masculino,28,Querétaro,0,1,0,0,0,0,0,0
+Femenino,91,Hidalgo,0,0,0,0,1,0,1,0
+Masculino,86,Jalisco,1,1,0,0,0,0,1,1
+Femenino,14,Querétaro,1,1,0,0,0,0,1,0
+Masculino,11,Tlaxcala,0,0,1,1,1,0,1,0
+Femenino,2,Chiapas,0,1,0,0,0,0,1,0
+Masculino,24,Aguascalientes,0,1,0,0,0,0,0,0
+Femenino,10,San Luis Potosí,1,1,0,0,0,0,1,0
+Masculino,67,Tabasco,1,0,0,0,1,1,1,0
+Femenino,77,Guanajuato,1,1,0,0,0,0,1,0
+Femenino,9,Jalisco,0,1,0,0,0,0,1,1
+Femenino,42,San Luis Potosí,0,1,0,0,0,0,1,0
+Masculino,16,Sonora,0,1,0,0,0,0,1,0
+Femenino,10,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,55,Baja California Sur,1,1,0,0,0,0,1,0
+Masculino,94,Sonora,1,0,0,0,1,1,0,0
+Masculino,26,Nuevo León,1,0,0,0,1,0,1,1
+Masculino,100,Michoacán,0,0,0,1,0,0,1,0
+Femenino,15,Guerrero,0,1,0,0,0,0,1,0
+Femenino,73,Baja California,0,0,1,1,1,1,1,0
+Masculino,61,Veracruz,1,0,0,1,0,0,1,0
+Femenino,45,Jalisco,1,1,0,0,0,0,0,0
+Masculino,12,Tlaxcala,1,0,1,0,1,0,1,0
+Masculino,60,Sinaloa,0,0,1,0,1,1,1,1
+Femenino,89,Ciudad de México,1,0,0,0,0,0,1,0
+Masculino,23,Baja California,1,1,0,0,0,0,1,0
+Masculino,32,Guanajuato,1,0,1,0,0,0,1,0
+Masculino,39,Tlaxcala,0,1,0,0,0,0,1,0
+Femenino,53,Sonora,0,1,0,0,0,0,1,0
+Masculino,52,Yucatán,0,0,0,0,0,0,1,0
+Masculino,95,Jalisco,0,1,0,0,0,0,0,0
+Femenino,18,Nayarit,0,1,0,0,0,0,1,0
+Femenino,10,Zacatecas,1,0,0,1,1,1,1,0
+Femenino,71,Nuevo León,1,1,0,0,0,0,0,1
+Femenino,86,Tabasco,0,1,0,0,0,0,0,0
+Femenino,83,Baja California,1,1,0,0,0,0,1,0
+Masculino,7,Colima,0,0,1,0,0,0,1,0
+Masculino,4,Coahuila,0,0,1,0,0,1,1,0
+Masculino,87,Morelos,1,0,1,0,0,1,0,0
+Femenino,8,Chihuahua,1,0,0,1,0,1,1,0
+Masculino,20,San Luis Potosí,0,1,0,0,0,0,0,0
+Femenino,16,San Luis Potosí,1,0,1,0,1,0,1,0
+Femenino,6,Baja California,0,1,0,0,0,0,1,0
+Masculino,17,Baja California,0,0,1,0,1,1,1,1
+Masculino,28,Nayarit,1,1,0,0,0,0,1,0
+Femenino,45,Chihuahua,1,0,0,1,0,0,1,0
+Femenino,22,Tlaxcala,1,0,1,1,1,0,1,0
+Masculino,14,Baja California,0,1,0,0,0,0,1,0
+Femenino,14,Baja California,1,0,0,1,1,0,1,1
+Masculino,40,Jalisco,1,1,0,0,0,0,1,0
+Masculino,7,Nuevo León,0,0,1,0,0,1,1,0
+Femenino,34,Nayarit,1,1,0,0,0,0,1,0
+Masculino,25,Tabasco,0,0,0,0,1,0,0,0
+Masculino,70,Tlaxcala,0,0,0,0,0,1,0,0
+Femenino,99,Coahuila,0,0,0,0,1,1,0,0
+Masculino,72,Hidalgo,0,1,0,0,0,0,1,1
+Masculino,82,Chihuahua,1,0,1,1,0,0,0,1
+Femenino,9,Sonora,1,0,1,1,0,0,1,0
+Femenino,29,Tlaxcala,1,0,0,1,0,0,1,0
+Femenino,38,Nuevo León,0,1,0,0,0,0,0,0
+Masculino,67,Baja California Sur,0,0,1,0,1,0,1,0
+Masculino,55,Puebla,1,0,1,0,0,1,0,0
+Femenino,52,Baja California,1,1,0,0,0,0,1,0
+Femenino,23,Campeche,0,0,0,1,1,1,1,0
+Femenino,9,San Luis Potosí,1,0,1,1,1,1,1,0
+Masculino,7,Campeche,0,0,1,1,1,0,1,0
+Masculino,69,Sinaloa,1,0,0,0,0,0,0,1
+Masculino,27,Nayarit,1,1,0,0,0,0,0,1
+Femenino,54,Nayarit,0,0,1,1,1,1,0,0
+Femenino,49,Jalisco,0,1,0,0,0,0,1,1
+Masculino,52,Michoacán,1,1,0,0,0,0,1,0
+Masculino,38,Tamaulipas,0,1,0,0,0,0,1,0
+Masculino,39,Veracruz,1,0,1,1,0,1,1,0
+Femenino,25,Nayarit,0,0,1,0,0,1,1,0
+Femenino,7,Durango,1,1,0,0,0,0,1,0
+Masculino,89,Yucatán,1,0,1,1,0,0,1,1
+Masculino,27,Chihuahua,0,0,1,1,1,1,1,1
+Masculino,87,Zacatecas,1,1,0,0,0,0,0,0
+Femenino,13,Morelos,0,1,0,0,0,0,1,1
+Femenino,61,Puebla,1,1,0,0,0,0,0,1
+Femenino,13,Yucatán,1,0,0,1,0,1,1,1
+Femenino,49,Quintana Roo,1,0,0,0,1,0,0,1
+Femenino,2,Tabasco,1,0,1,0,0,1,1,1
+Masculino,88,San Luis Potosí,1,1,0,0,0,0,1,0
+Femenino,71,Yucatán,1,1,0,0,0,0,1,1
+Masculino,48,Tamaulipas,0,0,1,1,1,1,1,0
+Femenino,47,Campeche,1,1,0,0,0,0,0,0
+Femenino,97,Yucatán,0,0,1,0,1,1,0,0
+Femenino,95,Jalisco,0,0,1,1,1,0,0,0
+Masculino,50,Jalisco,0,0,1,0,0,0,1,1
+Masculino,33,Quintana Roo,0,1,0,0,0,0,1,0
+Femenino,95,Morelos,1,0,0,1,1,1,1,1
+Masculino,15,Sinaloa,1,0,0,0,1,1,1,1
+Masculino,20,Hidalgo,1,0,1,1,1,1,1,0
+Femenino,57,Yucatán,1,0,0,0,0,1,1,1
+Femenino,98,Jalisco,0,1,0,0,0,0,0,0
+Femenino,47,Aguascalientes,0,1,0,0,0,0,1,0
+Femenino,68,Oaxaca,0,0,1,0,0,1,1,0
+Femenino,78,Nuevo León,1,1,0,0,0,0,1,1
+Femenino,54,Colima,0,1,0,0,0,0,0,1
+Femenino,87,Colima,0,0,0,0,1,1,1,0
+Femenino,83,Querétaro,0,0,0,1,1,0,0,1
+Masculino,16,Guerrero,0,0,0,1,1,1,1,1
+Femenino,60,Durango,1,1,0,0,0,0,1,0
+Femenino,22,Coahuila,1,0,0,1,0,0,1,1
+Masculino,73,Chiapas,0,0,0,0,1,1,0,1
+Masculino,29,Chiapas,1,0,1,0,1,0,1,0
+Masculino,67,Morelos,0,1,0,0,0,0,1,0
+Femenino,61,Aguascalientes,0,1,0,0,0,0,1,0
+Femenino,18,Guanajuato,0,0,1,0,0,0,1,0
+Femenino,2,Durango,1,1,0,0,0,0,1,0
+Femenino,2,Baja California,1,1,0,0,0,0,1,1
+Masculino,38,Guerrero,1,0,0,0,0,1,0,0
+Masculino,56,Michoacán,1,0,1,1,1,0,0,1
+Femenino,64,Veracruz,0,1,0,0,0,0,1,0
+Masculino,71,Tlaxcala,1,1,0,0,0,0,1,1
+Masculino,93,Guanajuato,1,0,1,1,1,0,1,0
+Femenino,11,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,49,Jalisco,0,0,1,1,0,1,0,0
+Masculino,17,Sinaloa,0,0,0,0,0,1,1,0
+Femenino,34,Chiapas,0,0,1,1,1,0,0,0
+Femenino,42,Nayarit,1,1,0,0,0,0,1,0
+Masculino,40,Oaxaca,0,0,1,0,0,0,1,0
+Femenino,52,Morelos,1,1,0,0,0,0,1,0
+Masculino,7,Tamaulipas,0,1,0,0,0,0,1,0
+Masculino,90,Chihuahua,0,1,0,0,0,0,1,0
+Femenino,0,San Luis Potosí,1,1,0,0,0,0,1,0
+Femenino,19,Puebla,0,1,0,0,0,0,1,1
+Masculino,29,Campeche,1,1,0,0,0,0,1,0
+Masculino,14,Nuevo León,1,1,0,0,0,0,1,0
+Femenino,87,Aguascalientes,1,1,0,0,0,0,0,0
+Femenino,55,Quintana Roo,1,0,1,1,1,1,1,1
+Masculino,28,Quintana Roo,0,0,1,1,1,1,0,0
+Femenino,49,Puebla,1,0,1,1,0,0,0,1
+Masculino,30,Nuevo León,1,1,0,0,0,0,0,1
+Masculino,41,Tlaxcala,0,1,0,0,0,0,1,0
+Masculino,98,Veracruz,0,1,0,0,0,0,1,0
+Masculino,70,Nayarit,0,1,0,0,0,0,1,0
+Masculino,19,Nuevo León,0,0,0,0,1,1,1,0
+Femenino,8,Durango,1,1,0,0,0,0,1,0
+Femenino,10,Yucatán,1,0,0,0,0,0,1,1
+Femenino,10,Durango,0,1,0,0,0,0,1,1
+Femenino,48,Chihuahua,0,0,1,1,1,0,1,0
+Femenino,87,Yucatán,0,1,0,0,0,0,1,0
+Masculino,72,Tlaxcala,1,1,0,0,0,0,1,0
+Femenino,89,Morelos,1,0,1,1,1,1,0,0
+Masculino,71,Tabasco,0,1,0,0,0,0,1,0
+Femenino,4,Sonora,0,1,0,0,0,0,1,0
+Femenino,1,Colima,1,1,0,0,0,0,1,1
+Femenino,25,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,36,Guanajuato,0,1,0,0,0,0,1,1
+Femenino,70,Hidalgo,1,1,0,0,0,0,1,0
+Masculino,68,Sinaloa,1,0,1,0,0,1,0,0
+Masculino,51,Coahuila,1,1,0,0,0,0,0,0
+Masculino,51,Chihuahua,0,1,0,0,0,0,1,1
+Masculino,34,Sinaloa,0,1,0,0,0,0,1,0
+Femenino,13,Zacatecas,1,0,1,1,1,0,1,0
+Masculino,16,Colima,0,1,0,0,0,0,1,0
+Femenino,81,Durango,0,1,0,0,0,0,1,1
+Masculino,22,Morelos,1,0,1,0,1,1,1,0
+Femenino,92,Sinaloa,0,1,0,0,0,0,1,0
+Femenino,21,Michoacán,0,0,1,0,0,1,1,0
+Masculino,96,Veracruz,0,0,0,0,1,0,1,1
+Femenino,38,Michoacán,1,0,1,0,1,0,1,0
+Femenino,29,Ciudad de México,1,0,0,0,1,0,1,1
+Femenino,85,Puebla,0,1,0,0,0,0,1,0
+Masculino,10,Yucatán,1,1,0,0,0,0,1,0
+Femenino,22,Yucatán,1,1,0,0,0,0,1,0
+Femenino,14,Aguascalientes,0,1,0,0,0,0,1,0
+Femenino,3,Puebla,1,0,1,1,0,1,1,1
+Masculino,5,Durango,0,0,0,0,0,0,1,1
+Femenino,40,Hidalgo,1,1,0,0,0,0,1,0
+Masculino,26,Nuevo León,0,1,0,0,0,0,1,0
+Masculino,95,Coahuila,0,1,0,0,0,0,0,0
+Masculino,10,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,30,Campeche,1,0,0,1,0,0,1,0
+Masculino,100,Nayarit,1,0,1,0,0,1,0,0
+Femenino,28,Tamaulipas,0,1,0,0,0,0,1,0
+Masculino,50,San Luis Potosí,1,1,0,0,0,0,1,1
+Femenino,75,Veracruz,1,1,0,0,0,0,1,0
+Femenino,36,San Luis Potosí,0,0,0,1,0,1,1,1
+Masculino,82,Oaxaca,0,0,0,0,0,1,1,1
+Masculino,65,Campeche,1,0,0,1,0,1,0,0
+Femenino,54,Veracruz,1,1,0,0,0,0,1,0
+Masculino,9,Puebla,1,1,0,0,0,0,1,0
+Femenino,18,Baja California,0,0,1,0,1,0,1,0
+Femenino,75,Hidalgo,0,1,0,0,0,0,0,0
+Masculino,89,Puebla,1,0,1,0,1,0,1,0
+Masculino,79,Chihuahua,1,0,1,0,1,1,1,1
+Masculino,32,Campeche,1,1,0,0,0,0,1,0
+Femenino,95,Morelos,1,1,0,0,0,0,1,0
+Masculino,44,Michoacán,1,1,0,0,0,0,1,1
+Femenino,23,Sonora,1,0,1,1,0,1,0,0
+Femenino,68,Veracruz,0,0,0,0,0,1,1,1
+Femenino,26,Tlaxcala,0,1,0,0,0,0,1,0
+Masculino,42,Quintana Roo,1,0,1,0,0,0,0,0
+Femenino,29,San Luis Potosí,0,0,1,0,1,0,0,0
+Masculino,98,Quintana Roo,0,1,0,0,0,0,0,0
+Masculino,90,Aguascalientes,1,0,0,0,1,0,0,1
+Femenino,73,Sinaloa,0,0,1,0,1,1,1,1
+Femenino,36,Tamaulipas,0,0,0,0,0,0,1,1
+Femenino,79,Sonora,0,1,0,0,0,0,1,0
+Femenino,100,Nuevo León,0,0,1,0,0,0,1,1
+Masculino,91,Oaxaca,0,0,0,1,0,1,0,0
+Masculino,38,Nuevo León,0,0,1,1,0,0,0,0
+Femenino,18,Guerrero,1,1,0,0,0,0,1,0
+Femenino,44,Tabasco,0,0,1,0,0,0,1,0
+Masculino,18,Querétaro,1,0,1,1,1,0,1,0
+Masculino,97,Puebla,1,1,0,0,0,0,1,0
+Masculino,37,Michoacán,0,0,1,1,0,1,1,0
+Femenino,6,Nayarit,0,1,0,0,0,0,0,0
+Femenino,32,Coahuila,1,1,0,0,0,0,1,1
+Femenino,0,Baja California Sur,0,0,1,1,1,0,1,1
+Masculino,64,Sinaloa,1,0,0,1,0,0,1,0
+Femenino,17,Querétaro,0,0,0,1,0,1,1,0
+Femenino,45,Querétaro,0,0,1,1,1,0,0,0
+Masculino,22,Querétaro,1,1,0,0,0,0,0,1
+Femenino,42,Baja California,0,0,0,0,1,0,0,0
+Femenino,65,Jalisco,0,1,0,0,0,0,0,0
+Masculino,67,Baja California Sur,0,1,0,0,0,0,0,0
+Femenino,98,Baja California,0,0,1,0,0,0,0,0
+Femenino,24,Durango,1,1,0,0,0,0,0,0
+Masculino,10,Tabasco,0,0,0,0,0,0,1,1
+Masculino,99,Chihuahua,0,1,0,0,0,0,1,0
+Masculino,91,Durango,1,0,0,1,1,0,1,0
+Femenino,29,Sinaloa,1,0,0,1,0,0,0,1
+Femenino,56,Nayarit,0,0,1,1,1,1,0,0
+Masculino,13,Chiapas,1,0,1,1,0,1,1,0
+Masculino,72,Baja California Sur,1,0,0,0,1,0,0,0
+Masculino,22,Yucatán,0,1,0,0,0,0,1,0
+Masculino,0,Guanajuato,1,0,1,1,1,1,1,0
+Femenino,26,Jalisco,0,0,0,1,0,0,1,0
+Masculino,36,Querétaro,1,1,0,0,0,0,1,0
+Masculino,20,Nayarit,1,1,0,0,0,0,0,0
+Femenino,10,Oaxaca,1,0,1,1,0,1,1,0
+Masculino,7,Guanajuato,0,0,1,0,0,1,0,0
+Masculino,12,Yucatán,1,1,0,0,0,0,1,0
+Femenino,61,Chihuahua,1,1,0,0,0,0,1,1
+Femenino,63,Campeche,1,1,0,0,0,0,1,1
+Femenino,36,Baja California,0,1,0,0,0,0,1,0
+Masculino,47,Michoacán,1,0,0,1,1,0,1,0
+Femenino,3,Campeche,0,0,0,0,0,0,1,0
+Femenino,81,Guanajuato,1,1,0,0,0,0,0,1
+Femenino,18,Nuevo León,1,0,1,0,1,1,1,1
+Femenino,22,Querétaro,0,0,0,1,1,1,1,0
+Femenino,48,Chiapas,1,0,1,0,1,0,1,0
+Femenino,11,Sinaloa,0,0,0,0,0,0,1,1
+Femenino,91,San Luis Potosí,1,1,0,0,0,0,1,0
+Femenino,18,Nuevo León,1,1,0,0,0,0,1,1
+Femenino,75,Nayarit,0,0,0,0,0,1,1,0
+Femenino,93,Hidalgo,1,0,1,0,0,0,0,1
+Masculino,34,Nayarit,0,0,0,1,0,0,1,0
+Femenino,71,Michoacán,0,1,0,0,0,0,1,1
+Femenino,90,Puebla,0,0,0,0,0,1,0,0
+Masculino,60,Jalisco,0,1,0,0,0,0,1,0
+Femenino,92,Jalisco,1,1,0,0,0,0,0,1
+Femenino,19,Campeche,0,0,0,0,0,1,1,0
+Masculino,91,Sonora,1,0,0,0,1,0,0,1
+Masculino,76,Yucatán,0,1,0,0,0,0,1,0
+Femenino,71,Tamaulipas,0,0,0,1,0,1,1,0
+Femenino,8,Tabasco,1,0,1,1,1,1,1,0
+Masculino,10,Aguascalientes,1,0,1,0,1,1,1,0
+Masculino,99,Nuevo León,0,1,0,0,0,0,1,0
+Femenino,81,Tlaxcala,0,0,0,0,1,1,0,1
+Femenino,15,Tlaxcala,0,1,0,0,0,0,1,0
+Femenino,75,San Luis Potosí,1,0,1,1,1,1,0,1
+Femenino,87,Sinaloa,0,1,0,0,0,0,1,0
+Masculino,66,Hidalgo,1,0,1,0,1,1,1,0
+Masculino,79,San Luis Potosí,0,1,0,0,0,0,1,1
+Femenino,71,Colima,0,0,0,1,1,1,1,0
+Femenino,18,Guanajuato,1,1,0,0,0,0,1,0
+Femenino,8,Sinaloa,1,1,0,0,0,0,1,0
+Femenino,5,Baja California,0,1,0,0,0,0,0,1
+Masculino,47,Morelos,0,1,0,0,0,0,1,0
+Masculino,57,Guanajuato,1,0,1,1,1,0,0,0
+Masculino,55,Baja California Sur,0,1,0,0,0,0,0,0
+Femenino,75,Oaxaca,0,0,1,1,0,0,1,0
+Femenino,12,Chiapas,0,0,1,1,0,0,0,1
+Masculino,51,Guerrero,0,0,0,1,1,0,0,1
+Masculino,27,Guerrero,0,1,0,0,0,0,1,0
+Femenino,24,Ciudad de México,0,0,1,1,0,1,1,0
+Femenino,43,Coahuila,0,1,0,0,0,0,1,1
+Femenino,48,San Luis Potosí,0,1,0,0,0,0,0,1
+Femenino,30,Yucatán,1,0,0,1,0,1,0,1
+Femenino,45,Baja California,0,0,0,0,0,1,1,1
+Masculino,33,Ciudad de México,1,1,0,0,0,0,1,1
+Femenino,11,Guerrero,0,0,1,0,0,0,1,0
+Femenino,63,Coahuila,1,0,0,1,1,1,1,0
+Masculino,29,Baja California Sur,1,1,0,0,0,0,1,0
+Femenino,38,Colima,1,0,0,1,1,1,0,1
+Femenino,100,Guanajuato,0,1,0,0,0,0,0,0
+Masculino,61,Campeche,0,0,1,1,1,0,0,0
+Femenino,13,Hidalgo,0,0,0,1,0,1,1,1
+Femenino,50,Morelos,1,1,0,0,0,0,1,0
+Femenino,14,Chihuahua,1,0,0,0,0,0,1,1
+Masculino,56,Hidalgo,0,0,1,1,0,1,0,0
+Femenino,62,Tamaulipas,0,1,0,0,0,0,0,0
+Masculino,2,Hidalgo,1,0,1,1,0,1,1,1
+Masculino,59,Jalisco,0,1,0,0,0,0,1,1
+Masculino,50,Chihuahua,0,1,0,0,0,0,1,0
+Femenino,46,Baja California,1,0,1,0,1,1,1,0
+Masculino,72,Colima,1,1,0,0,0,0,1,1
+Femenino,45,Aguascalientes,0,0,0,1,1,1,1,0
+Masculino,60,Chiapas,0,0,0,1,1,0,0,0
+Masculino,71,Tlaxcala,0,0,1,0,0,0,1,0
+Masculino,29,Hidalgo,1,1,0,0,0,0,1,1
+Masculino,71,Ciudad de México,1,0,1,0,1,0,0,0
+Femenino,54,Sinaloa,1,0,1,0,0,1,0,0
+Femenino,89,Tamaulipas,0,0,1,1,1,1,0,0
+Femenino,50,Sonora,0,1,0,0,0,0,1,0
+Masculino,67,Tabasco,1,0,0,0,1,0,0,0
+Femenino,36,Chihuahua,0,1,0,0,0,0,0,0
+Femenino,9,Puebla,0,0,1,1,0,1,1,0
+Femenino,13,Coahuila,1,0,0,1,0,0,1,1
+Masculino,92,Sinaloa,1,1,0,0,0,0,0,1
+Masculino,80,Nuevo León,1,0,0,0,0,1,1,0
+Femenino,26,Tabasco,0,0,0,0,1,0,1,0
+Masculino,54,Tamaulipas,1,0,1,1,0,0,1,0
+Femenino,39,Yucatán,1,0,0,1,0,0,1,1
+Femenino,48,Guanajuato,1,0,1,1,1,0,1,0
+Masculino,52,Michoacán,1,0,0,1,0,0,1,1
+Masculino,94,Veracruz,0,0,1,1,0,0,0,1
+Femenino,64,Sonora,0,0,0,1,0,1,1,0
+Femenino,18,Chihuahua,0,0,1,0,0,0,1,1
+Femenino,0,Durango,0,1,0,0,0,0,1,0
+Masculino,40,Nayarit,1,0,1,0,1,0,1,1
+Femenino,6,Tabasco,1,1,0,0,0,0,1,1
+Masculino,68,San Luis Potosí,1,0,1,0,0,0,1,1
+Femenino,63,Chihuahua,1,0,1,1,0,0,0,1
+Femenino,46,Michoacán,0,1,0,0,0,0,1,0
+Femenino,72,Nayarit,1,0,1,0,0,0,0,0
+Masculino,92,Chiapas,1,1,0,0,0,0,1,1
+Masculino,33,Tamaulipas,1,1,0,0,0,0,0,0
+Masculino,70,Yucatán,0,0,1,1,0,1,0,0
+Femenino,92,Aguascalientes,1,1,0,0,0,0,0,1
+Femenino,52,Quintana Roo,1,0,0,0,1,1,0,1
+Masculino,46,Campeche,0,0,1,0,1,1,0,0
+Masculino,97,Colima,0,1,0,0,0,0,0,1
+Masculino,87,Tlaxcala,1,1,0,0,0,0,1,1
+Masculino,11,Jalisco,0,1,0,0,0,0,1,0
+Femenino,72,Jalisco,0,0,1,0,1,0,0,0
+Femenino,2,Campeche,1,0,0,0,0,0,1,0
+Masculino,36,Sinaloa,1,0,0,1,0,1,1,1
+Femenino,70,Baja California,1,0,1,0,0,1,0,1
+Femenino,50,Chiapas,1,1,0,0,0,0,0,0
+Masculino,2,Sinaloa,1,0,0,0,0,0,1,0
+Femenino,17,Campeche,0,0,1,0,1,1,1,0
+Masculino,49,Chiapas,1,1,0,0,0,0,1,0
+Femenino,78,Puebla,0,0,1,1,1,1,0,0
+Femenino,48,Tamaulipas,0,0,0,0,1,0,1,1
+Femenino,75,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,3,Hidalgo,1,1,0,0,0,0,1,0
+Masculino,78,San Luis Potosí,1,1,0,0,0,0,1,1
+Masculino,57,Aguascalientes,0,0,1,1,0,0,0,0
+Masculino,86,Morelos,1,1,0,0,0,0,0,1
+Femenino,73,Puebla,1,0,1,1,1,1,0,1
+Masculino,75,Nayarit,0,0,0,0,1,0,1,0
+Femenino,19,Sonora,0,1,0,0,0,0,1,0
+Femenino,76,Tabasco,0,1,0,0,0,0,1,0
+Femenino,89,Sinaloa,1,0,1,1,1,0,0,1
+Femenino,52,Durango,0,0,0,0,0,0,1,0
+Masculino,27,Coahuila,1,1,0,0,0,0,1,1
+Masculino,65,Michoacán,0,0,0,0,1,1,0,0
+Femenino,75,Hidalgo,0,1,0,0,0,0,1,0
+Masculino,89,Chihuahua,1,0,1,1,0,0,1,1
+Masculino,46,Sonora,1,0,0,0,0,0,1,0
+Femenino,28,Veracruz,1,1,0,0,0,0,1,0
+Masculino,62,Baja California,0,1,0,0,0,0,0,0
+Femenino,67,Baja California Sur,1,0,1,0,1,1,0,0
+Masculino,26,Nuevo León,1,0,0,0,1,0,1,0
+Femenino,90,Durango,1,0,0,1,0,0,0,0
+Femenino,26,Coahuila,0,0,0,0,0,1,0,0
+Femenino,51,Tamaulipas,0,1,0,0,0,0,0,1
+Masculino,85,Baja California,1,0,1,1,0,0,0,0
+Femenino,42,Puebla,1,0,0,0,0,0,1,1
+Femenino,60,Campeche,1,0,1,0,0,0,1,0
+Masculino,62,Puebla,0,0,1,1,1,1,1,1
+Femenino,92,Chihuahua,1,0,0,1,0,0,0,0
+Femenino,93,Veracruz,1,1,0,0,0,0,1,1
+Masculino,19,Aguascalientes,0,0,0,0,0,1,1,0
+Masculino,78,Baja California Sur,1,0,1,1,1,1,1,0
+Femenino,54,Sinaloa,0,1,0,0,0,0,0,0
+Femenino,44,Aguascalientes,1,0,0,1,0,1,1,0
+Masculino,98,Ciudad de México,0,1,0,0,0,0,0,0
+Masculino,21,Sinaloa,1,1,0,0,0,0,0,0
+Femenino,64,Tabasco,0,0,0,1,1,1,0,0
+Masculino,93,Yucatán,1,0,1,1,0,1,0,0
+Masculino,73,Querétaro,1,1,0,0,0,0,1,1
+Femenino,61,Baja California Sur,0,0,0,1,1,0,1,0
+Masculino,49,Veracruz,1,0,0,1,0,0,0,0
+Masculino,75,Hidalgo,1,1,0,0,0,0,1,0
+Femenino,2,Coahuila,1,0,1,1,0,1,1,1
+Masculino,52,Nayarit,1,1,0,0,0,0,1,0
+Masculino,35,Coahuila,1,0,1,0,0,0,1,0
+Femenino,90,Colima,0,0,0,0,0,0,0,0
+Masculino,40,Durango,0,0,0,0,0,0,1,0
+Masculino,30,Oaxaca,1,1,0,0,0,0,1,1
+Femenino,49,Sinaloa,1,0,1,1,0,1,1,1
+Masculino,68,Nuevo León,1,0,1,1,1,1,1,1
+Masculino,21,Chiapas,1,0,1,1,1,1,0,0
+Masculino,59,Quintana Roo,0,1,0,0,0,0,1,0
+Masculino,22,Yucatán,1,0,1,1,0,1,0,0
+Femenino,44,Jalisco,0,0,1,1,1,0,0,0
+Femenino,52,Coahuila,0,1,0,0,0,0,1,0
+Masculino,45,Aguascalientes,0,1,0,0,0,0,1,0
+Masculino,92,Aguascalientes,0,1,0,0,0,0,0,0
+Masculino,6,Guerrero,0,1,0,0,0,0,1,0
+Masculino,89,Baja California,1,0,1,1,1,1,0,0
+Femenino,35,Quintana Roo,1,0,1,1,1,0,1,1
+Masculino,7,Tamaulipas,0,1,0,0,0,0,1,0
+Femenino,86,Querétaro,0,0,0,0,0,0,0,0
+Femenino,28,Sinaloa,1,0,0,0,1,1,1,1
+Femenino,56,Aguascalientes,1,0,1,0,0,1,0,1
+Masculino,1,Veracruz,0,0,1,1,0,0,1,0
+Masculino,11,Puebla,1,1,0,0,0,0,1,0
+Masculino,4,Sinaloa,1,1,0,0,0,0,1,0
+Masculino,39,Sinaloa,1,1,0,0,0,0,0,0
+Masculino,61,Guerrero,1,1,0,0,0,0,0,0
+Femenino,40,Chihuahua,0,1,0,0,0,0,1,0
+Masculino,31,Guerrero,0,0,1,0,0,0,1,1
+Masculino,8,San Luis Potosí,1,1,0,0,0,0,1,0
+Femenino,83,Tlaxcala,0,0,1,0,1,1,1,1
+Femenino,9,San Luis Potosí,0,0,0,0,1,1,0,0
+Masculino,86,Sinaloa,0,1,0,0,0,0,0,0
+Masculino,11,Campeche,0,1,0,0,0,0,1,0
+Femenino,53,Tlaxcala,1,0,1,0,0,1,0,0
+Masculino,52,Yucatán,0,0,1,1,1,1,0,0
+Masculino,23,Sinaloa,1,0,1,1,0,0,1,0
+Masculino,66,Baja California,1,0,0,0,0,0,1,0
+Masculino,95,Tlaxcala,1,0,0,1,0,0,0,1
+Masculino,40,Chihuahua,1,1,0,0,0,0,1,0
+Masculino,88,Tamaulipas,0,0,0,0,0,1,0,0
+Masculino,59,Chiapas,0,0,0,0,1,0,1,1
+Femenino,42,Oaxaca,1,1,0,0,0,0,1,0
+Masculino,45,Michoacán,0,1,0,0,0,0,0,0
+Femenino,85,Quintana Roo,0,1,0,0,0,0,1,1
+Masculino,40,Ciudad de México,0,0,0,0,1,0,0,0
+Masculino,28,Baja California Sur,1,0,0,1,1,1,1,1
+Femenino,49,Guanajuato,1,0,0,0,1,0,1,1
+Femenino,31,Colima,0,0,1,1,1,1,0,0
+Masculino,71,Nayarit,1,0,0,1,1,1,1,1
+Femenino,20,Coahuila,1,1,0,0,0,0,1,1
+Femenino,9,Jalisco,0,1,0,0,0,0,1,0
+Masculino,78,Veracruz,0,1,0,0,0,0,0,1
+Masculino,89,Jalisco,1,1,0,0,0,0,0,1
+Masculino,8,Hidalgo,1,1,0,0,0,0,1,0
+Masculino,61,Sonora,0,0,0,1,1,1,0,0
+Masculino,52,Tamaulipas,1,1,0,0,0,0,1,0
+Masculino,58,Morelos,0,1,0,0,0,0,1,0
+Masculino,18,Chihuahua,1,0,0,0,0,0,1,0
+Femenino,29,Nuevo León,1,1,0,0,0,0,1,0
+Masculino,18,Veracruz,0,0,0,0,0,0,1,1
+Femenino,52,Guanajuato,0,1,0,0,0,0,1,0
+Femenino,77,Baja California,1,1,0,0,0,0,1,0
+Masculino,55,Campeche,1,0,1,0,0,0,1,0
+Femenino,39,Coahuila,0,1,0,0,0,0,1,1
+Femenino,67,Hidalgo,0,1,0,0,0,0,1,1
+Femenino,51,Tabasco,0,1,0,0,0,0,1,1
+Femenino,38,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,25,Sonora,0,0,1,1,1,1,1,0
+Femenino,74,Chiapas,0,1,0,0,0,0,1,0
+Femenino,10,Hidalgo,0,0,0,1,1,1,1,0
+Femenino,88,Michoacán,0,1,0,0,0,0,0,0
+Femenino,88,Guanajuato,0,0,1,0,1,0,1,0
+Femenino,16,Nuevo León,0,1,0,0,0,0,1,0
+Masculino,75,Chihuahua,0,0,0,1,0,1,0,1
+Masculino,72,Zacatecas,0,1,0,0,0,0,1,0
+Femenino,52,Nayarit,1,0,1,1,1,0,1,0
+Femenino,54,Tlaxcala,1,1,0,0,0,0,1,0
+Femenino,42,Puebla,1,0,1,0,0,0,1,1
+Femenino,43,Oaxaca,0,0,0,0,0,0,0,1
+Masculino,50,Nayarit,1,0,1,1,0,1,1,0
+Femenino,64,Colima,0,1,0,0,0,0,1,1
+Femenino,27,Oaxaca,1,1,0,0,0,0,0,0
+Femenino,51,Coahuila,0,1,0,0,0,0,1,1
+Masculino,42,Oaxaca,0,0,0,0,1,1,1,0
+Femenino,91,Puebla,1,1,0,0,0,0,0,1
+Femenino,61,Chiapas,1,1,0,0,0,0,1,0
+Femenino,84,Hidalgo,0,0,1,0,0,1,0,0
+Masculino,84,Campeche,0,0,0,1,1,1,1,0
+Masculino,92,Chiapas,0,1,0,0,0,0,0,1
+Masculino,61,Veracruz,0,0,1,0,0,1,0,0
+Masculino,86,Tlaxcala,1,0,0,1,1,0,1,0
+Femenino,44,Guanajuato,1,0,1,0,1,1,1,0
+Femenino,57,Aguascalientes,0,1,0,0,0,0,1,0
+Femenino,91,Puebla,1,1,0,0,0,0,0,0
+Masculino,15,Querétaro,1,1,0,0,0,0,1,0
+Masculino,96,Nuevo León,1,1,0,0,0,0,1,0
+Femenino,2,Baja California Sur,0,1,0,0,0,0,1,0
+Masculino,64,Hidalgo,0,0,1,0,0,0,1,0
+Masculino,1,Oaxaca,1,0,1,1,1,1,0,0
+Masculino,74,Nuevo León,0,1,0,0,0,0,0,0
+Femenino,85,Chihuahua,0,0,0,1,0,0,1,1
+Femenino,82,Tamaulipas,0,1,0,0,0,0,1,0
+Masculino,94,Durango,0,0,1,0,0,1,0,0
+Masculino,22,Campeche,0,0,0,1,0,1,1,1
+Masculino,9,Coahuila,1,0,1,1,0,0,0,0
+Femenino,77,Chiapas,0,0,0,1,1,1,0,0
+Femenino,49,Jalisco,0,0,0,1,1,0,0,0
+Masculino,80,Aguascalientes,0,0,0,1,0,0,1,0
+Masculino,37,Tlaxcala,1,0,1,0,1,0,0,1
+Femenino,0,Hidalgo,1,0,0,0,1,1,1,0
+Femenino,33,Oaxaca,0,1,0,0,0,0,1,0
+Masculino,3,Tamaulipas,1,0,1,0,0,0,1,0
+Masculino,8,Durango,1,1,0,0,0,0,1,1
+Femenino,95,Oaxaca,0,1,0,0,0,0,0,0
+Masculino,90,Campeche,0,0,1,0,1,1,0,1
+Masculino,32,Oaxaca,0,0,1,0,0,0,1,0
+Femenino,28,Baja California Sur,0,0,0,1,0,1,1,1
+Masculino,73,Tabasco,1,0,1,1,1,1,1,0
+Masculino,48,Yucatán,0,1,0,0,0,0,1,0
+Masculino,26,Zacatecas,0,1,0,0,0,0,1,1
+Femenino,23,Sonora,1,0,1,0,1,1,0,0
+Masculino,36,Durango,0,0,0,1,1,0,1,0
+Femenino,53,Chiapas,0,0,1,0,1,0,1,1
+Masculino,10,Tlaxcala,1,1,0,0,0,0,1,0
+Masculino,3,Guerrero,0,1,0,0,0,0,1,0
+Masculino,93,Sinaloa,1,0,1,1,0,1,0,0
+Masculino,0,Querétaro,1,0,1,0,1,0,1,1
+Masculino,33,Querétaro,1,0,0,0,1,1,1,0
+Femenino,72,Jalisco,1,1,0,0,0,0,1,0
+Femenino,95,Guerrero,1,1,0,0,0,0,0,1
+Femenino,23,Morelos,0,1,0,0,0,0,1,1
+Femenino,24,Chihuahua,0,1,0,0,0,0,1,0
+Femenino,42,Guerrero,0,0,0,1,0,1,0,0
+Masculino,38,Tabasco,1,0,0,0,1,1,0,0
+Masculino,52,Chihuahua,1,0,1,0,1,0,1,1
+Femenino,97,Sonora,1,1,0,0,0,0,1,1
+Masculino,82,Ciudad de México,0,0,0,0,1,0,1,0
+Masculino,37,Veracruz,0,0,1,1,1,1,1,0
+Femenino,24,Morelos,1,1,0,0,0,0,1,0
+Masculino,92,Jalisco,0,0,1,0,0,0,0,1
+Masculino,100,Baja California Sur,0,1,0,0,0,0,0,0
+Femenino,74,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,45,Sonora,1,1,0,0,0,0,0,0
+Masculino,69,Yucatán,1,1,0,0,0,0,0,0
+Masculino,78,Zacatecas,1,1,0,0,0,0,1,0
+Masculino,8,Aguascalientes,1,0,1,1,1,1,0,0
+Masculino,24,Nuevo León,1,1,0,0,0,0,1,0
+Masculino,59,Querétaro,1,0,1,0,0,0,1,0
+Femenino,4,Baja California,0,1,0,0,0,0,1,0
+Masculino,63,Chiapas,0,1,0,0,0,0,1,0
+Masculino,3,Chiapas,0,1,0,0,0,0,1,1
+Masculino,98,Quintana Roo,0,0,1,1,0,0,1,0
+Femenino,78,Querétaro,1,0,1,0,0,0,1,0
+Femenino,92,Colima,0,1,0,0,0,0,0,0
+Femenino,29,Morelos,1,1,0,0,0,0,1,0
+Femenino,10,Coahuila,0,1,0,0,0,0,1,0
+Masculino,56,Baja California,1,0,1,1,0,1,1,1
+Masculino,61,Coahuila,0,1,0,0,0,0,1,1
+Masculino,32,Jalisco,0,0,1,1,0,0,1,1
+Femenino,99,Jalisco,1,1,0,0,0,0,1,0
+Femenino,69,Durango,0,0,0,1,0,1,0,0
+Femenino,1,Aguascalientes,0,1,0,0,0,0,1,0
+Femenino,98,Oaxaca,1,0,1,0,0,0,0,0
+Masculino,87,Guerrero,0,0,1,0,1,0,0,1
+Femenino,2,Coahuila,1,1,0,0,0,0,1,0
+Masculino,78,Chihuahua,0,1,0,0,0,0,0,0
+Masculino,19,Sonora,0,0,1,0,0,1,1,0
+Femenino,100,Tamaulipas,1,1,0,0,0,0,0,1
+Femenino,92,Nayarit,1,1,0,0,0,0,1,0
+Femenino,20,Veracruz,0,1,0,0,0,0,1,0
+Masculino,35,Sonora,1,1,0,0,0,0,0,0
+Femenino,93,Tlaxcala,1,1,0,0,0,0,1,1
+Femenino,84,Yucatán,1,0,0,1,1,0,0,0
+Femenino,74,Tabasco,0,0,0,1,1,0,1,1
+Masculino,85,Baja California,1,1,0,0,0,0,1,0
+Masculino,17,Guerrero,0,1,0,0,0,0,1,0
+Masculino,6,Zacatecas,0,0,0,1,1,1,1,1
+Femenino,53,Guerrero,1,1,0,0,0,0,1,1
+Femenino,44,Campeche,0,0,0,0,0,0,1,0
+Masculino,12,Coahuila,0,0,1,1,0,0,1,0
+Masculino,81,Guerrero,1,0,1,0,1,1,1,0
+Femenino,10,Guerrero,0,0,1,1,0,0,1,0
+Masculino,74,San Luis Potosí,0,0,0,1,1,0,1,1
+Femenino,42,Jalisco,0,0,0,0,1,0,1,1
+Masculino,8,Morelos,0,1,0,0,0,0,1,0
+Femenino,16,Zacatecas,1,0,1,0,1,0,1,0
+Femenino,33,Sinaloa,0,0,1,0,1,0,1,1
+Masculino,44,Chiapas,0,1,0,0,0,0,1,1
+Femenino,6,Ciudad de México,0,1,0,0,0,0,1,1
+Masculino,80,Durango,0,1,0,0,0,0,1,0
+Femenino,10,Aguascalientes,0,1,0,0,0,0,1,0
+Masculino,25,Sonora,1,1,0,0,0,0,1,0
+Masculino,72,Jalisco,0,1,0,0,0,0,0,0
+Femenino,22,Chiapas,0,0,1,1,1,0,1,1
+Femenino,20,Yucatán,1,1,0,0,0,0,1,1
+Femenino,69,San Luis Potosí,0,0,1,1,1,0,0,0
+Masculino,47,Nayarit,1,0,0,1,0,1,1,0
+Masculino,14,Morelos,0,0,0,1,0,1,0,1
+Femenino,17,Sonora,1,1,0,0,0,0,1,1
+Femenino,33,Veracruz,1,0,0,0,1,1,1,1
+Masculino,92,Guerrero,0,0,1,0,1,1,1,1
+Masculino,7,Tamaulipas,0,1,0,0,0,0,1,1
+Masculino,56,Guanajuato,1,0,0,1,1,0,0,0
+Femenino,94,Jalisco,1,1,0,0,0,0,0,0
+Masculino,45,Nuevo León,1,0,1,0,0,1,0,1
+Femenino,66,Yucatán,0,0,0,0,1,1,0,0
+Masculino,93,Guerrero,1,0,1,1,1,0,1,0
+Masculino,14,Sinaloa,0,0,1,0,0,0,1,0
+Femenino,60,Guerrero,0,0,0,0,0,1,0,0
+Femenino,40,Hidalgo,0,0,0,0,1,1,1,1
+Femenino,7,Nayarit,1,1,0,0,0,0,1,1
+Masculino,0,Sonora,0,1,0,0,0,0,1,1
+Femenino,67,Tlaxcala,0,0,0,0,1,0,0,0
+Femenino,10,Querétaro,1,0,0,1,1,0,1,0
+Masculino,18,Puebla,1,1,0,0,0,0,1,1
+Femenino,79,Oaxaca,0,0,0,1,0,0,0,0
+Femenino,50,Durango,1,0,1,0,1,1,1,1
+Femenino,48,Aguascalientes,1,0,1,0,0,1,1,1
+Femenino,61,Chiapas,1,0,0,0,0,0,1,1
+Femenino,98,Nayarit,0,0,1,1,1,1,0,1
+Femenino,98,Tamaulipas,1,1,0,0,0,0,0,1
+Femenino,82,Chiapas,0,1,0,0,0,0,0,0
+Masculino,89,Tamaulipas,0,1,0,0,0,0,1,0
+Masculino,95,Campeche,0,0,0,1,1,1,1,1
+Femenino,76,Tamaulipas,0,1,0,0,0,0,1,1
+Masculino,45,Sinaloa,0,1,0,0,0,0,1,0
+Masculino,28,Jalisco,0,1,0,0,0,0,1,0
+Masculino,34,Oaxaca,0,1,0,0,0,0,1,1
+Femenino,29,Puebla,0,1,0,0,0,0,1,0
+Femenino,86,Baja California Sur,0,0,0,1,0,0,1,0
+Masculino,72,Morelos,0,0,1,0,1,0,1,1
+Femenino,0,Aguascalientes,0,0,0,0,0,1,1,1
+Masculino,22,Michoacán,1,0,0,0,1,1,0,0
+Masculino,73,Durango,0,1,0,0,0,0,0,1
+Masculino,73,Nayarit,0,0,0,1,0,1,1,0
+Masculino,80,Chiapas,1,0,1,1,0,0,1,0
+Femenino,63,Guerrero,1,1,0,0,0,0,0,0
+Femenino,54,Tamaulipas,0,0,1,0,0,1,0,0
+Masculino,52,Durango,0,0,0,1,0,0,0,0
+Femenino,4,Chiapas,1,1,0,0,0,0,0,1
+Femenino,79,San Luis Potosí,0,0,1,1,0,1,0,0
+Femenino,25,Sinaloa,0,0,1,0,0,1,1,0
+Masculino,16,Baja California Sur,1,0,0,0,0,1,1,1
+Femenino,84,Chihuahua,0,0,1,0,1,0,0,1
+Femenino,55,Quintana Roo,0,0,1,0,0,1,1,1
+Femenino,47,Baja California Sur,1,1,0,0,0,0,1,1
+Femenino,37,Tabasco,1,0,0,1,1,1,1,0
+Femenino,17,Colima,1,1,0,0,0,0,1,1
+Femenino,96,Baja California Sur,1,1,0,0,0,0,1,0
+Masculino,99,San Luis Potosí,1,0,1,1,1,1,0,0
+Femenino,58,Baja California,0,0,1,1,1,0,1,0
+Femenino,84,Jalisco,1,0,0,0,1,1,0,1
+Femenino,35,Jalisco,0,1,0,0,0,0,1,1
+Femenino,41,Guerrero,1,0,1,1,0,1,0,0
+Femenino,4,Tlaxcala,0,1,0,0,0,0,1,0
+Femenino,30,Guerrero,0,0,0,1,1,0,1,0
+Femenino,18,Aguascalientes,1,0,1,1,0,1,1,0
+Femenino,89,Colima,1,1,0,0,0,0,0,0
+Femenino,36,Baja California Sur,1,0,1,1,1,1,1,1
+Masculino,79,Baja California Sur,0,1,0,0,0,0,1,0
+Femenino,36,Tlaxcala,0,1,0,0,0,0,1,0
+Femenino,47,Tabasco,1,1,0,0,0,0,1,0
+Masculino,57,Guerrero,0,1,0,0,0,0,0,1
+Masculino,67,Oaxaca,1,1,0,0,0,0,0,0
+Femenino,49,Baja California,0,0,1,1,0,1,1,0
+Masculino,69,Nuevo León,1,1,0,0,0,0,0,0
+Masculino,85,Nuevo León,1,0,1,0,1,1,1,0
+Masculino,54,Tamaulipas,1,0,0,0,1,0,0,0
+Masculino,3,Baja California,0,1,0,0,0,0,1,0
+Femenino,54,Aguascalientes,1,0,1,0,1,0,0,0
+Masculino,86,Veracruz,1,1,0,0,0,0,0,1
+Femenino,43,Coahuila,0,0,0,1,1,1,0,0
+Femenino,21,Michoacán,1,1,0,0,0,0,1,0
+Masculino,74,Jalisco,0,0,1,0,1,0,1,1
+Masculino,39,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,40,Puebla,0,1,0,0,0,0,1,1
+Masculino,55,Tabasco,1,0,0,1,1,1,1,0
+Femenino,63,Hidalgo,0,1,0,0,0,0,1,1
+Masculino,41,Sinaloa,1,0,1,1,0,1,0,0
+Femenino,17,Jalisco,0,1,0,0,0,0,1,1
+Masculino,0,Morelos,1,0,1,0,0,0,1,1
+Femenino,85,Querétaro,0,0,1,0,0,0,0,0
+Masculino,9,Querétaro,0,1,0,0,0,0,1,0
+Femenino,96,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,8,Oaxaca,1,1,0,0,0,0,1,1
+Masculino,85,Hidalgo,1,0,1,0,1,0,0,1
+Masculino,40,Sonora,0,0,0,0,1,0,1,0
+Femenino,0,Aguascalientes,0,0,1,1,1,1,1,0
+Masculino,27,Puebla,0,0,0,0,1,0,1,0
+Femenino,60,Sonora,1,0,1,0,1,0,1,1
+Femenino,75,Nuevo León,1,1,0,0,0,0,0,0
+Femenino,70,Tamaulipas,1,1,0,0,0,0,0,0
+Femenino,97,Guerrero,1,0,1,0,0,0,0,0
+Masculino,47,Colima,0,0,1,1,1,0,0,0
+Masculino,76,Querétaro,1,0,0,0,0,0,0,0
+Masculino,60,Aguascalientes,1,1,0,0,0,0,1,0
+Masculino,12,Tabasco,1,0,0,0,1,1,1,0
+Masculino,1,Zacatecas,1,1,0,0,0,0,1,0
+Femenino,37,Quintana Roo,0,1,0,0,0,0,1,0
+Masculino,82,Tlaxcala,1,1,0,0,0,0,1,1
+Masculino,56,Jalisco,0,1,0,0,0,0,1,1
+Masculino,8,Baja California Sur,0,0,0,1,1,1,1,0
+Femenino,33,Quintana Roo,1,1,0,0,0,0,1,0
+Masculino,81,Tlaxcala,0,0,0,0,0,1,0,0
+Femenino,82,Colima,0,0,1,0,1,1,0,0
+Masculino,85,Oaxaca,0,0,1,0,0,0,1,0
+Femenino,36,Zacatecas,0,1,0,0,0,0,1,1
+Femenino,55,Aguascalientes,1,0,1,1,0,0,1,1
+Femenino,85,Colima,0,0,1,0,0,0,1,0
+Masculino,73,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,62,Chiapas,1,1,0,0,0,0,1,0
+Masculino,47,Veracruz,0,0,0,0,0,1,1,1
+Femenino,30,Morelos,1,1,0,0,0,0,1,0
+Femenino,83,Puebla,1,0,1,1,1,0,1,0
+Masculino,69,Michoacán,0,1,0,0,0,0,0,1
+Femenino,21,Oaxaca,1,1,0,0,0,0,1,1
+Femenino,14,Querétaro,1,0,0,1,0,1,1,1
+Femenino,0,Tamaulipas,0,1,0,0,0,0,1,1
+Masculino,8,Michoacán,1,1,0,0,0,0,1,1
+Masculino,46,Morelos,0,1,0,0,0,0,1,1
+Femenino,61,Michoacán,1,0,0,1,0,0,0,1
+Masculino,100,Campeche,0,1,0,0,0,0,0,0
+Femenino,78,Sinaloa,1,0,0,0,0,0,1,0
+Femenino,10,Hidalgo,1,0,1,0,0,0,1,0
+Masculino,10,Quintana Roo,1,1,0,0,0,0,1,1
+Femenino,42,Puebla,0,1,0,0,0,0,1,0
+Femenino,99,Tlaxcala,1,0,1,1,0,1,1,1
+Femenino,28,Guerrero,0,0,0,0,0,1,0,0
+Masculino,75,Quintana Roo,1,1,0,0,0,0,0,1
+Masculino,40,Quintana Roo,1,0,0,0,0,0,1,1
+Femenino,51,San Luis Potosí,0,0,1,0,0,1,1,1
+Femenino,50,Puebla,1,1,0,0,0,0,1,0
+Femenino,24,Guerrero,0,0,0,0,1,1,1,1
+Femenino,3,Guanajuato,1,0,0,1,0,1,1,0
+Femenino,60,Colima,0,0,1,1,1,0,1,1
+Masculino,69,Zacatecas,0,1,0,0,0,0,0,0
+Femenino,13,Chiapas,0,0,1,0,1,0,1,0
+Masculino,4,Oaxaca,1,0,1,1,1,1,0,1
+Femenino,60,Nuevo León,0,1,0,0,0,0,0,0
+Femenino,88,Ciudad de México,1,1,0,0,0,0,1,1
+Femenino,2,Puebla,0,1,0,0,0,0,1,1
+Masculino,13,Ciudad de México,0,1,0,0,0,0,1,0
+Femenino,66,Querétaro,0,1,0,0,0,0,1,1
+Masculino,35,Guanajuato,0,0,1,1,1,1,1,0
+Masculino,38,Ciudad de México,1,1,0,0,0,0,1,1
+Masculino,85,Ciudad de México,0,1,0,0,0,0,1,1
+Masculino,20,Zacatecas,1,0,0,1,1,1,1,0
+Femenino,98,Chihuahua,0,0,1,0,1,0,0,0
+Masculino,26,Puebla,0,1,0,0,0,0,1,0
+Femenino,89,Guerrero,0,1,0,0,0,0,0,0
+Femenino,88,Chiapas,1,1,0,0,0,0,1,0
+Femenino,31,Tabasco,1,1,0,0,0,0,1,1
+Femenino,18,Morelos,0,0,0,1,0,1,1,1
+Femenino,2,Tabasco,1,0,1,0,0,0,1,0
+Femenino,9,Yucatán,0,1,0,0,0,0,1,0
+Masculino,38,Sinaloa,1,0,1,1,0,0,0,0
+Masculino,78,Veracruz,1,0,0,0,0,1,1,0
+Masculino,26,Hidalgo,1,1,0,0,0,0,1,1
+Masculino,27,Baja California Sur,1,1,0,0,0,0,0,1
+Femenino,11,Coahuila,0,1,0,0,0,0,1,0
+Femenino,22,Ciudad de México,0,1,0,0,0,0,1,0
+Masculino,18,Campeche,0,0,0,1,1,1,1,1
+Masculino,17,Baja California Sur,0,0,1,1,1,0,1,0
+Femenino,12,Sonora,1,0,0,1,0,0,1,0
+Femenino,18,Puebla,0,0,1,0,0,0,1,0
+Masculino,83,Nuevo León,1,1,0,0,0,0,1,0
+Masculino,38,Baja California Sur,1,0,1,0,1,1,1,0
+Femenino,54,Morelos,1,0,1,0,0,1,1,1
+Masculino,87,Sonora,0,1,0,0,0,0,1,0
+Femenino,9,Veracruz,1,1,0,0,0,0,1,0
+Femenino,71,Zacatecas,0,1,0,0,0,0,0,0
+Masculino,53,Michoacán,0,0,0,0,1,1,1,1
+Femenino,93,Nuevo León,0,0,0,1,0,1,1,1
+Femenino,1,Yucatán,0,0,0,1,0,0,1,0
+Masculino,55,Baja California,1,0,1,1,1,0,1,1
+Femenino,53,Guanajuato,1,1,0,0,0,0,1,0
+Femenino,5,Guerrero,1,0,1,0,1,1,1,0
+Femenino,56,Querétaro,0,0,1,0,0,1,1,0
+Femenino,12,Aguascalientes,1,0,0,0,1,0,1,0
+Femenino,77,Guanajuato,1,1,0,0,0,0,0,0
+Masculino,34,Colima,1,1,0,0,0,0,1,0
+Femenino,8,Chiapas,0,1,0,0,0,0,1,1
+Femenino,83,Yucatán,0,0,1,1,1,1,1,1
+Femenino,82,Michoacán,0,0,1,1,0,1,0,0
+Masculino,45,Veracruz,0,1,0,0,0,0,1,0
+Femenino,22,Querétaro,1,0,1,0,1,1,0,1
+Masculino,96,Baja California,1,0,0,0,1,1,0,0
+Femenino,66,Oaxaca,0,0,0,1,1,1,1,0
+Femenino,96,Tabasco,0,0,1,1,0,1,1,1
+Masculino,26,Baja California Sur,0,0,1,1,1,0,0,1
+Femenino,1,Tlaxcala,0,0,0,1,1,1,1,0
+Femenino,15,Quintana Roo,1,1,0,0,0,0,1,1
+Masculino,9,San Luis Potosí,1,0,0,1,1,0,1,1
+Masculino,83,Colima,1,1,0,0,0,0,0,1
+Masculino,10,Nayarit,1,0,0,0,1,1,1,0
+Masculino,72,Michoacán,1,0,1,1,1,1,1,1
+Masculino,8,Nuevo León,0,1,0,0,0,0,1,0
+Masculino,26,Sonora,1,0,1,0,0,0,0,0
+Masculino,10,Chiapas,0,1,0,0,0,0,1,0
+Masculino,52,Yucatán,1,1,0,0,0,0,1,0
+Femenino,59,Ciudad de México,0,0,0,1,1,1,1,0
+Masculino,6,Coahuila,1,0,0,0,1,1,1,1
+Femenino,39,Tabasco,1,1,0,0,0,0,0,0
+Femenino,9,Chihuahua,0,1,0,0,0,0,1,0
+Masculino,72,Nayarit,0,1,0,0,0,0,1,0
+Femenino,77,Nuevo León,0,0,1,1,1,1,1,0
+Femenino,91,Nayarit,1,1,0,0,0,0,0,1
+Masculino,42,Zacatecas,0,1,0,0,0,0,1,0
+Femenino,80,Durango,1,1,0,0,0,0,1,0
+Femenino,0,Guerrero,0,1,0,0,0,0,1,0
+Femenino,69,Veracruz,1,1,0,0,0,0,1,1
+Femenino,18,Querétaro,0,0,0,0,0,0,1,0
+Masculino,12,Nayarit,0,1,0,0,0,0,1,1
+Femenino,8,Campeche,0,0,1,1,0,1,1,1
+Masculino,6,Tamaulipas,1,0,1,0,0,1,0,1
+Masculino,39,Sinaloa,0,0,1,0,1,1,1,0
+Femenino,88,Baja California Sur,0,0,0,1,1,1,0,0
+Masculino,81,Sonora,1,0,1,0,0,0,1,1
+Masculino,83,Chiapas,1,1,0,0,0,0,0,0
+Masculino,37,Sinaloa,1,1,0,0,0,0,0,0
+Masculino,67,Guanajuato,1,0,1,0,1,0,1,0
+Masculino,68,Baja California,0,1,0,0,0,0,0,1
+Masculino,34,Querétaro,0,0,0,1,1,1,1,0
+Masculino,23,Tamaulipas,0,1,0,0,0,0,1,0
+Femenino,34,Quintana Roo,1,0,0,1,0,0,1,1
+Femenino,49,Campeche,0,0,0,1,1,1,1,1
+Masculino,53,Tamaulipas,0,1,0,0,0,0,0,1
+Femenino,86,Coahuila,1,1,0,0,0,0,1,0
+Masculino,44,Tabasco,0,1,0,0,0,0,1,0
+Masculino,63,Jalisco,0,0,0,0,0,0,0,0
+Masculino,61,Durango,1,0,0,1,1,1,0,1
+Femenino,86,Baja California Sur,1,1,0,0,0,0,0,0
+Femenino,5,Hidalgo,0,0,1,0,1,1,1,0
+Femenino,79,Michoacán,0,0,0,0,0,0,1,0
+Masculino,2,Baja California Sur,0,1,0,0,0,0,1,0
+Masculino,26,Puebla,1,1,0,0,0,0,1,0
+Femenino,11,Sinaloa,0,0,0,1,0,1,0,1
+Femenino,26,Baja California,0,0,1,1,0,1,1,1
+Femenino,29,Yucatán,1,1,0,0,0,0,0,1
+Masculino,84,Jalisco,1,0,0,0,0,0,0,0
+Masculino,32,Oaxaca,0,0,1,1,0,1,0,0
+Femenino,14,Zacatecas,0,1,0,0,0,0,1,1
+Masculino,95,Nayarit,1,0,0,1,1,1,1,0
+Femenino,70,Tamaulipas,1,0,0,0,1,1,1,0
+Femenino,14,Michoacán,0,1,0,0,0,0,1,1
+Femenino,13,Guanajuato,1,1,0,0,0,0,1,0
+Masculino,66,Ciudad de México,0,0,1,0,0,0,1,0
+Femenino,90,Guanajuato,1,1,0,0,0,0,1,0
+Masculino,24,Chiapas,0,1,0,0,0,0,1,0
+Masculino,40,Colima,0,1,0,0,0,0,1,0
+Femenino,39,Zacatecas,0,0,0,1,1,1,0,0
+Masculino,39,Tlaxcala,0,1,0,0,0,0,0,1
+Masculino,7,Puebla,1,1,0,0,0,0,1,1
+Femenino,36,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,55,Tamaulipas,0,0,0,1,1,0,0,1
+Femenino,8,Aguascalientes,0,1,0,0,0,0,1,0
+Masculino,68,Oaxaca,0,0,1,1,0,0,0,0
+Femenino,91,Aguascalientes,0,1,0,0,0,0,0,1
+Masculino,11,Morelos,1,0,0,0,0,1,1,0
+Femenino,82,Sinaloa,0,1,0,0,0,0,0,1
+Masculino,12,Colima,0,0,0,1,0,1,1,0
+Masculino,14,Chihuahua,0,1,0,0,0,0,1,1
+Masculino,62,Sonora,1,1,0,0,0,0,0,0
+Femenino,80,Ciudad de México,0,1,0,0,0,0,1,0
+Masculino,0,Coahuila,1,1,0,0,0,0,1,0
+Masculino,62,Zacatecas,1,0,1,1,1,0,1,0
+Masculino,30,Nuevo León,0,1,0,0,0,0,1,0
+Femenino,28,Tlaxcala,0,0,0,1,1,0,1,1
+Femenino,30,Campeche,1,0,0,1,1,0,1,0
+Masculino,0,Morelos,1,0,1,0,1,1,1,0
+Masculino,60,San Luis Potosí,0,0,0,1,0,1,1,0
+Masculino,27,Colima,0,1,0,0,0,0,1,0
+Femenino,0,Aguascalientes,1,1,0,0,0,0,1,0
+Masculino,36,Tlaxcala,0,0,0,1,0,1,0,1
+Femenino,95,Coahuila,0,0,0,1,0,1,1,0
+Femenino,25,Michoacán,1,1,0,0,0,0,1,0
+Masculino,56,Chiapas,1,1,0,0,0,0,1,0
+Masculino,54,Guanajuato,1,1,0,0,0,0,1,0
+Masculino,66,Baja California,1,1,0,0,0,0,0,0
+Masculino,44,San Luis Potosí,1,0,0,1,0,1,0,0
+Femenino,93,Ciudad de México,1,1,0,0,0,0,1,1
+Masculino,21,Durango,1,1,0,0,0,0,1,0
+Femenino,81,Yucatán,1,0,1,0,1,0,1,0
+Masculino,9,Coahuila,0,1,0,0,0,0,1,0
+Femenino,98,Nuevo León,0,0,1,0,0,1,0,0
+Femenino,85,Tamaulipas,1,0,1,0,1,0,0,0
+Masculino,36,Ciudad de México,0,0,0,0,0,1,0,1
+Femenino,6,Hidalgo,0,0,0,1,1,0,1,0
+Femenino,87,Jalisco,0,0,1,1,1,0,1,1
+Femenino,74,Zacatecas,0,0,0,1,0,0,1,0
+Femenino,78,Tamaulipas,0,1,0,0,0,0,1,0
+Femenino,36,Guanajuato,1,1,0,0,0,0,1,0
+Masculino,81,Tlaxcala,0,1,0,0,0,0,0,0
+Masculino,93,Ciudad de México,1,1,0,0,0,0,1,0
+Femenino,14,Nayarit,0,0,0,1,1,1,1,0
+Femenino,87,Morelos,0,1,0,0,0,0,0,0
+Femenino,65,Baja California,1,1,0,0,0,0,0,0
+Femenino,75,Zacatecas,1,1,0,0,0,0,1,0
+Femenino,31,Morelos,0,1,0,0,0,0,1,0
+Masculino,14,Morelos,0,0,0,1,1,1,1,1
+Femenino,68,Sinaloa,0,0,0,1,1,1,1,0
+Femenino,91,Zacatecas,1,1,0,0,0,0,0,0
+Femenino,96,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,4,Quintana Roo,0,1,0,0,0,0,1,0
+Femenino,40,Chihuahua,1,0,1,0,0,0,1,0
+Femenino,50,Michoacán,1,1,0,0,0,0,1,0
+Femenino,71,Chiapas,0,0,0,0,1,1,0,1
+Masculino,89,Colima,0,0,0,1,1,0,0,0
+Masculino,79,Guanajuato,1,1,0,0,0,0,0,1
+Masculino,41,Ciudad de México,0,0,0,0,0,1,1,1
+Femenino,59,San Luis Potosí,0,1,0,0,0,0,1,1
+Femenino,70,Baja California Sur,0,0,0,0,0,1,0,0
+Femenino,50,Querétaro,0,0,0,0,1,0,1,1
+Femenino,59,Colima,1,0,1,0,1,1,1,0
+Masculino,18,Querétaro,0,0,1,1,0,1,0,0
+Masculino,11,Quintana Roo,1,0,0,1,1,0,1,0
+Masculino,33,Colima,1,1,0,0,0,0,0,1
+Masculino,36,Coahuila,0,0,1,1,1,1,0,1
+Femenino,78,Chiapas,0,1,0,0,0,0,0,1
+Femenino,17,Sonora,0,0,1,0,1,0,1,1
+Masculino,96,Colima,0,1,0,0,0,0,0,0
+Femenino,57,Jalisco,0,1,0,0,0,0,1,1
+Masculino,45,Chiapas,0,0,0,1,0,0,1,1
+Masculino,49,Michoacán,1,0,0,1,0,1,1,1
+Femenino,33,Veracruz,0,0,1,1,1,0,1,0
+Femenino,32,Baja California,0,0,1,1,0,1,1,0
+Masculino,88,Guerrero,1,0,1,0,1,1,0,1
+Femenino,55,Veracruz,1,0,0,0,1,1,1,0
+Femenino,90,Colima,1,0,1,1,1,1,0,0
+Masculino,85,Tlaxcala,0,1,0,0,0,0,1,0
+Masculino,32,San Luis Potosí,0,1,0,0,0,0,1,0
+Masculino,34,Michoacán,0,0,1,0,0,1,1,0
+Masculino,37,Colima,0,0,1,0,0,0,1,0
+Femenino,67,Chiapas,1,1,0,0,0,0,0,0
+Femenino,53,Jalisco,1,0,0,0,1,0,0,1
+Masculino,60,Baja California Sur,1,0,1,1,0,0,0,0
+Femenino,25,San Luis Potosí,1,0,1,1,1,1,1,0
+Masculino,59,Coahuila,1,0,1,1,1,1,0,0
+Femenino,33,Tlaxcala,0,0,1,1,0,0,1,0
+Masculino,79,Coahuila,1,0,0,1,1,0,0,0
+Masculino,86,Sinaloa,1,0,1,0,1,1,1,0
+Masculino,81,Aguascalientes,0,1,0,0,0,0,0,1
+Masculino,64,Morelos,1,1,0,0,0,0,1,1
+Masculino,72,Coahuila,0,1,0,0,0,0,0,0
+Femenino,39,Querétaro,1,0,0,1,1,0,0,0
+Femenino,88,Yucatán,0,0,1,0,0,0,1,0
+Femenino,12,Colima,0,0,1,1,0,1,0,0
+Masculino,21,Oaxaca,0,1,0,0,0,0,1,0
+Masculino,33,Durango,1,1,0,0,0,0,1,0
+Femenino,78,San Luis Potosí,0,0,1,0,0,0,0,1
+Femenino,2,Yucatán,1,0,0,0,0,1,1,0
+Masculino,78,Chiapas,1,1,0,0,0,0,1,0
+Femenino,53,Nuevo León,0,1,0,0,0,0,0,0
+Masculino,25,Puebla,0,0,0,1,0,0,1,0
+Femenino,36,Baja California,0,0,0,0,0,1,1,0
+Femenino,28,Tamaulipas,0,1,0,0,0,0,1,0
+Femenino,37,Guanajuato,0,0,0,1,1,1,1,0
+Femenino,81,Aguascalientes,1,1,0,0,0,0,1,1
+Femenino,79,Sinaloa,1,0,0,0,0,0,1,1
+Masculino,7,Oaxaca,0,0,1,1,0,1,1,1
+Masculino,2,Baja California Sur,1,1,0,0,0,0,1,0
+Femenino,84,Puebla,0,1,0,0,0,0,1,0
+Femenino,9,Veracruz,0,0,1,1,0,1,1,0
+Masculino,83,Tamaulipas,0,1,0,0,0,0,0,0
+Masculino,52,Morelos,1,1,0,0,0,0,1,0
+Femenino,13,Puebla,1,1,0,0,0,0,1,0
+Masculino,57,Sonora,0,0,1,0,0,1,1,1
+Masculino,56,Sonora,1,1,0,0,0,0,1,1
+Masculino,70,Campeche,0,1,0,0,0,0,1,0
+Femenino,89,San Luis Potosí,0,0,1,1,0,1,1,1
+Femenino,76,Guerrero,0,0,1,0,0,0,0,0
+Femenino,54,Chihuahua,1,0,1,0,0,0,1,0
+Masculino,62,Tamaulipas,1,0,0,1,1,0,0,0
+Femenino,77,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,93,Chiapas,0,0,1,0,0,0,1,0
+Masculino,7,Veracruz,1,0,1,0,1,1,0,0
+Masculino,38,Baja California,1,0,1,1,1,1,1,0
+Femenino,79,Veracruz,0,0,1,1,1,0,0,0
+Masculino,96,Veracruz,1,1,0,0,0,0,1,0
+Masculino,67,Guanajuato,1,1,0,0,0,0,0,0
+Femenino,55,Tamaulipas,0,0,0,1,0,1,1,1
+Femenino,91,Hidalgo,0,0,1,0,1,1,1,0
+Masculino,37,Campeche,1,1,0,0,0,0,0,1
+Femenino,65,Morelos,0,1,0,0,0,0,1,0
+Femenino,91,Guanajuato,1,0,0,1,1,1,1,1
+Masculino,89,Quintana Roo,1,1,0,0,0,0,0,0
+Femenino,50,Durango,0,0,0,0,0,0,1,1
+Masculino,29,Veracruz,0,1,0,0,0,0,1,0
+Masculino,5,Sinaloa,0,0,1,0,1,0,1,0
+Femenino,16,Tabasco,1,1,0,0,0,0,1,0
+Femenino,79,Tamaulipas,0,1,0,0,0,0,1,0
+Masculino,9,Guanajuato,1,0,0,1,0,0,1,0
+Femenino,14,Querétaro,0,1,0,0,0,0,1,1
+Femenino,15,Tabasco,0,0,1,0,1,1,1,0
+Masculino,91,Durango,1,0,0,1,0,1,0,0
+Femenino,67,San Luis Potosí,1,0,1,0,0,0,0,1
+Masculino,42,Sinaloa,1,1,0,0,0,0,1,0
+Masculino,84,Hidalgo,0,1,0,0,0,0,0,0
+Masculino,75,Tlaxcala,0,1,0,0,0,0,1,1
+Femenino,95,Puebla,1,0,0,1,1,0,1,0
+Masculino,74,Baja California,0,0,1,1,0,1,0,1
+Femenino,86,Baja California Sur,0,0,1,1,0,1,0,0
+Masculino,86,Sonora,1,0,1,0,0,1,0,0
+Masculino,76,Tabasco,0,0,0,1,1,0,1,1
+Femenino,60,Baja California,0,1,0,0,0,0,0,0
+Masculino,45,Hidalgo,1,0,0,1,1,0,1,0
+Femenino,16,Nayarit,1,0,0,0,1,1,1,0
+Masculino,11,Durango,0,0,1,1,0,1,1,0
+Femenino,25,Guerrero,0,0,0,0,1,1,1,1
+Femenino,67,Quintana Roo,1,0,0,0,1,1,1,0
+Femenino,39,Nuevo León,1,1,0,0,0,0,1,1
+Femenino,75,Yucatán,0,0,1,1,1,0,0,0
+Masculino,59,Morelos,1,0,0,0,0,1,1,0
+Femenino,66,San Luis Potosí,0,1,0,0,0,0,1,0
+Masculino,78,Sonora,0,0,0,1,0,0,1,0
+Femenino,39,Hidalgo,0,0,0,0,0,1,1,0
+Masculino,72,Guanajuato,1,0,1,1,0,0,1,1
+Masculino,52,Chihuahua,0,1,0,0,0,0,1,0
+Masculino,0,Veracruz,1,0,1,1,0,0,1,0
+Masculino,85,Guerrero,1,0,1,0,0,1,0,0
+Femenino,91,Tabasco,1,0,1,1,0,1,0,0
+Femenino,2,Sinaloa,0,0,0,1,1,1,1,1
+Femenino,35,Aguascalientes,0,1,0,0,0,0,1,0
+Femenino,15,Quintana Roo,1,1,0,0,0,0,1,1
+Femenino,29,San Luis Potosí,1,1,0,0,0,0,1,0
+Femenino,29,Nuevo León,0,0,0,0,0,0,1,1
+Masculino,73,Baja California Sur,0,0,1,1,0,0,1,0
+Femenino,75,Tabasco,0,0,1,0,1,1,0,0
+Masculino,88,Jalisco,1,1,0,0,0,0,0,0
+Masculino,10,Coahuila,0,1,0,0,0,0,1,0
+Femenino,65,Colima,1,1,0,0,0,0,1,1
+Femenino,65,Zacatecas,1,1,0,0,0,0,0,0
+Femenino,27,Quintana Roo,0,1,0,0,0,0,0,1
+Femenino,41,Oaxaca,1,0,0,1,0,0,1,0
+Femenino,96,Sinaloa,0,1,0,0,0,0,1,0
+Femenino,16,Quintana Roo,0,0,0,0,0,1,1,0
+Femenino,66,Tamaulipas,1,1,0,0,0,0,1,0
+Masculino,91,Michoacán,1,1,0,0,0,0,0,0
+Femenino,13,Nayarit,0,1,0,0,0,0,1,0
+Masculino,42,Hidalgo,0,1,0,0,0,0,0,0
+Masculino,49,Querétaro,0,1,0,0,0,0,1,0
+Masculino,41,Yucatán,0,0,1,0,0,0,1,1
+Femenino,17,Campeche,0,1,0,0,0,0,1,0
+Masculino,71,Zacatecas,0,0,1,1,0,1,0,0
+Masculino,90,Veracruz,1,0,0,0,0,1,1,1
+Femenino,43,Michoacán,1,1,0,0,0,0,1,0
+Masculino,6,Tlaxcala,1,1,0,0,0,0,1,0
+Masculino,42,Tlaxcala,0,0,1,0,0,1,1,1
+Masculino,74,Morelos,1,0,1,1,1,0,0,0
+Masculino,96,Durango,0,0,1,1,1,0,0,0
+Femenino,41,Hidalgo,0,0,0,1,0,0,1,0
+Femenino,80,Guerrero,0,0,0,0,1,0,0,0
+Masculino,31,Chihuahua,1,0,0,1,1,0,0,0
+Femenino,8,Ciudad de México,1,1,0,0,0,0,1,0
+Masculino,36,Sonora,1,0,0,1,1,1,1,0
+Masculino,7,Durango,1,1,0,0,0,0,1,0
+Femenino,45,Michoacán,0,0,1,1,1,0,1,0
+Masculino,38,Sinaloa,0,0,1,0,1,1,1,0
+Femenino,46,Tlaxcala,0,1,0,0,0,0,1,0
+Masculino,3,Campeche,0,0,0,0,0,0,1,0
+Masculino,57,Guanajuato,1,0,0,0,1,1,1,0
+Masculino,4,Chihuahua,1,1,0,0,0,0,1,1
+Femenino,40,Hidalgo,0,0,1,1,0,0,1,1
+Femenino,89,Durango,0,1,0,0,0,0,0,0
+Femenino,6,Tabasco,1,0,0,1,0,1,1,1
+Masculino,58,Guanajuato,0,0,0,1,0,1,1,1
+Femenino,37,Guanajuato,1,1,0,0,0,0,0,0
+Masculino,73,Morelos,0,1,0,0,0,0,1,0
+Femenino,87,Baja California,1,0,0,0,0,1,0,0
+Femenino,49,Querétaro,1,0,1,1,1,1,1,1
+Masculino,67,Nuevo León,1,0,1,1,0,0,0,1
+Femenino,65,Coahuila,0,0,0,0,1,1,0,0
+Masculino,94,Jalisco,0,0,1,1,1,0,0,1
+Masculino,0,Colima,0,1,0,0,0,0,1,0
+Masculino,24,Chihuahua,0,0,1,1,1,1,1,0
+Masculino,75,Tamaulipas,0,0,1,1,1,0,1,1
+Masculino,66,Sinaloa,0,1,0,0,0,0,1,0
+Femenino,47,Baja California Sur,0,1,0,0,0,0,0,1
+Masculino,21,Yucatán,1,0,1,1,1,1,1,0
+Femenino,11,Oaxaca,0,1,0,0,0,0,1,0
+Femenino,25,Baja California,1,0,0,1,0,0,1,0
+Femenino,32,Oaxaca,0,0,0,0,0,0,1,0
+Femenino,80,Coahuila,1,0,1,1,0,1,0,0
+Femenino,43,Tabasco,1,0,1,0,0,1,1,0
+Masculino,37,Guerrero,0,0,0,0,1,1,1,0
+Masculino,63,Quintana Roo,0,1,0,0,0,0,1,0
+Masculino,90,Sinaloa,1,0,1,1,0,1,1,0
+Masculino,54,Chihuahua,1,0,1,1,1,0,1,0
+Femenino,1,Chiapas,1,0,0,0,0,1,1,0
+Masculino,95,Tabasco,1,0,0,0,0,1,0,0
+Masculino,69,Michoacán,0,1,0,0,0,0,1,0
+Femenino,19,Coahuila,0,1,0,0,0,0,1,1
+Femenino,82,Jalisco,1,1,0,0,0,0,0,0
+Femenino,21,Tamaulipas,0,0,0,1,1,0,1,1
+Masculino,48,Tlaxcala,0,1,0,0,0,0,1,1
+Femenino,94,Zacatecas,0,1,0,0,0,0,0,0
+Femenino,96,Querétaro,0,0,1,0,1,0,0,0
+Masculino,71,Sonora,0,1,0,0,0,0,1,0
+Femenino,5,Morelos,1,1,0,0,0,0,1,0
+Masculino,6,Tabasco,1,0,0,1,0,0,1,0
+Femenino,7,Durango,1,0,1,1,1,0,1,1
+Masculino,84,Tamaulipas,0,0,0,1,0,1,1,0
+Masculino,34,Chiapas,0,1,0,0,0,0,1,0
+Masculino,5,Durango,0,1,0,0,0,0,1,0
+Femenino,16,Chihuahua,0,1,0,0,0,0,1,0
+Masculino,88,Puebla,0,1,0,0,0,0,1,0
+Femenino,58,Zacatecas,0,0,0,0,1,0,0,0
+Femenino,2,Tabasco,0,1,0,0,0,0,1,0
+Femenino,69,Tabasco,1,1,0,0,0,0,0,0
+Femenino,8,Sinaloa,1,0,0,0,0,1,0,0
+Femenino,55,Morelos,1,0,0,0,1,0,1,0
+Masculino,95,Colima,0,0,0,0,0,1,0,1
+Femenino,45,Jalisco,0,1,0,0,0,0,1,1
+Masculino,100,Coahuila,0,1,0,0,0,0,0,0
+Femenino,28,Yucatán,1,0,1,0,1,1,0,0
+Masculino,85,Tlaxcala,0,0,0,0,1,1,0,0
+Masculino,65,Michoacán,1,1,0,0,0,0,0,0
+Femenino,69,Oaxaca,1,0,1,1,1,1,0,0
+Femenino,11,Durango,0,0,1,1,0,0,0,1
+Femenino,48,Sinaloa,0,0,1,0,0,1,1,0
+Femenino,56,Puebla,1,1,0,0,0,0,1,0
+Masculino,40,Guerrero,0,0,1,1,1,0,1,0
+Femenino,52,Durango,0,0,1,0,0,0,1,1
+Femenino,6,Hidalgo,1,0,1,0,1,1,1,0
+Femenino,76,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,85,Chihuahua,0,1,0,0,0,0,1,0
+Femenino,37,Tabasco,0,0,0,1,1,1,1,1
+Masculino,94,San Luis Potosí,0,0,1,0,0,0,1,0
+Masculino,52,Baja California,1,1,0,0,0,0,1,1
+Masculino,98,Hidalgo,1,1,0,0,0,0,1,0
+Femenino,42,Durango,0,0,1,0,1,0,1,0
+Femenino,65,Durango,1,0,0,1,0,0,0,0
+Masculino,96,Tlaxcala,1,1,0,0,0,0,1,0
+Femenino,47,Colima,0,1,0,0,0,0,1,1
+Femenino,11,Querétaro,0,0,1,0,1,1,1,1
+Masculino,44,Guanajuato,1,1,0,0,0,0,1,1
+Femenino,21,Guerrero,1,1,0,0,0,0,1,0
+Masculino,25,Zacatecas,0,0,1,1,1,1,1,1
+Femenino,30,Puebla,0,1,0,0,0,0,1,0
+Masculino,59,Morelos,1,1,0,0,0,0,1,0
+Femenino,97,Coahuila,1,0,1,0,0,1,0,1
+Masculino,12,Ciudad de México,0,1,0,0,0,0,1,0
+Femenino,78,Veracruz,1,1,0,0,0,0,0,1
+Femenino,95,Tabasco,0,0,1,0,0,1,0,0
+Masculino,33,Aguascalientes,1,1,0,0,0,0,1,1
+Masculino,71,Michoacán,0,0,1,0,0,0,1,1
+Masculino,69,Colima,1,0,1,0,0,0,0,0
+Femenino,9,Nuevo León,1,0,1,1,1,0,1,1
+Femenino,63,Michoacán,1,0,0,1,0,0,1,0
+Masculino,58,Tamaulipas,0,0,0,1,1,0,1,0
+Masculino,1,Sonora,0,1,0,0,0,0,1,0
+Femenino,74,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,55,Michoacán,1,0,1,0,1,1,1,0
+Femenino,50,Oaxaca,0,0,1,1,1,1,0,0
+Masculino,7,Colima,1,1,0,0,0,0,1,0
+Masculino,67,Nuevo León,0,1,0,0,0,0,1,1
+Femenino,85,Baja California,0,1,0,0,0,0,1,0
+Masculino,29,Ciudad de México,1,1,0,0,0,0,1,0
+Femenino,43,San Luis Potosí,0,1,0,0,0,0,1,0
+Femenino,23,Puebla,0,1,0,0,0,0,1,1
+Masculino,90,Coahuila,0,1,0,0,0,0,1,0
+Femenino,83,Quintana Roo,1,1,0,0,0,0,0,0
+Masculino,34,Tabasco,0,0,0,1,0,0,0,0
+Femenino,44,Puebla,1,1,0,0,0,0,1,0
+Masculino,71,Zacatecas,0,0,1,1,0,1,1,0
+Masculino,50,Morelos,1,0,0,1,1,0,1,0
+Masculino,93,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,77,Hidalgo,1,0,1,0,0,1,1,1
+Femenino,13,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,75,Querétaro,1,0,0,1,0,0,0,0
+Masculino,55,Guanajuato,1,1,0,0,0,0,1,0
+Masculino,78,San Luis Potosí,0,1,0,0,0,0,1,0
+Masculino,2,Tlaxcala,1,1,0,0,0,0,1,0
+Femenino,90,Jalisco,1,0,0,1,0,1,0,1
+Femenino,14,Morelos,1,1,0,0,0,0,1,0
+Femenino,37,Chiapas,0,0,1,1,0,1,1,0
+Femenino,80,Quintana Roo,1,1,0,0,0,0,1,1
+Masculino,96,Baja California,1,0,1,0,1,1,1,1
+Masculino,29,Quintana Roo,0,1,0,0,0,0,0,1
+Masculino,60,Durango,0,0,0,1,1,0,1,0
+Femenino,57,Sinaloa,1,1,0,0,0,0,1,1
+Femenino,43,Guanajuato,1,0,0,1,1,1,0,0
+Femenino,99,Colima,0,1,0,0,0,0,1,0
+Masculino,58,Morelos,0,0,1,1,1,1,0,1
+Masculino,28,Hidalgo,1,0,0,0,1,1,1,0
+Femenino,55,Sinaloa,0,0,1,1,1,1,0,0
+Masculino,43,San Luis Potosí,0,0,1,1,0,0,1,0
+Femenino,40,Puebla,1,1,0,0,0,0,0,0
+Masculino,15,Guerrero,0,1,0,0,0,0,1,1
+Femenino,1,Baja California Sur,1,0,0,0,0,1,1,0
+Masculino,68,Hidalgo,0,1,0,0,0,0,0,0
+Masculino,41,Jalisco,0,0,1,1,0,1,0,0
+Femenino,47,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,62,Tlaxcala,0,0,1,0,1,0,1,1
+Femenino,50,Jalisco,1,1,0,0,0,0,0,1
+Femenino,5,Nayarit,1,1,0,0,0,0,1,0
+Masculino,41,Tamaulipas,1,1,0,0,0,0,0,0
+Masculino,79,Querétaro,1,0,0,1,1,1,0,0
+Masculino,90,Quintana Roo,0,1,0,0,0,0,0,0
+Masculino,14,Jalisco,1,0,1,1,1,0,1,0
+Masculino,23,Tlaxcala,1,1,0,0,0,0,1,0
+Masculino,90,Sonora,0,1,0,0,0,0,1,0
+Masculino,33,San Luis Potosí,1,1,0,0,0,0,1,0
+Masculino,15,Campeche,1,0,0,1,0,1,1,0
+Masculino,4,Chihuahua,0,1,0,0,0,0,1,0
+Masculino,44,Veracruz,0,0,1,1,1,1,1,0
+Femenino,81,Yucatán,0,1,0,0,0,0,1,0
+Femenino,67,Morelos,1,1,0,0,0,0,1,0
+Femenino,52,Hidalgo,0,1,0,0,0,0,0,0
+Masculino,43,Tamaulipas,1,1,0,0,0,0,1,0
+Femenino,50,Durango,1,1,0,0,0,0,0,1
+Masculino,97,Chihuahua,0,0,1,1,1,1,0,0
+Masculino,51,Morelos,1,0,0,0,0,0,1,0
+Femenino,28,Nayarit,0,1,0,0,0,0,1,0
+Femenino,39,Nayarit,1,0,1,1,0,1,0,0
+Masculino,88,Nayarit,1,1,0,0,0,0,0,0
+Femenino,100,Jalisco,0,0,0,0,0,1,1,0
+Masculino,47,Yucatán,0,0,1,1,1,1,0,0
+Masculino,29,Querétaro,1,1,0,0,0,0,1,0
+Masculino,32,Zacatecas,1,0,0,1,0,0,1,0
+Masculino,75,Michoacán,1,0,0,0,1,0,1,0
+Masculino,20,Oaxaca,1,1,0,0,0,0,1,0
+Masculino,67,Aguascalientes,0,1,0,0,0,0,0,1
+Femenino,90,Aguascalientes,0,0,1,0,0,1,1,0
+Femenino,30,Jalisco,0,1,0,0,0,0,0,0
+Masculino,8,Durango,1,0,0,0,0,1,1,0
+Femenino,72,Baja California,0,1,0,0,0,0,1,0
+Masculino,14,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,6,Tabasco,0,1,0,0,0,0,0,1
+Masculino,10,Baja California,1,1,0,0,0,0,1,0
+Femenino,100,Nuevo León,1,1,0,0,0,0,1,0
+Masculino,10,Baja California,0,1,0,0,0,0,1,0
+Femenino,17,Chihuahua,0,0,1,0,1,1,1,0
+Masculino,71,Nuevo León,1,1,0,0,0,0,1,0
+Masculino,91,Jalisco,0,0,1,1,1,0,0,0
+Masculino,52,Colima,0,1,0,0,0,0,1,0
+Femenino,28,Ciudad de México,0,0,1,1,0,1,0,0
+Masculino,93,Baja California Sur,1,1,0,0,0,0,1,0
+Femenino,89,Oaxaca,0,1,0,0,0,0,1,1
+Femenino,34,Nuevo León,0,0,1,0,0,1,1,1
+Femenino,15,Tlaxcala,0,1,0,0,0,0,1,0
+Masculino,71,Chiapas,0,0,0,1,1,0,0,1
+Masculino,15,Nuevo León,0,1,0,0,0,0,1,1
+Masculino,13,San Luis Potosí,0,1,0,0,0,0,1,0
+Femenino,100,Querétaro,1,1,0,0,0,0,0,0
+Masculino,8,Aguascalientes,0,1,0,0,0,0,1,0
+Masculino,17,Colima,1,0,1,0,0,0,1,0
+Masculino,35,Chihuahua,0,0,0,1,1,0,0,0
+Femenino,81,Chiapas,0,0,0,1,0,1,1,0
+Masculino,22,Colima,0,1,0,0,0,0,1,0
+Femenino,56,Aguascalientes,1,0,1,1,0,1,1,0
+Masculino,76,Michoacán,1,1,0,0,0,0,1,0
+Femenino,61,Tamaulipas,0,0,0,0,1,0,0,1
+Masculino,75,Durango,0,0,1,1,0,1,1,1
+Masculino,12,Campeche,0,1,0,0,0,0,0,1
+Femenino,17,Hidalgo,0,1,0,0,0,0,1,1
+Masculino,69,Baja California Sur,0,0,1,0,0,0,1,0
+Femenino,85,Sonora,0,0,1,1,0,0,1,0
+Masculino,24,Baja California,1,1,0,0,0,0,1,0
+Femenino,9,Oaxaca,1,0,1,1,0,1,1,0
+Masculino,51,Tamaulipas,0,1,0,0,0,0,0,1
+Femenino,36,Puebla,1,0,1,1,1,1,0,1
+Masculino,91,Guerrero,1,0,1,1,0,1,0,1
+Femenino,1,Guanajuato,1,0,0,0,0,1,1,1
+Masculino,85,Quintana Roo,0,0,1,1,0,0,0,0
+Femenino,55,Baja California,0,1,0,0,0,0,0,0
+Masculino,81,Jalisco,0,1,0,0,0,0,0,0
+Masculino,43,Tlaxcala,1,0,0,1,0,1,0,0
+Masculino,29,Sinaloa,1,1,0,0,0,0,1,1
+Masculino,23,Durango,0,1,0,0,0,0,1,0
+Femenino,37,Colima,0,0,1,0,1,1,1,0
+Masculino,36,Oaxaca,1,0,0,1,0,0,1,0
+Femenino,90,Durango,1,0,1,0,0,1,0,0
+Masculino,33,Morelos,0,0,1,0,0,1,1,0
+Femenino,68,Colima,0,0,0,0,0,0,1,1
+Femenino,86,Puebla,0,1,0,0,0,0,1,0
+Femenino,38,Jalisco,1,1,0,0,0,0,1,0
+Femenino,34,Ciudad de México,0,0,1,1,0,0,1,0
+Femenino,4,San Luis Potosí,0,0,0,0,0,1,1,1
+Masculino,8,Querétaro,1,0,1,1,1,1,1,0
+Masculino,55,Durango,0,1,0,0,0,0,1,0
+Masculino,46,Durango,1,0,1,0,0,1,1,1
+Femenino,100,Sinaloa,1,1,0,0,0,0,0,0
+Masculino,36,Yucatán,0,1,0,0,0,0,1,0
+Femenino,28,Quintana Roo,0,1,0,0,0,0,1,1
+Femenino,86,Yucatán,0,1,0,0,0,0,0,0
+Masculino,11,Colima,0,0,1,1,1,1,1,0
+Masculino,21,Durango,1,1,0,0,0,0,1,0
+Femenino,87,Baja California,1,0,1,1,0,0,0,0
+Masculino,32,Ciudad de México,1,0,1,1,0,0,0,1
+Masculino,76,Michoacán,0,0,1,1,0,0,0,0
+Masculino,22,Nayarit,1,0,0,1,0,1,1,1
+Masculino,11,Chiapas,1,1,0,0,0,0,1,1
+Masculino,95,Michoacán,1,0,0,1,1,0,0,1
+Masculino,32,Michoacán,0,1,0,0,0,0,1,0
+Masculino,73,Tamaulipas,0,1,0,0,0,0,1,0
+Femenino,90,Baja California,0,1,0,0,0,0,0,1
+Masculino,72,Guerrero,0,1,0,0,0,0,0,0
+Masculino,53,Jalisco,1,1,0,0,0,0,1,0
+Masculino,43,Hidalgo,0,0,0,1,1,1,1,0
+Femenino,44,Durango,0,1,0,0,0,0,1,0
+Masculino,90,Querétaro,1,1,0,0,0,0,0,0
+Femenino,30,Jalisco,0,0,0,0,1,1,0,0
+Femenino,57,Jalisco,1,1,0,0,0,0,1,1
+Masculino,57,Hidalgo,1,0,0,1,1,1,0,0
+Femenino,98,Michoacán,1,0,1,0,1,1,0,0
+Masculino,93,Sinaloa,0,0,1,1,0,1,0,0
+Masculino,74,Tamaulipas,1,1,0,0,0,0,0,1
+Masculino,41,Sonora,1,0,1,1,1,1,0,1
+Masculino,0,Nuevo León,1,0,0,0,1,0,1,1
+Masculino,3,Guanajuato,1,1,0,0,0,0,1,0
+Masculino,1,Tabasco,0,1,0,0,0,0,1,0
+Femenino,71,Guerrero,1,1,0,0,0,0,1,0
+Masculino,94,Ciudad de México,1,0,1,0,1,0,1,0
+Femenino,43,Campeche,0,0,1,1,0,0,1,0
+Masculino,98,Colima,1,1,0,0,0,0,0,0
+Femenino,61,Tabasco,0,1,0,0,0,0,1,0
+Masculino,35,Chihuahua,1,1,0,0,0,0,1,0
+Femenino,11,Zacatecas,1,1,0,0,0,0,1,0
+Femenino,55,Baja California,0,0,1,1,0,1,1,0
+Femenino,63,Colima,0,1,0,0,0,0,1,1
+Femenino,8,Chihuahua,0,1,0,0,0,0,1,0
+Masculino,53,Aguascalientes,0,0,0,1,1,0,1,0
+Femenino,70,Yucatán,1,1,0,0,0,0,0,0
+Masculino,49,Veracruz,0,0,1,1,0,1,1,0
+Femenino,76,Aguascalientes,0,0,1,1,0,0,0,0
+Femenino,27,Jalisco,1,1,0,0,0,0,1,1
+Masculino,44,Sonora,1,0,0,1,1,0,0,0
+Femenino,3,Colima,0,0,0,1,0,0,1,0
+Masculino,64,Guanajuato,1,0,1,1,0,1,1,0
+Masculino,12,Campeche,0,1,0,0,0,0,1,1
+Femenino,98,Guerrero,1,1,0,0,0,0,1,0
+Femenino,90,Nayarit,0,1,0,0,0,0,1,1
+Femenino,31,Chiapas,1,0,1,0,1,1,1,0
+Femenino,76,Tabasco,0,1,0,0,0,0,1,0
+Femenino,20,Aguascalientes,0,0,1,0,1,0,0,0
+Masculino,83,Campeche,1,1,0,0,0,0,1,0
+Masculino,74,Guanajuato,1,0,0,1,0,0,1,0
+Masculino,37,Michoacán,1,0,0,0,1,1,1,1
+Femenino,13,Campeche,0,1,0,0,0,0,1,0
+Femenino,51,Chiapas,1,1,0,0,0,0,1,1
+Femenino,100,Campeche,0,1,0,0,0,0,1,1
+Masculino,72,Oaxaca,0,1,0,0,0,0,1,1
+Femenino,78,Baja California,0,1,0,0,0,0,1,0
+Femenino,63,Coahuila,0,0,0,0,1,0,1,0
+Masculino,49,Morelos,1,1,0,0,0,0,1,0
+Masculino,42,Nayarit,0,0,0,1,0,0,1,0
+Femenino,62,Oaxaca,1,1,0,0,0,0,0,0
+Femenino,35,Colima,0,0,0,1,1,1,1,0
+Masculino,77,Sinaloa,0,0,0,0,0,1,0,1
+Masculino,92,Chihuahua,1,0,0,1,1,1,0,1
+Masculino,23,Tamaulipas,0,1,0,0,0,0,1,0
+Masculino,33,Chiapas,0,1,0,0,0,0,1,0
+Masculino,53,Quintana Roo,1,1,0,0,0,0,1,0
+Masculino,44,Campeche,0,1,0,0,0,0,0,1
+Masculino,58,Zacatecas,0,1,0,0,0,0,1,0
+Femenino,86,Sinaloa,0,1,0,0,0,0,1,1
+Masculino,75,Baja California,1,1,0,0,0,0,0,0
+Masculino,45,Nuevo León,1,0,0,0,0,1,0,0
+Masculino,23,Sonora,0,0,1,1,0,1,0,1
+Femenino,88,Tabasco,1,0,0,1,0,0,1,0
+Masculino,11,Morelos,1,1,0,0,0,0,1,0
+Femenino,92,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,77,Campeche,0,1,0,0,0,0,0,1
+Femenino,32,Tamaulipas,0,1,0,0,0,0,1,0
+Masculino,41,Zacatecas,1,1,0,0,0,0,1,1
+Femenino,70,Guerrero,1,1,0,0,0,0,1,0
+Masculino,24,Baja California,1,1,0,0,0,0,1,0
+Femenino,38,Yucatán,1,0,1,1,0,0,1,0
+Femenino,71,Querétaro,0,0,0,0,0,0,1,1
+Masculino,96,Tabasco,0,1,0,0,0,0,0,0
+Femenino,51,San Luis Potosí,0,0,1,1,1,1,1,1
+Masculino,48,Tlaxcala,1,1,0,0,0,0,1,0
+Masculino,17,Sinaloa,1,1,0,0,0,0,1,0
+Femenino,29,Yucatán,1,0,1,1,0,1,1,0
+Masculino,67,Baja California,1,0,1,1,0,1,1,0
+Masculino,3,Zacatecas,0,1,0,0,0,0,1,0
+Femenino,20,Campeche,1,1,0,0,0,0,1,1
+Masculino,62,Veracruz,1,1,0,0,0,0,0,0
+Masculino,97,Baja California Sur,1,1,0,0,0,0,0,0
+Femenino,14,Quintana Roo,1,1,0,0,0,0,0,1
+Femenino,40,Puebla,1,0,0,0,1,0,1,0
+Masculino,74,Durango,0,0,1,0,1,0,0,0
+Femenino,34,Ciudad de México,1,0,1,0,1,0,1,1
+Femenino,35,Chihuahua,0,0,1,0,0,0,1,0
+Femenino,8,Oaxaca,1,1,0,0,0,0,1,0
+Femenino,34,Tlaxcala,0,0,0,0,1,1,0,1
+Femenino,9,Sonora,0,1,0,0,0,0,1,0
+Femenino,88,Nuevo León,1,0,0,0,1,1,0,1
+Masculino,26,Yucatán,0,0,1,0,1,1,1,1
+Masculino,44,Coahuila,0,0,0,1,0,0,1,0
+Femenino,85,Zacatecas,1,1,0,0,0,0,0,0
+Femenino,63,Tabasco,0,1,0,0,0,0,1,0
+Femenino,85,Sonora,0,0,0,0,0,0,0,0
+Femenino,72,Aguascalientes,0,0,1,1,1,0,1,0
+Masculino,25,Morelos,1,0,1,0,1,1,0,0
+Masculino,83,Colima,1,1,0,0,0,0,1,1
+Femenino,38,Quintana Roo,1,1,0,0,0,0,1,0
+Femenino,73,Colima,0,1,0,0,0,0,0,0
+Femenino,94,Aguascalientes,0,1,0,0,0,0,1,0
+Masculino,16,Puebla,0,0,1,1,1,0,1,0
+Masculino,72,Sinaloa,0,0,0,1,1,0,1,1
+Masculino,19,Veracruz,0,0,0,1,0,0,1,0
+Masculino,98,Jalisco,1,0,1,1,0,0,0,1
+Femenino,80,San Luis Potosí,0,0,0,0,0,1,0,1
+Masculino,20,Nuevo León,0,0,1,0,1,1,1,0
+Femenino,79,Durango,0,0,0,0,0,1,0,0
+Masculino,49,Baja California,1,1,0,0,0,0,0,1
+Femenino,45,Durango,1,0,0,1,1,1,1,0
+Masculino,56,Guerrero,1,1,0,0,0,0,1,0
+Masculino,98,Guerrero,1,0,0,1,0,1,0,0
+Femenino,49,Quintana Roo,1,0,1,0,0,1,1,0
+Femenino,23,Nuevo León,1,1,0,0,0,0,1,0
+Masculino,16,Durango,1,0,1,1,0,0,1,0
+Femenino,34,Hidalgo,1,1,0,0,0,0,1,1
+Femenino,82,Tamaulipas,0,1,0,0,0,0,1,0
+Femenino,20,Veracruz,1,0,1,1,1,0,1,0
+Masculino,26,Coahuila,0,0,1,1,1,1,0,0
+Femenino,62,Guerrero,0,1,0,0,0,0,1,0
+Masculino,48,Yucatán,1,1,0,0,0,0,1,0
+Masculino,46,Ciudad de México,0,1,0,0,0,0,1,0
+Femenino,77,Coahuila,0,0,0,0,0,1,0,0
+Femenino,2,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,14,Colima,1,1,0,0,0,0,1,0
+Masculino,48,Puebla,1,0,0,0,1,1,0,0
+Masculino,52,Baja California,0,0,1,1,0,1,1,0
+Femenino,37,Hidalgo,0,0,0,0,1,0,0,0
+Masculino,32,Campeche,1,0,1,1,1,0,1,0
+Masculino,1,Veracruz,1,1,0,0,0,0,1,0
+Femenino,9,Nayarit,1,0,0,1,1,0,1,1
+Masculino,3,Veracruz,1,1,0,0,0,0,1,1
+Masculino,41,Nuevo León,0,0,0,0,0,1,1,1
+Masculino,68,Querétaro,1,0,1,1,1,0,1,0
+Masculino,34,Coahuila,0,1,0,0,0,0,0,1
+Femenino,80,Chihuahua,0,1,0,0,0,0,0,0
+Masculino,90,Chihuahua,1,1,0,0,0,0,1,1
+Femenino,24,Nuevo León,0,1,0,0,0,0,1,0
+Femenino,91,Puebla,0,0,1,0,1,1,1,0
+Masculino,5,Aguascalientes,0,1,0,0,0,0,1,1
+Femenino,12,Baja California,1,1,0,0,0,0,1,1
+Femenino,47,Colima,0,0,0,0,0,0,1,0
+Masculino,16,Baja California Sur,0,0,0,1,1,0,1,0
+Masculino,43,Sinaloa,0,1,0,0,0,0,1,0
+Femenino,76,Durango,1,1,0,0,0,0,1,0
+Femenino,66,Tamaulipas,1,1,0,0,0,0,0,1
+Femenino,54,Ciudad de México,0,1,0,0,0,0,1,0
+Masculino,6,Querétaro,0,0,0,1,0,1,1,0
+Femenino,57,Sinaloa,1,0,0,0,1,1,0,0
+Masculino,67,Tamaulipas,1,0,1,0,0,0,0,1
+Femenino,0,Nuevo León,1,1,0,0,0,0,0,1
+Femenino,16,Tabasco,1,0,1,0,1,0,1,0
+Femenino,37,Ciudad de México,0,1,0,0,0,0,0,0
+Masculino,8,Tlaxcala,0,1,0,0,0,0,1,0
+Masculino,3,San Luis Potosí,1,0,1,1,0,0,1,0
+Masculino,69,Durango,1,0,0,0,0,0,1,0
+Femenino,30,Aguascalientes,0,1,0,0,0,0,0,0
+Masculino,17,Michoacán,1,1,0,0,0,0,1,0
+Masculino,98,Hidalgo,1,1,0,0,0,0,0,1
+Masculino,100,Aguascalientes,1,0,1,0,1,0,0,0
+Femenino,67,Sinaloa,1,0,1,0,0,1,1,0
+Masculino,42,Baja California,0,1,0,0,0,0,1,0
+Masculino,52,Oaxaca,0,0,1,0,0,0,1,1
+Femenino,52,Quintana Roo,0,0,1,0,0,1,0,0
+Masculino,50,Guerrero,1,0,1,0,0,0,1,0
+Femenino,71,Baja California Sur,1,1,0,0,0,0,1,0
+Femenino,12,Campeche,0,1,0,0,0,0,1,0
+Masculino,6,Morelos,1,0,0,0,1,0,1,0
+Femenino,51,Zacatecas,1,1,0,0,0,0,0,0
+Femenino,82,Querétaro,1,1,0,0,0,0,1,0
+Masculino,27,Durango,1,1,0,0,0,0,0,0
+Femenino,60,Yucatán,0,0,1,1,1,0,0,0
+Femenino,98,Yucatán,1,0,1,1,0,0,0,1
+Femenino,36,Durango,0,0,0,1,0,0,1,0
+Masculino,6,Baja California,0,0,0,1,1,1,1,0
+Femenino,8,Sonora,0,0,0,1,1,0,1,0
+Femenino,45,Durango,1,0,1,0,1,1,0,0
+Masculino,20,Tlaxcala,0,1,0,0,0,0,1,0
+Femenino,99,Hidalgo,1,1,0,0,0,0,1,0
+Femenino,73,Guerrero,0,1,0,0,0,0,1,0
+Femenino,32,Quintana Roo,1,1,0,0,0,0,1,0
+Masculino,83,Morelos,1,1,0,0,0,0,1,0
+Femenino,84,Michoacán,0,0,0,0,0,1,0,1
+Femenino,28,Zacatecas,1,0,1,1,1,1,0,1
+Masculino,63,Querétaro,1,1,0,0,0,0,0,1
+Femenino,77,Querétaro,0,1,0,0,0,0,1,0
+Femenino,57,Puebla,1,0,0,1,0,0,1,0
+Masculino,95,Colima,0,1,0,0,0,0,0,1
+Masculino,93,Guanajuato,0,0,1,0,1,0,1,0
+Masculino,49,Aguascalientes,0,1,0,0,0,0,0,0
+Masculino,31,Baja California Sur,0,1,0,0,0,0,0,0
+Masculino,100,Oaxaca,0,1,0,0,0,0,1,0
+Femenino,18,Guanajuato,1,0,0,1,0,1,1,0
+Masculino,48,Tlaxcala,0,1,0,0,0,0,1,0
+Masculino,100,Sonora,1,0,0,1,1,1,0,1
+Femenino,51,Guerrero,1,1,0,0,0,0,1,0
+Femenino,29,Campeche,0,0,0,1,1,1,0,0
+Femenino,74,Hidalgo,1,0,1,1,1,0,1,0
+Masculino,79,Tamaulipas,0,0,0,1,1,1,1,0
+Femenino,32,Guerrero,1,0,1,0,1,0,0,0
+Femenino,57,Tamaulipas,1,0,0,0,1,0,0,0
+Femenino,2,Guanajuato,1,0,0,0,0,1,1,0
+Masculino,29,Yucatán,0,0,1,0,1,0,1,0
+Femenino,25,Aguascalientes,1,1,0,0,0,0,1,0
+Masculino,78,Guanajuato,1,1,0,0,0,0,0,0
+Masculino,85,Yucatán,0,1,0,0,0,0,1,0
+Masculino,76,Nuevo León,0,1,0,0,0,0,0,0
+Masculino,23,Ciudad de México,0,1,0,0,0,0,1,0
+Masculino,25,Veracruz,0,1,0,0,0,0,1,0
+Femenino,96,Chihuahua,1,1,0,0,0,0,0,0
+Femenino,38,Zacatecas,1,0,0,1,0,0,1,0
+Masculino,61,Guerrero,1,1,0,0,0,0,1,0
+Femenino,19,Sonora,0,0,0,1,0,0,1,1
+Femenino,38,Hidalgo,0,1,0,0,0,0,1,1
+Masculino,57,Baja California,1,0,1,0,0,0,0,0
+Femenino,26,Coahuila,0,1,0,0,0,0,0,0
+Masculino,1,Ciudad de México,0,0,1,1,0,1,1,0
+Femenino,51,Hidalgo,0,1,0,0,0,0,0,1
+Femenino,23,Sonora,0,0,0,1,1,0,1,1
+Femenino,81,Campeche,0,1,0,0,0,0,1,0
+Femenino,17,Jalisco,0,0,0,1,1,1,1,0
+Masculino,53,Tabasco,0,1,0,0,0,0,1,0
+Masculino,45,Yucatán,0,1,0,0,0,0,1,0
+Masculino,35,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,58,Ciudad de México,1,0,0,1,0,1,0,1
+Masculino,22,San Luis Potosí,1,0,1,0,0,1,1,0
+Femenino,7,Durango,0,0,1,1,0,0,1,1
+Masculino,64,Colima,1,0,1,1,1,0,0,1
+Masculino,14,Campeche,0,1,0,0,0,0,1,0
+Masculino,47,Aguascalientes,0,1,0,0,0,0,1,0
+Femenino,68,Sonora,0,1,0,0,0,0,1,0
+Masculino,73,Veracruz,0,1,0,0,0,0,1,0
+Femenino,62,Durango,0,0,0,0,1,1,0,0
+Femenino,99,Sonora,1,0,1,1,0,1,0,0
+Femenino,32,Veracruz,0,1,0,0,0,0,0,0
+Femenino,31,Tabasco,0,0,1,1,1,0,1,1
+Femenino,84,Baja California Sur,0,0,0,1,0,1,0,0
+Masculino,84,Chiapas,0,1,0,0,0,0,1,1
+Masculino,81,Coahuila,1,1,0,0,0,0,0,1
+Femenino,71,San Luis Potosí,1,0,0,0,0,0,1,1
+Masculino,33,Puebla,0,0,0,1,1,0,1,1
+Masculino,50,Guanajuato,0,1,0,0,0,0,0,1
+Masculino,72,Zacatecas,1,1,0,0,0,0,1,0
+Femenino,18,San Luis Potosí,1,0,1,0,0,0,1,0
+Masculino,99,Tlaxcala,1,1,0,0,0,0,1,0
+Femenino,7,San Luis Potosí,1,1,0,0,0,0,1,0
+Femenino,87,Sinaloa,1,0,1,1,0,0,0,1
+Masculino,40,Campeche,0,1,0,0,0,0,1,0
+Masculino,73,Puebla,0,1,0,0,0,0,1,0
+Masculino,55,Morelos,1,0,1,1,1,1,1,0
+Masculino,85,Sinaloa,1,1,0,0,0,0,0,1
+Masculino,58,Aguascalientes,1,1,0,0,0,0,0,0
+Masculino,88,Quintana Roo,1,0,0,0,1,0,0,0
+Masculino,77,Tabasco,0,1,0,0,0,0,1,0
+Femenino,68,Oaxaca,0,1,0,0,0,0,0,0
+Masculino,41,Durango,1,0,0,0,1,0,1,0
+Femenino,3,Durango,0,1,0,0,0,0,1,1
+Femenino,5,Chiapas,1,0,0,1,1,0,0,0
+Masculino,49,Chiapas,0,1,0,0,0,0,0,0
+Masculino,14,Tlaxcala,1,1,0,0,0,0,1,0
+Masculino,26,Campeche,0,0,0,0,0,0,1,0
+Masculino,12,Yucatán,0,1,0,0,0,0,1,1
+Masculino,93,Nayarit,1,1,0,0,0,0,0,0
+Masculino,94,Nayarit,1,0,0,1,0,1,1,1
+Masculino,64,Guanajuato,1,1,0,0,0,0,1,0
+Femenino,29,Aguascalientes,0,1,0,0,0,0,1,0
+Masculino,21,Quintana Roo,0,0,1,1,1,1,0,0
+Femenino,74,Campeche,0,0,0,1,1,0,0,0
+Masculino,80,Aguascalientes,1,0,0,1,1,0,0,0
+Masculino,26,Yucatán,1,0,0,0,1,1,1,1
+Masculino,65,Coahuila,0,1,0,0,0,0,1,0
+Masculino,13,Chihuahua,0,1,0,0,0,0,1,1
+Femenino,27,Ciudad de México,0,0,0,1,0,1,1,0
+Masculino,93,Campeche,1,1,0,0,0,0,0,1
+Masculino,37,Tabasco,1,1,0,0,0,0,1,1
+Masculino,28,San Luis Potosí,0,1,0,0,0,0,0,0
+Masculino,32,Tlaxcala,0,1,0,0,0,0,0,0
+Masculino,26,Hidalgo,1,0,1,1,1,1,0,0
+Masculino,92,Quintana Roo,0,0,0,0,0,1,0,0
+Femenino,91,Ciudad de México,0,0,1,0,0,0,0,0
+Femenino,50,Morelos,0,1,0,0,0,0,1,0
+Masculino,56,Jalisco,0,0,1,0,1,1,1,0
+Masculino,9,Jalisco,1,0,0,1,1,0,1,0
+Masculino,94,Querétaro,0,1,0,0,0,0,1,1
+Femenino,24,Zacatecas,0,0,1,0,0,0,1,1
+Masculino,93,Chiapas,1,0,0,1,0,0,0,0
+Femenino,11,Chihuahua,1,1,0,0,0,0,1,1
+Masculino,30,Ciudad de México,1,1,0,0,0,0,1,1
+Femenino,87,Jalisco,1,1,0,0,0,0,0,1
+Masculino,78,Coahuila,1,0,1,1,1,0,0,0
+Masculino,77,Sinaloa,1,1,0,0,0,0,1,0
+Femenino,19,Baja California Sur,1,0,0,1,1,1,0,1
+Femenino,54,Durango,0,1,0,0,0,0,1,0
+Femenino,36,Hidalgo,0,0,1,1,1,0,0,0
+Femenino,0,Campeche,0,1,0,0,0,0,1,0
+Masculino,85,Tlaxcala,1,0,0,0,1,0,1,0
+Masculino,10,Colima,0,1,0,0,0,0,1,0
+Masculino,50,Chiapas,1,1,0,0,0,0,1,1
+Femenino,75,Chiapas,1,0,1,0,0,0,1,1
+Femenino,77,San Luis Potosí,0,0,1,0,0,1,1,0
+Femenino,77,Chiapas,0,1,0,0,0,0,1,0
+Masculino,30,San Luis Potosí,1,0,0,1,0,0,1,0
+Femenino,19,Campeche,0,0,1,1,1,1,1,1
+Femenino,96,Sonora,1,1,0,0,0,0,1,1
+Masculino,79,Chihuahua,1,0,0,0,1,0,0,0
+Femenino,11,Oaxaca,1,0,1,1,0,1,1,0
+Masculino,72,Colima,1,1,0,0,0,0,0,0
+Femenino,68,Michoacán,0,0,1,1,1,1,0,0
+Femenino,4,Hidalgo,1,0,0,1,0,1,0,0
+Masculino,78,Puebla,0,0,0,0,0,0,0,0
+Masculino,77,Nayarit,0,1,0,0,0,0,1,0
+Masculino,2,Tlaxcala,1,0,0,1,1,1,1,0
+Masculino,62,Campeche,0,1,0,0,0,0,0,0
+Femenino,37,Veracruz,1,1,0,0,0,0,0,0
+Masculino,96,Campeche,0,1,0,0,0,0,0,0
+Femenino,6,Ciudad de México,1,1,0,0,0,0,1,1
+Femenino,32,Tamaulipas,0,1,0,0,0,0,1,0
+Masculino,37,Sonora,1,1,0,0,0,0,1,0
+Femenino,24,Michoacán,0,0,0,1,0,1,1,0
+Masculino,50,Yucatán,0,1,0,0,0,0,1,0
+Femenino,42,Michoacán,0,1,0,0,0,0,0,0
+Masculino,74,Sinaloa,0,1,0,0,0,0,0,0
+Femenino,79,Baja California,1,0,1,1,0,1,0,1
+Masculino,4,Yucatán,1,0,0,0,1,1,1,0
+Masculino,61,Sonora,0,0,1,0,1,1,1,0
+Masculino,44,Quintana Roo,1,1,0,0,0,0,1,0
+Masculino,70,Aguascalientes,0,1,0,0,0,0,1,0
+Femenino,74,Quintana Roo,1,1,0,0,0,0,1,0
+Masculino,74,Campeche,1,1,0,0,0,0,1,0
+Femenino,9,Baja California Sur,0,0,1,0,1,0,1,1
+Femenino,32,Hidalgo,0,1,0,0,0,0,1,0
+Masculino,70,Aguascalientes,1,1,0,0,0,0,0,1
+Masculino,69,Querétaro,0,1,0,0,0,0,1,0
+Masculino,84,Tabasco,0,0,0,1,1,1,0,0
+Femenino,59,Baja California Sur,0,0,0,1,1,1,0,1
+Masculino,29,Quintana Roo,0,0,0,1,1,1,1,0
+Masculino,97,Morelos,0,1,0,0,0,0,0,0
+Femenino,73,Chiapas,0,0,0,0,0,1,1,0
+Masculino,59,Veracruz,0,1,0,0,0,0,0,1
+Masculino,55,Puebla,1,0,1,1,1,1,1,0
+Masculino,82,Michoacán,0,0,0,1,1,0,0,0
+Femenino,29,Querétaro,0,0,0,1,1,0,1,1
+Femenino,3,Chiapas,0,0,0,0,0,1,1,1
+Masculino,79,Nuevo León,1,1,0,0,0,0,0,0
+Femenino,97,Campeche,1,1,0,0,0,0,0,0
+Femenino,65,Ciudad de México,0,0,0,0,0,1,1,0
+Femenino,69,Michoacán,0,0,0,0,0,0,0,0
+Masculino,91,Chiapas,0,1,0,0,0,0,0,0
+Masculino,74,Oaxaca,0,0,0,0,0,0,1,0
+Femenino,84,Veracruz,1,0,1,0,0,1,1,0
+Masculino,42,Guanajuato,0,1,0,0,0,0,0,0
+Masculino,19,Hidalgo,0,1,0,0,0,0,1,0
+Masculino,73,Colima,0,1,0,0,0,0,0,1
+Femenino,36,Guerrero,1,0,1,1,0,0,0,1
+Masculino,8,Morelos,1,0,0,1,1,0,1,0
+Femenino,29,Tlaxcala,0,1,0,0,0,0,1,0
+Femenino,75,Veracruz,1,1,0,0,0,0,1,0
+Femenino,81,Puebla,1,1,0,0,0,0,1,0
+Femenino,53,Chiapas,1,1,0,0,0,0,1,0
+Femenino,89,Puebla,1,0,1,1,1,0,0,1
+Masculino,47,Morelos,1,0,1,0,0,0,0,0
+Femenino,9,Ciudad de México,0,0,1,0,1,1,1,0
+Femenino,30,Coahuila,1,0,0,0,0,1,1,1
+Femenino,82,Hidalgo,1,0,0,0,0,0,1,0
+Masculino,22,Chihuahua,0,1,0,0,0,0,1,0
+Femenino,16,Coahuila,0,0,0,1,0,0,1,1
+Femenino,14,Veracruz,1,1,0,0,0,0,0,0
+Masculino,39,Hidalgo,1,1,0,0,0,0,0,0
+Femenino,95,Chiapas,0,1,0,0,0,0,0,0
+Masculino,29,Baja California,0,1,0,0,0,0,1,0
+Masculino,70,Sinaloa,0,1,0,0,0,0,1,0
+Femenino,54,Michoacán,0,0,1,1,0,0,0,0
+Masculino,2,Guerrero,0,1,0,0,0,0,1,0
+Femenino,25,Durango,0,0,0,1,1,0,1,1
+Masculino,60,Morelos,0,1,0,0,0,0,1,1
+Femenino,97,Coahuila,1,0,1,1,1,1,1,0
+Femenino,22,Sonora,0,0,1,1,0,1,0,0
+Femenino,3,Michoacán,0,1,0,0,0,0,1,0
+Femenino,88,Durango,0,0,1,1,1,0,0,1
+Masculino,6,Tamaulipas,0,0,0,0,0,1,1,0
+Femenino,93,Oaxaca,0,0,1,0,0,1,0,1
+Masculino,50,Guanajuato,1,0,0,0,0,1,1,0
+Masculino,21,Quintana Roo,0,0,1,1,1,1,0,0
+Masculino,22,Chiapas,1,0,1,1,0,0,0,1
+Masculino,65,Chihuahua,1,0,0,0,0,1,1,0
+Masculino,14,Campeche,1,0,1,1,1,0,0,1
+Femenino,38,Yucatán,0,0,0,0,1,0,1,0
+Masculino,37,Nuevo León,1,1,0,0,0,0,1,1
+Femenino,38,Ciudad de México,1,0,1,1,0,0,0,1
+Masculino,62,Baja California,0,0,1,0,0,1,1,0
+Femenino,56,Aguascalientes,1,0,1,1,1,0,0,0
+Masculino,40,Colima,0,0,0,0,1,1,1,1
+Femenino,27,Campeche,1,1,0,0,0,0,1,0
+Femenino,79,Guerrero,1,0,0,0,1,1,1,1
+Masculino,2,Chihuahua,0,0,0,0,0,1,1,0
+Femenino,63,Oaxaca,1,1,0,0,0,0,1,0
+Femenino,34,Sinaloa,0,0,0,0,1,0,1,0
+Femenino,25,Michoacán,0,0,0,1,1,0,1,1
+Masculino,77,Colima,0,0,1,1,1,0,1,0
+Femenino,90,Baja California,0,1,0,0,0,0,1,0
+Femenino,52,Coahuila,0,0,0,0,0,0,0,0
+Masculino,51,Baja California,0,1,0,0,0,0,1,1
+Masculino,36,Chihuahua,1,0,0,1,1,1,1,1
+Femenino,4,Oaxaca,0,1,0,0,0,0,1,1
+Femenino,97,Chihuahua,1,0,1,1,1,0,1,1
+Femenino,2,Tamaulipas,0,0,1,0,1,1,0,0
+Masculino,69,Michoacán,0,0,1,0,0,1,0,0
+Femenino,30,Durango,0,0,1,1,1,0,1,1
+Femenino,63,Colima,0,1,0,0,0,0,1,0
+Masculino,30,Sinaloa,1,0,0,1,1,1,1,0
+Masculino,76,Aguascalientes,1,1,0,0,0,0,0,0
+Masculino,54,San Luis Potosí,0,1,0,0,0,0,1,0
+Femenino,35,Aguascalientes,0,1,0,0,0,0,1,0
+Femenino,65,Chihuahua,1,1,0,0,0,0,1,0
+Femenino,57,Puebla,1,0,1,1,1,0,0,0
+Femenino,74,Colima,1,0,1,0,0,1,0,0
+Masculino,5,San Luis Potosí,0,1,0,0,0,0,1,1
+Masculino,36,Querétaro,1,1,0,0,0,0,1,0
+Femenino,56,Colima,1,0,1,1,1,1,1,1
+Femenino,63,Baja California,0,1,0,0,0,0,1,0
+Masculino,49,Nayarit,0,1,0,0,0,0,1,1
+Femenino,17,Nuevo León,1,0,0,1,1,0,1,1
+Masculino,8,Hidalgo,1,0,1,1,0,0,0,0
+Masculino,58,Yucatán,0,1,0,0,0,0,0,0
+Masculino,48,San Luis Potosí,1,0,0,1,0,0,1,0
+Femenino,15,Oaxaca,1,0,0,0,1,0,1,1
+Masculino,3,Jalisco,0,1,0,0,0,0,1,0
+Femenino,86,Sonora,0,0,1,0,1,0,0,0
+Femenino,73,Durango,0,0,0,0,1,0,0,0
+Masculino,76,Yucatán,1,0,1,0,1,0,0,1
+Femenino,76,Tabasco,0,0,1,0,0,0,0,1
+Femenino,11,Tlaxcala,1,0,0,0,0,1,1,0
+Masculino,51,Coahuila,1,1,0,0,0,0,1,0
+Masculino,14,Yucatán,1,0,1,1,0,0,1,1
+Femenino,39,Durango,1,0,0,1,0,1,1,0
+Masculino,76,Veracruz,0,1,0,0,0,0,1,1
+Masculino,66,Tabasco,1,0,1,1,1,0,0,0
+Femenino,44,Guerrero,1,1,0,0,0,0,1,0
+Masculino,4,Morelos,0,0,1,1,1,1,1,0
+Masculino,9,Chihuahua,1,1,0,0,0,0,1,0
+Masculino,67,Yucatán,0,1,0,0,0,0,1,1
+Femenino,12,Quintana Roo,0,0,1,0,0,1,1,0
+Femenino,24,Durango,0,1,0,0,0,0,1,0
+Masculino,3,Guanajuato,1,0,1,1,0,1,1,1
+Masculino,71,Colima,0,1,0,0,0,0,1,0
+Masculino,23,Quintana Roo,1,0,0,0,1,0,1,0
+Femenino,6,Jalisco,0,1,0,0,0,0,1,0
+Femenino,76,Aguascalientes,1,0,1,0,1,0,1,0
+Femenino,56,Yucatán,1,1,0,0,0,0,1,0
+Femenino,88,Tlaxcala,0,0,0,1,1,0,1,1
+Femenino,7,Guerrero,0,0,0,0,1,1,1,0
+Femenino,15,Oaxaca,1,1,0,0,0,0,1,1
+Femenino,72,Sonora,1,1,0,0,0,0,0,0
+Masculino,87,Yucatán,1,0,0,0,1,0,0,0
+Femenino,6,Baja California,1,1,0,0,0,0,1,0
+Femenino,95,Baja California Sur,0,0,1,1,1,0,1,0
+Masculino,95,Puebla,0,0,1,0,1,1,1,1
+Femenino,40,Tlaxcala,0,1,0,0,0,0,1,0
+Masculino,67,Aguascalientes,1,1,0,0,0,0,1,0
+Masculino,46,Chiapas,0,1,0,0,0,0,1,0
+Masculino,90,Nayarit,1,1,0,0,0,0,1,1
+Masculino,65,Chihuahua,1,0,1,1,0,1,1,0
+Femenino,6,Veracruz,0,1,0,0,0,0,0,0
+Masculino,51,Sonora,0,0,1,0,0,0,1,0
+Femenino,18,Hidalgo,0,0,1,1,1,1,1,1
+Masculino,24,Guerrero,1,1,0,0,0,0,1,0
+Femenino,22,Coahuila,1,0,0,1,1,1,0,0
+Masculino,98,Chihuahua,0,1,0,0,0,0,0,0
+Masculino,80,Veracruz,1,1,0,0,0,0,0,1
+Femenino,51,Zacatecas,1,1,0,0,0,0,1,0
+Masculino,19,Durango,1,0,1,1,1,0,1,1
+Masculino,52,Nayarit,0,0,1,0,0,1,0,0
+Femenino,24,Morelos,0,0,0,0,1,1,1,0
+Femenino,23,Tabasco,0,1,0,0,0,0,1,1
+Masculino,1,Zacatecas,1,0,1,1,0,0,1,1
+Masculino,83,Nuevo León,0,1,0,0,0,0,1,0
+Femenino,91,Nayarit,0,0,0,1,0,0,1,0
+Femenino,65,Yucatán,0,1,0,0,0,0,1,0
+Masculino,46,Durango,0,1,0,0,0,0,1,1
+Femenino,74,Durango,0,0,0,1,0,1,1,0
+Femenino,60,Durango,0,1,0,0,0,0,1,0
+Femenino,90,Sonora,0,0,0,0,0,0,1,0
+Masculino,98,San Luis Potosí,1,0,1,1,1,1,0,1
+Femenino,42,Guanajuato,0,1,0,0,0,0,0,1
+Masculino,52,Yucatán,0,0,1,1,1,0,1,1
+Masculino,53,Jalisco,0,0,0,0,1,1,1,0
+Masculino,40,Nayarit,0,1,0,0,0,0,1,0
+Femenino,71,Tamaulipas,1,0,0,0,0,0,1,0
+Femenino,38,Coahuila,1,0,0,1,0,1,0,0
+Masculino,98,Querétaro,0,0,1,0,1,0,0,0
+Masculino,81,Veracruz,1,0,0,0,0,0,0,0
+Femenino,25,Morelos,0,1,0,0,0,0,1,0
+Femenino,92,Sonora,1,0,0,0,1,0,1,0
+Masculino,51,Chiapas,1,1,0,0,0,0,1,0
+Femenino,60,Oaxaca,1,1,0,0,0,0,1,0
+Femenino,49,Ciudad de México,0,0,1,0,1,1,1,0
+Masculino,77,Aguascalientes,1,1,0,0,0,0,0,0
+Masculino,40,Colima,0,1,0,0,0,0,0,0
+Femenino,97,Nuevo León,1,0,0,0,0,0,0,0
+Femenino,18,Guanajuato,1,1,0,0,0,0,1,0
+Masculino,17,Sonora,0,1,0,0,0,0,0,0
+Masculino,11,Colima,1,0,0,1,1,0,0,0
+Femenino,2,Tamaulipas,1,1,0,0,0,0,1,0
+Masculino,84,Colima,0,1,0,0,0,0,0,0
+Femenino,33,Guerrero,0,1,0,0,0,0,1,0
+Femenino,37,Campeche,0,1,0,0,0,0,1,0
+Masculino,76,Yucatán,0,1,0,0,0,0,1,0
+Femenino,81,Querétaro,0,1,0,0,0,0,0,1
+Masculino,9,Aguascalientes,0,0,1,0,1,1,0,1
+Femenino,71,Yucatán,0,1,0,0,0,0,0,1
+Femenino,7,Jalisco,0,1,0,0,0,0,1,0
+Masculino,82,Baja California Sur,0,1,0,0,0,0,1,1
+Masculino,37,Sinaloa,1,0,0,1,0,0,1,0
+Masculino,54,Ciudad de México,0,1,0,0,0,0,0,0
+Femenino,68,Campeche,1,0,0,0,0,1,0,0
+Femenino,48,Baja California Sur,0,1,0,0,0,0,1,0
+Masculino,65,Coahuila,1,1,0,0,0,0,1,1
+Femenino,74,Quintana Roo,1,0,1,1,1,1,0,1
+Femenino,4,Tabasco,1,0,0,0,1,0,1,0
+Masculino,64,Campeche,1,0,0,1,1,1,0,0
+Masculino,63,Tlaxcala,1,1,0,0,0,0,0,0
+Masculino,88,Ciudad de México,0,1,0,0,0,0,0,1
+Masculino,51,Colima,1,0,0,0,1,0,0,1
+Femenino,30,Quintana Roo,0,0,1,0,1,0,0,0
+Femenino,47,Guanajuato,1,1,0,0,0,0,1,0
+Masculino,3,Chihuahua,1,1,0,0,0,0,1,1
+Femenino,24,Veracruz,1,0,0,1,1,0,1,1
+Masculino,6,Sonora,1,0,0,0,0,0,1,0
+Femenino,51,Veracruz,0,1,0,0,0,0,1,0
+Masculino,12,Tlaxcala,1,0,0,1,1,0,1,0
+Masculino,81,Sinaloa,0,0,0,0,1,0,0,0
+Masculino,73,Puebla,1,1,0,0,0,0,0,0
+Femenino,64,Guerrero,1,0,1,0,0,0,1,0
+Masculino,62,Tamaulipas,1,0,1,1,1,0,0,0
+Masculino,14,San Luis Potosí,1,0,0,0,1,1,1,0
+Masculino,55,Tamaulipas,1,0,0,0,1,1,1,0
+Femenino,70,Guanajuato,1,1,0,0,0,0,1,1
+Femenino,85,Tabasco,0,1,0,0,0,0,1,0
+Femenino,61,Jalisco,1,0,1,1,0,0,0,0
+Masculino,2,Nayarit,0,0,1,1,1,1,1,1
+Masculino,27,Durango,1,0,0,1,1,0,0,0
+Masculino,0,Aguascalientes,1,1,0,0,0,0,1,0
+Masculino,65,Campeche,1,0,0,0,1,0,0,1
+Femenino,87,Chihuahua,1,1,0,0,0,0,0,1
+Femenino,29,Guanajuato,1,1,0,0,0,0,1,0
+Masculino,49,Michoacán,1,1,0,0,0,0,0,0
+Masculino,97,Quintana Roo,1,0,1,1,0,0,0,0
+Femenino,33,Tlaxcala,1,1,0,0,0,0,0,0
+Masculino,46,Quintana Roo,0,0,1,0,0,0,1,1
+Femenino,12,Chiapas,1,1,0,0,0,0,1,0
+Femenino,9,Campeche,1,0,1,1,1,1,1,1
+Masculino,18,Sinaloa,1,1,0,0,0,0,1,0
+Femenino,11,Jalisco,0,1,0,0,0,0,0,0
+Femenino,7,Baja California,0,1,0,0,0,0,1,0
+Femenino,87,Puebla,1,1,0,0,0,0,0,0
+Femenino,79,Guanajuato,1,1,0,0,0,0,1,1
+Masculino,25,Baja California Sur,1,0,1,1,0,0,1,1
+Femenino,62,Jalisco,0,0,0,1,0,0,1,1
+Masculino,89,Nayarit,1,1,0,0,0,0,1,0
+Masculino,5,Michoacán,0,0,0,1,0,1,1,1
+Femenino,24,Tabasco,0,0,0,1,1,0,1,1
+Femenino,46,Oaxaca,1,1,0,0,0,0,1,0
+Masculino,47,Durango,0,0,1,1,1,1,1,0
+Femenino,98,Morelos,0,0,1,0,0,1,1,1
+Femenino,55,Morelos,0,0,0,1,1,0,1,1
+Masculino,41,Veracruz,1,1,0,0,0,0,1,0
+Femenino,93,Michoacán,1,0,0,1,1,0,1,1
+Masculino,56,Chihuahua,0,1,0,0,0,0,1,0
+Femenino,57,Sinaloa,1,1,0,0,0,0,1,0
+Femenino,71,Puebla,0,1,0,0,0,0,0,0
+Femenino,4,Aguascalientes,1,1,0,0,0,0,1,0
+Masculino,93,Hidalgo,1,0,1,0,0,0,1,0
+Masculino,82,Baja California,1,1,0,0,0,0,1,1
+Femenino,9,Guanajuato,1,0,0,0,0,1,1,0
+Femenino,44,San Luis Potosí,0,0,0,1,1,1,1,1
+Masculino,40,Campeche,1,0,1,0,0,1,0,0
+Masculino,24,Nuevo León,0,0,0,0,1,0,1,0
+Femenino,83,Tamaulipas,0,0,0,1,0,0,0,0
+Femenino,25,Campeche,1,1,0,0,0,0,1,0
+Masculino,60,Quintana Roo,0,0,0,1,0,1,0,1
+Masculino,48,San Luis Potosí,1,1,0,0,0,0,0,0
+Masculino,73,Querétaro,1,0,0,0,1,0,1,0
+Femenino,3,Durango,0,0,1,1,0,1,1,0
+Femenino,18,Jalisco,0,0,0,0,0,1,1,0
+Femenino,11,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,45,Zacatecas,0,0,0,0,1,1,0,1
+Femenino,21,Michoacán,0,0,0,1,1,0,1,0
+Masculino,99,Durango,1,1,0,0,0,0,0,0
+Masculino,82,Michoacán,1,1,0,0,0,0,1,1
+Femenino,91,Aguascalientes,0,0,0,0,0,0,1,1
+Masculino,99,Michoacán,1,1,0,0,0,0,0,0
+Masculino,76,Oaxaca,1,1,0,0,0,0,1,0
+Masculino,16,Morelos,0,0,1,0,1,0,1,1
+Masculino,24,Chiapas,1,1,0,0,0,0,1,0
+Femenino,62,Tlaxcala,0,1,0,0,0,0,1,0
+Masculino,82,Guanajuato,1,1,0,0,0,0,1,1
+Femenino,56,Sinaloa,1,0,1,1,0,0,0,0
+Masculino,45,San Luis Potosí,1,0,0,1,0,0,1,0
+Femenino,36,Durango,1,0,0,0,1,1,1,0
+Masculino,69,Campeche,1,1,0,0,0,0,1,0
+Masculino,59,Guanajuato,1,1,0,0,0,0,1,1
+Femenino,9,Morelos,0,1,0,0,0,0,1,0
+Femenino,86,Veracruz,0,1,0,0,0,0,0,0
+Masculino,75,Coahuila,0,0,1,0,1,0,0,1
+Masculino,10,Baja California Sur,0,1,0,0,0,0,1,0
+Masculino,76,Baja California Sur,0,1,0,0,0,0,0,0
+Masculino,58,Quintana Roo,0,1,0,0,0,0,1,0
+Masculino,78,Tlaxcala,0,0,1,1,0,1,0,0
+Masculino,58,Hidalgo,1,1,0,0,0,0,1,1
+Femenino,49,Oaxaca,0,1,0,0,0,0,0,0
+Masculino,44,Durango,1,0,0,0,0,1,1,0
+Masculino,18,Chiapas,1,0,0,0,1,1,1,0
+Femenino,6,Zacatecas,0,1,0,0,0,0,0,0
+Masculino,38,Baja California,1,1,0,0,0,0,1,0
+Femenino,65,Durango,0,0,0,1,1,1,1,1
+Femenino,67,Nayarit,0,1,0,0,0,0,0,0
+Femenino,60,Campeche,1,0,1,0,1,0,1,1
+Masculino,61,Tabasco,1,0,0,0,0,1,1,0
+Femenino,68,Hidalgo,0,1,0,0,0,0,1,0
+Masculino,92,Tlaxcala,1,0,0,0,0,0,1,1
+Masculino,70,Sinaloa,1,0,1,0,1,1,1,0
+Femenino,74,Baja California Sur,0,0,0,1,1,0,0,1
+Femenino,19,Jalisco,1,1,0,0,0,0,1,0
+Femenino,88,Baja California Sur,1,0,1,0,0,1,1,0
+Masculino,14,Hidalgo,0,1,0,0,0,0,1,0
+Femenino,20,Puebla,1,0,1,0,0,0,1,0
+Masculino,79,Morelos,0,0,1,0,1,1,1,1
+Femenino,38,Nayarit,1,0,1,0,0,0,1,0
+Femenino,68,Puebla,1,0,0,1,0,0,0,1
+Femenino,69,Guerrero,0,0,0,1,1,1,0,1
+Masculino,78,Morelos,1,1,0,0,0,0,1,0
+Femenino,72,Quintana Roo,1,0,0,0,0,0,0,1
+Masculino,64,Coahuila,0,0,0,1,0,1,0,0
+Masculino,74,Morelos,0,1,0,0,0,0,0,0
+Masculino,65,Nayarit,0,1,0,0,0,0,1,0
+Femenino,73,Baja California Sur,1,0,1,0,0,1,1,0
+Masculino,53,Guerrero,0,0,1,0,0,1,1,1
+Femenino,2,Zacatecas,0,1,0,0,0,0,1,0
+Femenino,84,Baja California,0,1,0,0,0,0,1,1
+Femenino,90,Chihuahua,1,1,0,0,0,0,0,0
+Femenino,27,Ciudad de México,1,0,0,0,0,0,1,0
+Masculino,54,Morelos,1,1,0,0,0,0,0,1
+Masculino,0,Tabasco,1,1,0,0,0,0,1,0
+Masculino,32,Baja California,1,0,1,0,0,1,1,0
+Masculino,53,Baja California,0,1,0,0,0,0,1,1
+Femenino,88,Jalisco,1,0,1,0,0,1,0,1
+Masculino,38,Chihuahua,0,1,0,0,0,0,1,0
+Femenino,26,Tamaulipas,0,0,1,0,0,1,1,1
+Femenino,58,Hidalgo,1,1,0,0,0,0,0,1
+Masculino,19,Chihuahua,1,0,1,0,1,0,1,1
+Masculino,52,Yucatán,0,1,0,0,0,0,1,0
+Masculino,21,Guanajuato,1,0,0,0,1,0,1,1
+Masculino,71,Michoacán,1,0,0,0,0,1,1,1
+Femenino,28,Chiapas,1,1,0,0,0,0,1,0
+Masculino,20,Quintana Roo,1,1,0,0,0,0,1,0
+Masculino,18,Veracruz,0,0,0,0,0,1,1,0
+Femenino,32,Tlaxcala,0,0,0,1,0,1,1,0
+Femenino,12,Jalisco,0,1,0,0,0,0,1,1
+Masculino,50,Veracruz,0,0,0,0,1,0,1,0
+Femenino,16,Oaxaca,1,0,0,1,1,1,1,1
+Masculino,5,Oaxaca,0,1,0,0,0,0,1,1
+Masculino,90,Coahuila,1,1,0,0,0,0,0,0
+Femenino,57,Morelos,0,0,0,0,0,1,0,1
+Femenino,42,Hidalgo,1,0,0,0,1,1,1,0
+Masculino,75,Nayarit,0,0,1,0,0,1,1,1
+Femenino,30,Baja California,1,1,0,0,0,0,1,0
+Masculino,46,Campeche,1,0,1,0,0,1,1,0
+Masculino,99,Guanajuato,0,0,0,0,0,1,0,0
+Masculino,73,Ciudad de México,0,0,1,0,1,0,0,0
+Masculino,30,Ciudad de México,1,1,0,0,0,0,1,1
+Femenino,30,Durango,0,0,1,0,1,1,1,0
+Masculino,74,Baja California Sur,1,0,0,1,1,1,1,0
+Femenino,24,Sinaloa,0,0,1,0,1,1,1,0
+Masculino,13,Oaxaca,0,1,0,0,0,0,1,0
+Femenino,95,Jalisco,0,1,0,0,0,0,1,0
+Masculino,26,Morelos,1,1,0,0,0,0,1,0
+Femenino,62,Baja California,1,1,0,0,0,0,1,0
+Femenino,98,Puebla,0,1,0,0,0,0,1,0
+Masculino,65,Nuevo León,1,1,0,0,0,0,0,0
+Femenino,81,Veracruz,1,1,0,0,0,0,0,0
+Masculino,39,Ciudad de México,0,1,0,0,0,0,0,1
+Masculino,65,Durango,1,0,1,0,1,0,1,0
+Femenino,36,Oaxaca,0,0,1,1,1,1,0,0
+Femenino,55,Tamaulipas,0,1,0,0,0,0,1,0
+Femenino,3,Chihuahua,1,0,1,0,0,1,1,0
+Femenino,60,Oaxaca,1,0,0,1,0,1,0,0
+Masculino,20,Chihuahua,0,1,0,0,0,0,1,1
+Femenino,74,Veracruz,0,1,0,0,0,0,0,0
+Masculino,44,Oaxaca,0,1,0,0,0,0,1,0
+Femenino,73,Zacatecas,1,0,1,1,0,0,0,1
+Masculino,97,Querétaro,1,1,0,0,0,0,1,0
+Femenino,19,San Luis Potosí,1,1,0,0,0,0,0,0
+Femenino,87,Tamaulipas,1,1,0,0,0,0,1,1
+Femenino,28,Guanajuato,1,1,0,0,0,0,1,1
+Masculino,29,Hidalgo,1,1,0,0,0,0,1,0
+Femenino,91,Campeche,0,0,0,0,1,0,1,0
+Masculino,85,Nayarit,1,1,0,0,0,0,1,0
+Femenino,16,Baja California,0,1,0,0,0,0,1,0
+Femenino,87,Quintana Roo,1,0,1,1,1,1,0,0
+Femenino,35,Nayarit,0,0,0,1,1,0,1,0
+Femenino,89,Querétaro,0,0,0,0,1,1,1,0
+Masculino,88,Chiapas,1,0,0,0,1,1,1,0
+Masculino,52,Morelos,1,0,1,0,1,1,0,0
+Femenino,17,Oaxaca,1,0,0,1,0,1,1,0
+Masculino,33,San Luis Potosí,1,1,0,0,0,0,0,1
+Femenino,20,Sinaloa,0,1,0,0,0,0,0,0
+Femenino,11,Zacatecas,1,1,0,0,0,0,1,0
+Femenino,69,San Luis Potosí,0,0,0,0,1,1,1,0
+Femenino,34,Tabasco,1,0,1,0,0,0,1,0
+Femenino,45,Michoacán,0,1,0,0,0,0,1,1
+Femenino,9,Veracruz,0,0,0,0,1,1,1,0
+Femenino,52,Jalisco,1,1,0,0,0,0,1,1
+Femenino,57,Campeche,0,0,1,1,0,1,1,1
+Femenino,85,Morelos,0,0,1,1,0,0,1,1
+Masculino,18,Morelos,1,0,1,1,1,0,1,0
+Masculino,65,Durango,0,1,0,0,0,0,1,0
+Masculino,43,Nuevo León,0,0,0,1,1,1,1,1
+Masculino,87,Tlaxcala,0,0,0,0,1,1,1,1
+Femenino,31,Tabasco,1,1,0,0,0,0,1,0
+Femenino,53,Puebla,1,1,0,0,0,0,1,0
+Masculino,81,Ciudad de México,1,1,0,0,0,0,0,0
+Femenino,27,Ciudad de México,1,0,1,0,1,0,1,0
+Femenino,70,Jalisco,0,1,0,0,0,0,0,0
+Masculino,25,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,21,Durango,0,0,1,1,0,0,0,0
+Masculino,91,Oaxaca,1,1,0,0,0,0,0,0
+Femenino,30,Campeche,1,1,0,0,0,0,1,0
+Femenino,6,Zacatecas,1,1,0,0,0,0,1,1
+Masculino,19,Coahuila,1,0,0,0,0,1,1,0
+Masculino,100,Durango,1,0,0,1,0,1,1,0
+Femenino,30,San Luis Potosí,0,0,1,0,0,0,0,0
+Masculino,78,Michoacán,0,1,0,0,0,0,0,0
+Femenino,48,Chihuahua,1,1,0,0,0,0,1,0
+Femenino,79,Oaxaca,0,0,1,0,0,0,1,0
+Femenino,35,Morelos,1,0,1,1,0,0,1,0
+Masculino,33,Zacatecas,1,0,0,1,0,1,1,0
+Femenino,40,Sinaloa,1,0,0,0,0,1,1,0
+Femenino,80,Guerrero,0,0,0,1,1,0,0,0
+Masculino,27,Sonora,1,1,0,0,0,0,1,0
+Masculino,18,Morelos,1,1,0,0,0,0,1,1
+Femenino,88,Tabasco,1,1,0,0,0,0,1,0
+Femenino,41,Guanajuato,0,0,0,0,0,1,1,0
+Femenino,56,Yucatán,1,0,1,1,0,1,1,0
+Masculino,43,Aguascalientes,1,0,0,0,0,1,0,1
+Masculino,89,Sinaloa,0,0,1,0,0,0,1,0
+Masculino,86,Veracruz,0,1,0,0,0,0,0,1
+Femenino,77,Sonora,0,1,0,0,0,0,0,1
+Femenino,89,Coahuila,1,1,0,0,0,0,0,0
+Masculino,100,Puebla,0,1,0,0,0,0,1,0
+Femenino,16,Ciudad de México,1,1,0,0,0,0,1,0
+Femenino,9,Michoacán,0,0,0,1,0,0,0,1
+Masculino,26,Jalisco,1,1,0,0,0,0,1,1
+Masculino,50,Querétaro,0,0,1,0,1,0,0,0
+Masculino,1,Durango,0,0,1,1,1,1,1,0
+Femenino,17,Coahuila,0,1,0,0,0,0,1,0
+Femenino,12,Durango,0,0,0,0,0,1,1,0
+Masculino,94,Ciudad de México,1,1,0,0,0,0,0,0
+Masculino,90,Chihuahua,0,0,0,0,1,0,1,1
+Masculino,86,Zacatecas,0,1,0,0,0,0,0,1
+Masculino,94,Puebla,1,0,1,0,1,0,0,0
+Femenino,4,Guanajuato,1,0,0,0,0,1,0,0
+Masculino,16,Michoacán,0,1,0,0,0,0,1,1
+Femenino,11,Aguascalientes,0,0,1,1,1,1,1,1
+Femenino,75,Puebla,1,0,1,0,1,1,1,1
+Femenino,66,San Luis Potosí,0,0,1,1,0,1,0,1
+Masculino,85,Nuevo León,0,0,1,0,0,1,1,0
+Femenino,37,Yucatán,1,1,0,0,0,0,1,0
+Masculino,68,Tabasco,0,0,1,0,0,0,1,0
+Femenino,58,Tlaxcala,1,1,0,0,0,0,1,1
+Masculino,17,Campeche,1,1,0,0,0,0,1,0
+Masculino,67,Colima,1,0,1,1,0,1,0,0
+Femenino,8,Ciudad de México,1,0,1,1,1,1,1,1
+Femenino,40,Oaxaca,1,1,0,0,0,0,1,1
+Femenino,11,Nuevo León,1,0,1,1,1,0,0,1
+Masculino,95,Ciudad de México,1,0,1,1,0,0,1,1
+Masculino,86,Campeche,1,0,1,1,0,1,1,0
+Femenino,68,Baja California,1,1,0,0,0,0,1,0
+Masculino,9,Veracruz,0,0,0,0,1,0,1,0
+Femenino,97,Michoacán,0,1,0,0,0,0,1,0
+Femenino,78,Michoacán,0,1,0,0,0,0,1,0
+Femenino,84,Tabasco,1,0,0,0,1,0,1,0
+Masculino,92,Guerrero,0,0,0,0,0,1,0,0
+Masculino,72,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,49,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,32,Baja California,0,0,0,1,0,0,1,0
+Femenino,76,Guerrero,1,0,0,0,0,0,1,0
+Femenino,75,Baja California Sur,0,1,0,0,0,0,0,1
+Masculino,69,Querétaro,1,1,0,0,0,0,1,0
+Masculino,74,Morelos,0,1,0,0,0,0,0,0
+Femenino,26,Tlaxcala,0,1,0,0,0,0,1,0
+Femenino,59,Oaxaca,0,1,0,0,0,0,1,0
+Femenino,1,Querétaro,0,0,0,0,1,1,1,0
+Masculino,91,Durango,1,0,1,1,0,1,0,0
+Femenino,9,Morelos,1,1,0,0,0,0,1,0
+Femenino,73,Hidalgo,1,0,1,0,0,1,1,1
+Femenino,78,Aguascalientes,1,0,1,1,0,1,0,1
+Masculino,18,Puebla,1,1,0,0,0,0,1,0
+Masculino,61,Chihuahua,0,1,0,0,0,0,1,0
+Femenino,46,Coahuila,1,0,1,1,1,0,0,0
+Masculino,73,Colima,1,0,0,0,0,1,0,0
+Masculino,92,Guanajuato,0,1,0,0,0,0,0,0
+Femenino,22,Tlaxcala,1,1,0,0,0,0,1,1
+Masculino,96,Chihuahua,0,0,0,0,0,1,1,0
+Femenino,29,Querétaro,1,0,1,1,1,1,1,1
+Masculino,5,Querétaro,0,1,0,0,0,0,1,0
+Femenino,69,Chiapas,1,1,0,0,0,0,1,0
+Masculino,7,San Luis Potosí,1,1,0,0,0,0,1,1
+Femenino,24,Sonora,0,1,0,0,0,0,1,0
+Femenino,82,Tlaxcala,0,1,0,0,0,0,1,0
+Femenino,21,Nayarit,1,1,0,0,0,0,1,0
+Femenino,47,Quintana Roo,1,0,0,0,1,0,0,0
+Femenino,65,Puebla,0,0,1,1,1,1,1,0
+Masculino,3,Quintana Roo,0,1,0,0,0,0,1,0
+Masculino,68,Jalisco,0,1,0,0,0,0,1,0
+Masculino,93,Colima,1,1,0,0,0,0,0,0
+Femenino,22,Zacatecas,1,1,0,0,0,0,0,0
+Masculino,4,Chihuahua,0,0,1,1,0,0,1,0
+Masculino,64,Tlaxcala,1,1,0,0,0,0,1,0
+Masculino,97,Chiapas,0,0,0,1,1,1,0,0
+Femenino,66,Quintana Roo,1,1,0,0,0,0,1,1
+Masculino,68,Baja California,0,0,0,1,1,1,0,0
+Masculino,69,Querétaro,1,0,1,0,1,1,0,1
+Femenino,83,Zacatecas,0,0,1,1,0,1,0,0
+Femenino,42,Nuevo León,1,1,0,0,0,0,0,1
+Masculino,94,Querétaro,1,1,0,0,0,0,0,0
+Femenino,74,Chiapas,0,0,1,1,0,0,1,1
+Masculino,17,Ciudad de México,1,0,0,0,1,1,1,1
+Masculino,60,Quintana Roo,1,0,1,0,0,1,0,0
+Femenino,100,Sonora,0,0,1,0,0,1,0,1
+Femenino,41,Jalisco,1,1,0,0,0,0,1,0
+Masculino,81,Querétaro,1,0,1,0,1,1,0,0
+Femenino,73,Puebla,0,0,1,0,0,1,0,0
+Masculino,53,Tamaulipas,0,0,1,1,1,0,0,0
+Masculino,80,San Luis Potosí,0,0,0,0,0,1,0,0
+Femenino,90,Baja California Sur,0,1,0,0,0,0,1,0
+Femenino,100,Querétaro,1,1,0,0,0,0,0,0
+Femenino,89,Sonora,1,1,0,0,0,0,0,0
+Femenino,44,Hidalgo,1,1,0,0,0,0,0,0
+Masculino,21,San Luis Potosí,0,1,0,0,0,0,1,0
+Masculino,55,Oaxaca,0,1,0,0,0,0,1,0
+Masculino,29,Colima,1,1,0,0,0,0,1,0
+Femenino,57,Puebla,0,0,1,0,0,0,0,0
+Masculino,17,Puebla,0,1,0,0,0,0,1,0
+Femenino,22,Morelos,1,1,0,0,0,0,1,0
+Masculino,46,Nuevo León,1,1,0,0,0,0,0,1
+Femenino,55,Michoacán,0,0,0,1,0,0,1,0
+Masculino,22,Michoacán,0,0,0,0,0,0,1,0
+Femenino,17,Chihuahua,1,0,1,1,1,1,1,0
+Femenino,19,Baja California,0,0,1,1,1,0,1,0
+Masculino,56,Ciudad de México,1,1,0,0,0,0,1,0
+Masculino,36,San Luis Potosí,0,1,0,0,0,0,1,0
+Femenino,70,Baja California Sur,0,1,0,0,0,0,0,1
+Masculino,73,Durango,0,0,0,1,0,1,0,0
+Masculino,69,Chiapas,0,0,0,1,1,1,1,1
+Masculino,64,Puebla,1,0,0,1,1,1,1,0
+Femenino,9,Tlaxcala,0,0,1,0,0,0,1,1
+Femenino,41,Coahuila,0,1,0,0,0,0,1,0
+Masculino,58,Jalisco,1,1,0,0,0,0,1,0
+Masculino,79,Nayarit,1,0,1,1,0,1,1,1
+Femenino,38,Tabasco,1,1,0,0,0,0,0,0
+Masculino,15,Campeche,1,1,0,0,0,0,1,0
+Femenino,56,Campeche,0,1,0,0,0,0,1,0
+Masculino,74,Ciudad de México,1,1,0,0,0,0,1,0
+Femenino,10,Aguascalientes,1,1,0,0,0,0,1,0
+Masculino,20,Michoacán,1,1,0,0,0,0,1,1
+Femenino,42,Chiapas,0,1,0,0,0,0,1,0
+Masculino,8,Quintana Roo,0,0,1,0,1,0,1,1
+Femenino,8,Coahuila,1,0,1,1,0,1,1,1
+Femenino,33,Aguascalientes,1,0,0,1,0,1,1,0
+Masculino,81,Yucatán,0,0,0,0,1,1,0,0
+Femenino,8,Puebla,1,1,0,0,0,0,1,1
+Femenino,40,Jalisco,0,0,0,0,1,0,1,1
+Masculino,44,Quintana Roo,0,1,0,0,0,0,1,0
+Femenino,74,Chihuahua,0,0,0,0,1,1,0,0
+Femenino,19,Sonora,0,0,0,1,0,1,0,0
+Masculino,74,Sonora,0,1,0,0,0,0,1,0
+Masculino,28,Hidalgo,1,0,0,1,0,1,1,0
+Masculino,93,Sinaloa,1,0,1,0,0,1,1,0
+Masculino,81,Sonora,1,1,0,0,0,0,1,1
+Masculino,1,Yucatán,0,0,1,1,0,0,0,1
+Femenino,45,Veracruz,0,0,1,0,1,0,1,0
+Femenino,18,Ciudad de México,0,1,0,0,0,0,1,0
+Femenino,31,Zacatecas,0,1,0,0,0,0,1,0
+Masculino,56,Guerrero,0,1,0,0,0,0,0,0
+Masculino,0,Baja California,0,0,0,1,0,1,1,1
+Femenino,84,Michoacán,1,0,1,1,1,1,1,0
+Femenino,15,Morelos,1,0,1,1,0,0,1,0
+Femenino,33,Oaxaca,1,1,0,0,0,0,1,0
+Masculino,86,Aguascalientes,1,1,0,0,0,0,0,0
+Femenino,0,Puebla,0,1,0,0,0,0,1,0
+Masculino,85,Morelos,1,0,1,1,0,1,0,0
+Femenino,68,Michoacán,1,1,0,0,0,0,1,0
+Femenino,21,San Luis Potosí,0,0,1,1,1,1,0,0
+Masculino,40,Aguascalientes,1,0,0,1,0,1,1,0
+Femenino,67,Querétaro,0,0,0,1,1,1,0,0
+Masculino,26,Jalisco,1,0,1,0,0,1,1,1
+Masculino,71,Coahuila,0,1,0,0,0,0,1,1
+Femenino,33,Aguascalientes,1,1,0,0,0,0,1,0
+Femenino,65,Hidalgo,1,1,0,0,0,0,0,0
+Femenino,56,Baja California,0,1,0,0,0,0,1,0
+Masculino,89,San Luis Potosí,0,0,1,0,1,1,0,1
+Masculino,21,Jalisco,0,0,1,0,0,1,0,1
+Femenino,85,Campeche,0,1,0,0,0,0,1,0
+Masculino,67,Chihuahua,1,0,1,1,0,1,1,0
